@@ -1,0 +1,1678 @@
+{
+ "version": "2026-10-09 11:36",
+ "image": {
+  "width": 2340,
+  "height": 1082,
+  "corners": [
+   [
+    25.5,
+    42.5
+   ],
+   [
+    45.0,
+    42.5
+   ],
+   [
+    45.0,
+    35.50295876678908
+   ],
+   [
+    25.5,
+    35.50295876678908
+   ]
+  ]
+ },
+ "bbox": [
+  25.5,
+  35.5,
+  45.0,
+  42.5
+ ],
+ "gcms": [
+  "ACCESS-CM2",
+  "CMCC-ESM2",
+  "EC-Earth3-Veg",
+  "INM-CM5-0",
+  "IPSL-CM6A-LR",
+  "MIROC6",
+  "MPI-ESM1-2-HR",
+  "MRI-ESM2-0"
+ ],
+ "scenarios": [
+  {
+   "id": "126",
+   "name_en": "Paris pathway (SSP1-2.6)",
+   "name_tr": "Paris hedefi (SSP1-2.6)"
+  },
+  {
+   "id": "245",
+   "name_en": "Middle of the road (SSP2-4.5)",
+   "name_tr": "Orta yol (SSP2-4.5)"
+  },
+  {
+   "id": "585",
+   "name_en": "High emissions (SSP5-8.5)",
+   "name_tr": "Yüksek emisyon (SSP5-8.5)"
+  }
+ ],
+ "periods": [
+  {
+   "id": "2021-2040",
+   "label": "2030s"
+  },
+  {
+   "id": "2041-2060",
+   "label": "2050s"
+  },
+  {
+   "id": "2061-2080",
+   "label": "2070s"
+  },
+  {
+   "id": "2081-2100",
+   "label": "2090s"
+  }
+ ],
+ "reference": "current",
+ "terrain": true,
+ "terrain_version": "d200fb9aa04c",
+ "terrain_note": {
+  "en": "Includes terrain: crop altitude limits (moving up ~200 m per +1 °C of local warming; fixed for pistachio and almond, where late spring frost sets the limit) and slope limits from 450 m ETOPO 2022 slopes.",
+  "tr": "Arazi dahil: ürüne özgü rakım sınırı (yerel ısınmanın her +1 °C'si için ~200 m yukarı kayar; sınırı geç donun belirlediği Antep fıstığı ve bademde sabit) ve 450 m ETOPO 2022 eğiminden eğim sınırı."
+ },
+ "states": [
+  {
+   "id": "baseline",
+   "scenario": null,
+   "period": "1970-2000",
+   "label": "1970–2000"
+  },
+  {
+   "id": "current",
+   "scenario": null,
+   "period": "1991-2020",
+   "label": "1991–2020"
+  },
+  {
+   "id": "ssp126_2021-2040",
+   "scenario": "126",
+   "period": "2021-2040",
+   "label": "2030s"
+  },
+  {
+   "id": "ssp126_2041-2060",
+   "scenario": "126",
+   "period": "2041-2060",
+   "label": "2050s"
+  },
+  {
+   "id": "ssp126_2061-2080",
+   "scenario": "126",
+   "period": "2061-2080",
+   "label": "2070s"
+  },
+  {
+   "id": "ssp126_2081-2100",
+   "scenario": "126",
+   "period": "2081-2100",
+   "label": "2090s"
+  },
+  {
+   "id": "ssp245_2021-2040",
+   "scenario": "245",
+   "period": "2021-2040",
+   "label": "2030s"
+  },
+  {
+   "id": "ssp245_2041-2060",
+   "scenario": "245",
+   "period": "2041-2060",
+   "label": "2050s"
+  },
+  {
+   "id": "ssp245_2061-2080",
+   "scenario": "245",
+   "period": "2061-2080",
+   "label": "2070s"
+  },
+  {
+   "id": "ssp245_2081-2100",
+   "scenario": "245",
+   "period": "2081-2100",
+   "label": "2090s"
+  },
+  {
+   "id": "ssp585_2021-2040",
+   "scenario": "585",
+   "period": "2021-2040",
+   "label": "2030s"
+  },
+  {
+   "id": "ssp585_2041-2060",
+   "scenario": "585",
+   "period": "2041-2060",
+   "label": "2050s"
+  },
+  {
+   "id": "ssp585_2061-2080",
+   "scenario": "585",
+   "period": "2061-2080",
+   "label": "2070s"
+  },
+  {
+   "id": "ssp585_2081-2100",
+   "scenario": "585",
+   "period": "2081-2100",
+   "label": "2090s"
+  }
+ ],
+ "crops": [
+  {
+   "id": "wheat",
+   "name_en": "Wheat",
+   "name_tr": "Buğday",
+   "group": "field",
+   "icon": "🌾",
+   "sci": "Triticum aestivum L.",
+   "ecocrop": "Wheat, common",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "ECOCROP yağış optimumu (750 mm) Anadolu kuru tarım buğdayı için çok yüksek (Konya ≈ 320 mm); optimum alt sınırı 450 mm, mutlak alt sınır 200 mm alındı. KTMP 0 → −12: kışlık buğday kış donuna dayanıklıdır, ECOCROP değeri ilkbahar penceresini yanlışlıkla eler. TMIN 5 → 0 ve TOPMN 15 → 10: kışlık buğday 0 °C taban sıcaklığıyla kışın da yavaş gelişir (GAP ve Ege'de Kasım–Mayıs sezonu).",
+   "temp": [
+    0,
+    10,
+    23,
+    27
+   ],
+   "rain": [
+    200,
+    450,
+    1000,
+    1600
+   ],
+   "ph": [
+    5.5,
+    6.0,
+    7.0,
+    8.5
+   ],
+   "ktmp": -12,
+   "duration": 120
+  },
+  {
+   "id": "barley",
+   "name_en": "Barley",
+   "name_tr": "Arpa",
+   "group": "field",
+   "icon": "🌾",
+   "sci": "Hordeum vulgare L.",
+   "ecocrop": "Barley",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "Yağış optimumu 500 → 400 mm ve alt sınır 200 → 180 mm (arpa buğdaydan kurakçıldır); PHMAX 8.0 → 8.5 (Anadolu kireçli toprakları); KTMP −4 → −12 (kışlık arpa). Sıcaklık [2,15,20,40] → [0,10,22,30] (kış gelişimi; ECOCROP TMAX 40 aşırı geniş).",
+   "temp": [
+    0,
+    10,
+    22,
+    30
+   ],
+   "rain": [
+    180,
+    400,
+    1000,
+    2000
+   ],
+   "ph": [
+    6.0,
+    6.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": -12,
+   "duration": 120
+  },
+  {
+   "id": "maize",
+   "name_en": "Maize",
+   "name_tr": "Mısır",
+   "group": "field",
+   "icon": "🌽",
+   "sci": "Zea mays L.",
+   "ecocrop": "Maize",
+   "model": "annual",
+   "water": "irrigated",
+   "calib": "Genel ECOCROP mısır değerleri; TMAX 47 → 45; süre 120 gün (İç Anadolu'da kısa-orta FAO grubu melezler).",
+   "temp": [
+    10,
+    18,
+    33,
+    45
+   ],
+   "rain": [
+    500,
+    600,
+    1200,
+    1800
+   ],
+   "ph": [
+    5.0,
+    5.5,
+    7.0,
+    8.5
+   ],
+   "ktmp": 0,
+   "duration": 120
+  },
+  {
+   "id": "rice",
+   "name_en": "Rice",
+   "name_tr": "Çeltik",
+   "group": "field",
+   "icon": "🍚",
+   "sci": "Oryza sativa L. (japonica)",
+   "ecocrop": "Rice paddy (Japonica)",
+   "model": "annual",
+   "water": "irrigated",
+   "calib": "ECOCROP değerleri; süre 110 → 140 gün (Türkiye çeşitleri 130–150 gün).",
+   "temp": [
+    10,
+    20,
+    30,
+    36
+   ],
+   "rain": [
+    1000,
+    1500,
+    2000,
+    4000
+   ],
+   "ph": [
+    4.5,
+    5.5,
+    7.0,
+    9.0
+   ],
+   "ktmp": 0,
+   "duration": 140
+  },
+  {
+   "id": "chickpea",
+   "name_en": "Chickpea",
+   "name_tr": "Nohut",
+   "group": "field",
+   "icon": "🫘",
+   "sci": "Cicer arietinum L.",
+   "ecocrop": "Chick pea",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "Yağış optimumu 600 → 400 mm ve alt sınır 300 → 250 mm (İç Anadolu kuru tarım nohudu, Konya/Karaman/Yozgat 330–450 mm).",
+   "temp": [
+    7,
+    15,
+    29,
+    35
+   ],
+   "rain": [
+    250,
+    400,
+    1000,
+    1800
+   ],
+   "ph": [
+    4.7,
+    6.0,
+    8.5,
+    9.5
+   ],
+   "ktmp": -9,
+   "duration": 120
+  },
+  {
+   "id": "lentil",
+   "name_en": "Red lentil",
+   "name_tr": "Kırmızı mercimek",
+   "group": "field",
+   "icon": "🫘",
+   "sci": "Lens culinaris Medik.",
+   "ecocrop": "Lentil",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "Yağış optimumu 600 → 400 mm (GAP kışlık kırmızı mercimek, Şanlıurfa ≈ 450 mm); PHMAX 8.2 → 8.5; KTMP 0 → −8 ve sıcaklık [0,10,25,32] (GAP'ta kışlık ekim, kış gelişimi). TÜİK 2023–25 karşılaştırması (Ekim 2026): parametre değişmedi. Harita mercimeğin (kırmızı ve yeşil) iklimsel potansiyelidir. Kırmızı mercimeğin GAP'ta yoğunlaşması kışlık ekim sistemi, arazi kullanımı ve işleme sanayisinden kaynaklanır. Kış ılıklığı terimi denendi ama eklenmedi: aynı ılık kışlı Akdeniz iklimindeki Ege ve Marmara'yı ayıramıyor, yeşil mercimeğin yetiştiği İç Anadolu'yu (Yozgat) siliyor (Keatinge vd. 1995; Aydoğan vd. 2004). TÜİK karşılaştırmasında kırmızı ve yeşil mercimeğin birlikte kullanılması önerilir.",
+   "temp": [
+    0,
+    10,
+    25,
+    32
+   ],
+   "rain": [
+    250,
+    400,
+    1000,
+    2500
+   ],
+   "ph": [
+    4.5,
+    5.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": -8,
+   "duration": 110
+  },
+  {
+   "id": "potato",
+   "name_en": "Potato",
+   "name_tr": "Patates",
+   "group": "field",
+   "icon": "🥔",
+   "sci": "Solanum tuberosum L.",
+   "ecocrop": "Potato",
+   "model": "annual",
+   "water": "irrigated",
+   "calib": "ECOCROP değerleri. TÜİK kalibrasyon denemesi (Eki 2026) geri alındı: sıcaklık [5,12,20,28] il desenini iyileştiriyordu (rho 0,21 → 0,44; aşım %38 → %27), ama İç Anadolu platosu bugün eşiğin hemen üstünde (skor 52–61) kaldığı için en küçük ısınmada uygun sınıftan düşüyordu (SSP1-2.6 2030'lar −%0,4 → −%32). Bu bir eşik etkisidir: aylık ortalama sıcaklık platonun serin gecelerini görmüyor. Kalıcı çözüm, dikim penceresine bağlı bir gece sıcaklığı terimidir → TAGEM uzman kararı (docs/TUIK_KARSILASTIRMA.md).",
+   "temp": [
+    7,
+    15,
+    25,
+    30
+   ],
+   "rain": [
+    250,
+    500,
+    800,
+    2000
+   ],
+   "ph": [
+    4.2,
+    5.0,
+    6.2,
+    8.5
+   ],
+   "ktmp": -1,
+   "duration": 120
+  },
+  {
+   "id": "tomato",
+   "name_en": "Tomato",
+   "name_tr": "Domates",
+   "group": "field",
+   "icon": "🍅",
+   "sci": "Solanum lycopersicum L.",
+   "ecocrop": "Tomato",
+   "model": "annual",
+   "water": "irrigated",
+   "calib": "PHMAX 7.5 → 8.3 (Türkiye domates alanlarının çoğu kireçli topraklarda). Açık alan üretimi esas alınmıştır.",
+   "temp": [
+    7,
+    20,
+    27,
+    35
+   ],
+   "rain": [
+    400,
+    600,
+    1300,
+    1800
+   ],
+   "ph": [
+    5.0,
+    5.5,
+    6.8,
+    8.3
+   ],
+   "ktmp": 0,
+   "duration": 100
+  },
+  {
+   "id": "cotton",
+   "name_en": "Cotton",
+   "name_tr": "Pamuk",
+   "group": "industrial",
+   "icon": "☁️",
+   "sci": "Gossypium hirsutum L.",
+   "ecocrop": "Cotton, American upland",
+   "model": "annual",
+   "water": "irrigated",
+   "calib": "Süre 180 → 165 gün (Türkiye çeşitleri, Söke/Harran); TMIN 15 → 13 °C (gelişme taban sıcaklığı ≈ 12–13 °C); TOPMN 22 → 21.",
+   "temp": [
+    13,
+    21,
+    36,
+    42
+   ],
+   "rain": [
+    450,
+    750,
+    1200,
+    1500
+   ],
+   "ph": [
+    5.0,
+    6.0,
+    7.5,
+    9.5
+   ],
+   "ktmp": 0,
+   "duration": 165
+  },
+  {
+   "id": "sunflower",
+   "name_en": "Sunflower",
+   "name_tr": "Ayçiçeği",
+   "group": "industrial",
+   "icon": "🌻",
+   "sci": "Helianthus annuus L.",
+   "ecocrop": "Sunflower",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "Yağış optimumu 600 → 500 mm (Trakya kuru tarım ayçiçeği kış yağışıyla depolanan toprak suyunu kullanır); PHMAX 8.0 → 8.5; KTMP −10 → −5.",
+   "temp": [
+    5,
+    17,
+    34,
+    45
+   ],
+   "rain": [
+    300,
+    500,
+    1000,
+    1600
+   ],
+   "ph": [
+    5.5,
+    6.0,
+    7.5,
+    8.5
+   ],
+   "ktmp": -5,
+   "duration": 110
+  },
+  {
+   "id": "sugarbeet",
+   "name_en": "Sugar beet",
+   "name_tr": "Şeker pancarı",
+   "group": "industrial",
+   "icon": "🍬",
+   "sci": "Beta vulgaris L. var. altissima",
+   "ecocrop": "Sugar beet",
+   "model": "annual",
+   "water": "irrigated",
+   "calib": "PHMAX 8.0 → 8.5 (Konya/Eskişehir kireçli toprakları); TOPMN 15 → 12 (serin İç Anadolu platosunda Nisan–Ekim sezonu). TÜİK kalibrasyonu (Eki 2026): süre 190 → 160 gün. Kaynaklar: FAO'ya göre normal yetişme süresi 140–160, en çok 200 gün; FAO-56'da Akdeniz Mayıs ekimi 160 gün; Koday & Yıldırım 2021'e göre yetişme devresi ≈ 150–180 gün ve Erzurum'da kısa vejetasyon verimi düşürür ama serin geceler şeker oranını yükseltir. Doğu Anadolu denemelerinde ekim Nisan başı–Mayıs sonu, hasat Eylül sonu–Ekim ortasıdır (Çakmakçı & Oral 2002). 190 günlük pencere kısa yazlı yüksek ovaları (Muş, Ağrı, Pasinler, Kars) ve Sivas/Kayseri/Yozgat'ı iklimsel olarak eliyordu. Sıcak taraf (TOPMX 25, TMAX 35) korundu, çünkü TMAX 32 denemesi sıcak yazlı sulu üretim ovalarını (Elazığ, Malatya) siliyordu. Kapsam %95,8 → %100, rho 0,33 → 0,44, aşım %29,9 → %27,9. Trakya, Marmara ve Ege/Akdeniz'deki uygunluk (sonbahar ekimi olanağı) iklimsel potansiyeldir; TÜİK deseni kota ve fabrika dağılımını yansıtır.",
+   "temp": [
+    4,
+    12,
+    25,
+    35
+   ],
+   "rain": [
+    500,
+    650,
+    900,
+    1200
+   ],
+   "ph": [
+    5.5,
+    6.0,
+    7.0,
+    8.5
+   ],
+   "ktmp": -2,
+   "duration": 160
+  },
+  {
+   "id": "tea",
+   "name_en": "Tea",
+   "name_tr": "Çay",
+   "group": "industrial",
+   "icon": "🍵",
+   "sci": "Camellia sinensis (L.) Kuntze",
+   "ecocrop": "Tea",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "Sıcaklık ECOCROP'ta yıl boyu büyüme için verilmiştir; Doğu Karadeniz'de çay Nisan–Ekim arasında sürgün verir, bu yüzden sezon ortalaması kullanıldı ve TOPMN 20 → 17. KTMP −5 → −12 (sinensis tipi dormant dayanımı). ROPMX 2000 → 2500 (Rize ≈ 2300 mm). Yağış alt sınırları 1000/1400 → 800/1300 (Karadeniz'in yüksek nemi); yaz (Haziran–Ağustos) yağışı ≥ 250 mm optimum. Asit toprak kesin kısıttır (ph_weight 1.0).",
+   "temp": [
+    8,
+    17,
+    30,
+    35
+   ],
+   "rain": [
+    800,
+    1300,
+    2500,
+    4500
+   ],
+   "ph": [
+    4.0,
+    4.5,
+    5.5,
+    6.5
+   ],
+   "ktmp": -12,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "heat": {
+    "months": [
+     7,
+     8
+    ],
+    "tmax": 33,
+    "weight": 1.0
+   },
+   "summer_rain": [
+    100,
+    250
+   ]
+  },
+  {
+   "id": "hazelnut",
+   "name_en": "Hazelnut",
+   "name_tr": "Fındık",
+   "group": "fruit",
+   "icon": "🌰",
+   "sci": "Corylus avellana L.",
+   "ecocrop": "European hazelnut",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "ECOCROP sıcaklık aralığı [5,10,24,35] tek-aylık pencere içindir; sezon ortalamasına göre Karadeniz kıyı kuşağı (Ordu/Giresun Nisan–Eylül ≈ 19 °C) optimum olacak şekilde [9,14,22,28] alındı. ROPMX 1100 → 2000 ve RMAX 1400 → 3000 (Giresun–Rize kıyısı); Tombul soğuklama ihtiyacı ≈ 800 saat; Temmuz–Ağustos > 33 °C sıcak stresi. Yaz yağışı (Haziran–Ağustos) ≥ 150 mm optimum: fındık nemli yaz rejimi ister (Karadeniz); yazı kurak geçen Akdeniz dağlarını eler.",
+   "temp": [
+    9,
+    14,
+    22,
+    28
+   ],
+   "rain": [
+    600,
+    800,
+    2000,
+    3000
+   ],
+   "ph": [
+    5.0,
+    6.0,
+    7.0,
+    8.0
+   ],
+   "ktmp": -20,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "chill": [
+    500,
+    800
+   ],
+   "heat": {
+    "months": [
+     7,
+     8
+    ],
+    "tmax": 33,
+    "weight": 1.0
+   },
+   "summer_rain": [
+    60,
+    150
+   ]
+  },
+  {
+   "id": "apricot",
+   "name_en": "Apricot",
+   "name_tr": "Kayısı",
+   "group": "fruit",
+   "icon": "🍑",
+   "sci": "Prunus armeniaca L.",
+   "ecocrop": "Apricot",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Malatya kayısısı sulu yetiştirilir (≈ 380 mm yağış), ECOCROP yağış eşiği uygulanmaz. Sıcaklık sezon ortalamasına uyarlandı (Malatya Nisan–Eylül ≈ 21 °C). Hacıhaliloğlu soğuklama ihtiyacı 900 saat civarı; Mart–Nisan geç don riski (Malatya'nın en önemli sorunu) eklendi. PHMAX 8.0 → 8.5. TÜİK karşılaştırması (Eki 2026): nemli yaz kısıtı eklendi. Haziran–Ağustos yağışı ≤ 150 mm tam uygun, ≥ 250 mm uygun değil (\"fazla yağış\"). TAGEM'e göre kayısı, Karadeniz'in çok nemli kısımları ve Doğu Anadolu'nun sert yaylaları dışında hemen her yerde yetişir (Bircan 2022, Alata). Yüksek nem ve yağış çil ile monilyayı artırır (MAREM Eğirdir; Scorza 1983). Rize–Artvin kıyısı elendi; Trabzon ve Giresun kıyısı zayıfladı. Eşikler, yaz yağışı ≈ 180 mm olan ticari kayısı bölgeleri (Drôme/Valence ve Kecskemét, 1991–2020 normalleri) uygun kalacak biçimde seçildi. Bu yüzden daha sıkı [70, 150] reddedildi: bu bölgeleri, Samsun–Sinop–Sakarya'yı ve Iğdır'ı da zayıflatıyordu. Ordu kıyısını asıl sınırlayan yüksek nispi nem modelde yok.",
+   "temp": [
+    10,
+    17,
+    28,
+    34
+   ],
+   "rain": [
+    800,
+    900,
+    1300,
+    1470
+   ],
+   "ph": [
+    5.0,
+    6.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": -25,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "chill": [
+    500,
+    900
+   ],
+   "frost": {
+    "months": [
+     3,
+     4
+    ],
+    "tmin": -2,
+    "weight": 1.5
+   }
+  },
+  {
+   "id": "fig",
+   "name_en": "Fig",
+   "name_tr": "İncir",
+   "group": "fruit",
+   "icon": "🟣",
+   "sci": "Ficus carica L.",
+   "ecocrop": "Common fig",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "Sıcaklık sezon ortalamasına uyarlandı (Aydın Nisan–Ekim ≈ 22 °C). KTMP −12 → −10 dormant dayanım (en soğuk ay minimumu ≥ −6 °C). Yağış optimumu 700 → 550 mm (Büyük Menderes kuru tarım inciri, Aydın ≈ 650 mm). Sarılop düşük soğuklama ister. TÜİK kalibrasyonu (2026): Trakya, Kuzey Marmara ve Karadeniz kıyısında görülen yanlış uygunluk için iki terim eklendi. Ilık kış: en soğuk ay ortalaması rampası [3.5, 5.5] °C. İncir −9/−10 °C altında zarar görür (Aktepe Tangu, TAGEM Yalova; Ankara Üniv. ders notu). Rekor minimumlar bölgeleri ayırmaz (MGM: Bursa −20.5, Aydın −11.0 °C). Bu yüzden sert donların sıklığı için Ocak ortalaması vekil alındı: Edirne 2.8, Kırklareli 3.0, Bursa 5.4, Aydın 8.2 °C (MGM). Sıcak yaz: Temmuz–Ağustos ortalama maksimum sıcaklık rampası [28, 31] °C. Bursa Siyahı kıyısı ≈ 30.5–31 °C'dir; kurutmalık incir 32–38 °C gündüz sıcaklığı ister (UC IPM). 28 °C, Mayıs–Ekim ortalamasının 20 °C alt sınırına yaklaşık karşılık gelir (Ankara Üniv.).",
+   "temp": [
+    12,
+    18,
+    27,
+    33
+   ],
+   "rain": [
+    300,
+    550,
+    1500,
+    2700
+   ],
+   "ph": [
+    4.3,
+    6.0,
+    7.5,
+    8.6
+   ],
+   "ktmp": -10,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "chill": [
+    50,
+    150
+   ],
+   "coldest_tavg": [
+    3.5,
+    5.5
+   ]
+  },
+  {
+   "id": "cherry",
+   "name_en": "Sweet cherry",
+   "name_tr": "Kiraz",
+   "group": "fruit",
+   "icon": "🍒",
+   "sci": "Prunus avium L.",
+   "ecocrop": "Cherry, Sweet",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Sıcaklık sezon ortalamasına uyarlandı (Kemalpaşa, Isparta, Afyon). 0900 Ziraat soğuklama ihtiyacı ≈ 900 saat; Nisan geç donu ve Haziran–Temmuz sıcak stresi eklendi. PHMAX 7.0 → 8.5 (Türkiye kiraz bahçelerinin çoğu kireçli toprakta).",
+   "temp": [
+    10,
+    15,
+    24,
+    30
+   ],
+   "rain": [
+    300,
+    500,
+    900,
+    1500
+   ],
+   "ph": [
+    4.5,
+    5.5,
+    7.0,
+    8.5
+   ],
+   "ktmp": -26,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "chill": [
+    700,
+    1100
+   ],
+   "frost": {
+    "months": [
+     4
+    ],
+    "tmin": -2,
+    "weight": 1.0
+   },
+   "heat": {
+    "months": [
+     6,
+     7
+    ],
+    "tmax": 35,
+    "weight": 0.5
+   }
+  },
+  {
+   "id": "grape",
+   "name_en": "Grape",
+   "name_tr": "Üzüm",
+   "group": "fruit",
+   "icon": "🍇",
+   "sci": "Vitis vinifera L.",
+   "ecocrop": "European wine grape",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "Sıcaklık sezon ortalamasına uyarlandı; yağış eşikleri Anadolu bağcılığına göre düşürüldü (Nevşehir/Kapadokya ≈ 400 mm kuru bağ); dormant dayanım −18 °C. TÜİK 2023–25 karşılaştırması (Ekim 2026): parametre değişmedi. Bağ yaklaşık 45 ilde yetişiyor; soğuk yaylalar (Nevşehir, Uşak, Bilecik), nemli Marmara (Sakarya) ve Trakya (Tekirdağ) da bunlar arasında. 'Uygun ama yetişmeyen' görünen illerin çoğunda (Edirne, Kırklareli, Eskişehir, Muğla, Kastamonu) 400–700 ha bağ var; bunlar yalnızca %0,2 eşiğinin altında kalıyor. Kalan boşluk arazi kullanımı ve gelenek kaynaklı.",
+   "temp": [
+    12,
+    17,
+    26,
+    32
+   ],
+   "rain": [
+    250,
+    450,
+    900,
+    1500
+   ],
+   "ph": [
+    4.5,
+    5.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": -18,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "chill": [
+    100,
+    300
+   ]
+  },
+  {
+   "id": "olive",
+   "name_en": "Olive",
+   "name_tr": "Zeytin",
+   "group": "fruit",
+   "icon": "🫒",
+   "sci": "Olea europaea L.",
+   "ecocrop": "Olive, Europaen",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "ECOCROP KTMP 0 aşırı tutucu; zeytin ağacı −8 °C'ye kadar dayanır (en soğuk ay minimumu ≥ −4 °C). Sıcaklık sezon ortalamasına uyarlandı (Aydın Mart–Kasım ≈ 20 °C). En soğuk ay ortalaması ≥ 5 °C optimum (Akdeniz iklimi; karasal iç bölgelerde mutlak minimumlar aylık ortalamadan çok daha düşüktür). Çiçeklenme için kış soğuklaması (vernalizasyon) gereksinimi eklendi. PHOPMX 7.0 → 8.0 (zeytin kireçli toprakları sever).",
+   "temp": [
+    11,
+    15,
+    25,
+    32
+   ],
+   "rain": [
+    200,
+    400,
+    900,
+    1300
+   ],
+   "ph": [
+    5.3,
+    6.0,
+    8.0,
+    8.7
+   ],
+   "ktmp": -8,
+   "season": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "chill": [
+    100,
+    300
+   ],
+   "coldest_tavg": [
+    2,
+    5
+   ]
+  },
+  {
+   "id": "pistachio",
+   "name_en": "Pistachio",
+   "name_tr": "Antep fıstığı",
+   "group": "fruit",
+   "icon": "🥜",
+   "sci": "Pistacia vera L.",
+   "ecocrop": "Pistachio nut",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "Sıcaklık sezon ortalamasına uyarlandı (Gaziantep Nisan–Ekim ≈ 23 °C). Dormant dayanım ≈ −14 °C; Kırmızı/Uzun çeşitleri ≈ 700–1000 saat soğuklama ister — gelecekteki en kritik risk budur. PHMAX 8.5 → 8.7. TÜİK 2023–25 karşılaştırması (Ekim 2026): Trakya ve Marmara'daki yanlış uygunluk giderildi. Yaz sıcaklık toplamı eklendi: Haziran–Eylül ortalama maksimum sıcaklığı 28,5 °C'de 0 (≈ 45 gün > 30 °C; Ankara'da meyve Ekim ortasına kadar olgunlaşmaz), 33 °C'de 1 (≈ 100 gün > 30 °C; fıstık bölgelerinde 98–110 gün) (Ankara Üniv. Antepfıstığı ders notu). Kurak yaz isteği eklendi: Haziran–Ağustos yağışı ≤ 75 mm (aylık < 25 mm) tam uygun (Beckingham & Benson 1987), 150 mm'de 0 (uzman yargısı). Yaz yağmuru Botryosphaeria sporlarını yayar (UC IPM), aflatoksin ve kabuk lekesi riskini artırır.",
+   "temp": [
+    14,
+    21,
+    30,
+    35
+   ],
+   "rain": [
+    250,
+    400,
+    700,
+    1100
+   ],
+   "ph": [
+    6.0,
+    7.0,
+    8.0,
+    8.7
+   ],
+   "ktmp": -14,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "chill": [
+    500,
+    900
+   ],
+   "frost": {
+    "months": [
+     4
+    ],
+    "tmin": -2,
+    "weight": 1.0
+   }
+  },
+  {
+   "id": "almond",
+   "name_en": "Almond",
+   "name_tr": "Badem",
+   "group": "fruit",
+   "icon": "🌸",
+   "sci": "Prunus dulcis (Mill.) D.A.Webb",
+   "ecocrop": "Almond",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "ECOCROP \"Almond\" (Prunus amygdalus Batsch.) kaydı aylık pencere içindir: sıcaklık [10, 12, 35, 40], yağış [250, 600, 900, 1500], pH [5.5, 6.5, 7.0, 8.0], KTMP −1. Sıcaklık Mart–Eylül sezon ortalamasına uyarlandı: [10, 15, 30, 35] (çiçeklenmeden hasada 6–8 ay; Konya ≈ 16,5, Şanlıurfa ≈ 24,6 °C). KTMP −1 → −18 (dormant dayanım; model: en soğuk ayın ortalama minimumu −15 °C'de 0, −13 °C'de 1): −18 °C'de gözler zararlanır (Ankara Üniv. badem ders notu), çiçek gözü LT50 −17 ile −21 °C (Keleta vd. 2022). Yağış [200, 300, 900, 1500]: yağış 300 mm'nin altına düşerse verim düşer, 200 mm alan yerlerde sulanmadan yetişebilir (Ankara Üniv.; Datça Nurlu Bademi CI No. 1504). Kuru tarım kabul edildi: badem kurağa en dayanıklı meyve türüdür; sulu varsayım bugünkü haritayı ve 2090'lar değişimini değiştirmiyor. PHOPMX 7.0 → 8.0, PHMAX 8.0 → 8.7 (kireçli topraklarda iyi büyür). Soğuklama [100, 200] saat: kaynaklarda +5 °C altında 90–400, +7,2 °C altında 300–500 saat; tam uygunluk, Datça Nurlu Bademi yarımadasının model değeri (medyan ≈ 230 saat) korunacak biçimde 200 saatte. Geç don Mart–Nisan, −2 °C, ağırlık 1,5 (kayısı gibi): geç don bademin en önemli sınırlayıcısıdır; açmış çiçek −1,5 ile −4 °C'de, taç yaprak dökümünde −2,2 °C'de, çağla −0,5 ile −1 °C'de zarar görür (TAGEM Yalova; Ankara Üniv.; KOP Badem Üretici Rehberi). Uşak'ta çiçeklenme 16 Mart–9 Nisan (Yıldız & Erol Perdahcı 2019). TÜİK 2023–25 kalibrasyonu (Ekim 2026): sıcak yaz eklendi. Haziran–Eylül ortalama maksimum sıcaklığı 26 °C'de 0, 28 °C'de 1. Badem meyveyi olgunlaştırmak için yüksek sıcaklık toplamı ister, yüksek yaylalarda ve yazı serin geçen yerlerde yetişmez (Ankara Üniv.; KOP rehberi). Sayısal eşik kaynakta yok: sıfır noktası bademin yetişmediği Karadeniz kıyısı ve Yozgat (≈ 25–26 °C), tam uygunluk en serin üretici Konya'nın (≈ 28,4 °C) hemen altı. Nemli yaz eklendi: Haziran–Ağustos yağışı ≤ 100 mm tam uygun, ≥ 200 mm uygun değil (yazı serin ve nemli geçen yerlerde badem yetişmez, KOP rehberi; olgunlaşmada yağmur istenmez, Ankara Üniv.). En nemli üretici Edirne ≈ 108 mm, Ordu–Trabzon kıyısı ≈ 190 mm. Kapsama %99,8, aşım %17,3, rho 0,82. Trakya ve Marmara'da badem gerçekten yetişiyor (Edirne, Çanakkale, Balıkesir, Bursa, Tekirdağ), bu yüzden bastırılmadı; yalnızca serin ve nemli kuzey (İstanbul, Sakarya, Karadeniz kıyısı) daraldı. Ölçütler arazi çarpanıyla (rakım 1200 → 1400 m, ısınmayla kaymaz; teraslı bahçe eğimi %58) hesaplandı; SSP5-8.5 2081–2100 değişimi tezgâhta +%26.",
+   "temp": [
+    10,
+    15,
+    30,
+    35
+   ],
+   "rain": [
+    200,
+    300,
+    900,
+    1500
+   ],
+   "ph": [
+    5.5,
+    6.5,
+    8.0,
+    8.7
+   ],
+   "ktmp": -18,
+   "season": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "chill": [
+    100,
+    200
+   ],
+   "frost": {
+    "months": [
+     3,
+     4
+    ],
+    "tmin": -2,
+    "weight": 1.5
+   }
+  },
+  {
+   "id": "citrus",
+   "name_en": "Citrus",
+   "name_tr": "Turunçgiller",
+   "group": "fruit",
+   "icon": "🍊",
+   "sci": "Citrus sinensis / reticulata / limon",
+   "ecocrop": "Sweet orange; Mandarin; Lemon",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Portakal, mandarin ve limon tek grupta; yıllık ortalama sıcaklık değerlendirilir. TOPMN 20 → 18 (Akdeniz kıyısı alt-tropik koşulları). En soğuk ay ortalaması rampası [6, 9] °C eklendi. PHOPMX 6.0 → 7.5.",
+   "temp": [
+    13,
+    18,
+    30,
+    38
+   ],
+   "rain": [
+    450,
+    1200,
+    2000,
+    2700
+   ],
+   "ph": [
+    4.0,
+    5.0,
+    7.5,
+    8.5
+   ],
+   "ktmp": -2,
+   "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "coldest_tavg": [
+    6,
+    9
+   ]
+  },
+  {
+   "id": "apple",
+   "name_en": "Apple",
+   "name_tr": "Elma",
+   "group": "fruit",
+   "icon": "🍎",
+   "sci": "Malus domestica Borkh.",
+   "ecocrop": "Apple (Malus domestica)",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Sıcaklık sezon ortalamasına uyarlandı (Isparta Nisan–Ekim ≈ 18 °C). Soğuklama 800–1200 saat (Starking/Golden); Nisan geç donu ve yaz sıcak stresi (güneş yanığı) eklendi.",
+   "temp": [
+    9,
+    13,
+    21,
+    27
+   ],
+   "rain": [
+    500,
+    700,
+    2500,
+    3200
+   ],
+   "ph": [
+    4.5,
+    6.0,
+    7.5,
+    8.5
+   ],
+   "ktmp": -30,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "chill": [
+    800,
+    1200
+   ],
+   "frost": {
+    "months": [
+     4
+    ],
+    "tmin": -2,
+    "weight": 1.0
+   },
+   "heat": {
+    "months": [
+     7,
+     8
+    ],
+    "tmax": 35,
+    "weight": 0.7
+   }
+  },
+  {
+   "id": "pomegranate",
+   "name_en": "Pomegranate",
+   "name_tr": "Nar",
+   "group": "fruit",
+   "icon": "🔴",
+   "sci": "Punica granatum L.",
+   "ecocrop": "Pomegranate",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Sıcaklık sezon ortalamasına uyarlandı (Antalya/Mersin Nisan–Ekim ≈ 23 °C). TÜİK kalibrasyonu (2026): meyve olgunlaşması için sıcaklık toplamı eklendi; yıllık GDD (10 °C) 2100'de 0, 2700'de 1. Nar 'yüksek bir sıcaklık toplamı ister' (Karataş 2022, TAGEM Alata). Yayımlanmış sezon toplamları: Şanlıurfa'da gözlerin kabarmasından hasada 2734–3289 GDD (Ikinci vd. 2014); Birjand'da çiçeklenmeden olgunluğa 2561 GDD (10 °C taban; Mohammadian Moghaddam vd. 2019). Bunlar sıcak yerlerde biriken üst değerlerdir. Hicaznar Denizli ovasında ≈ 2750–2800 ile olgunlaşır, bu yüzden tam uygunluk 2700'de alındı. Trakya, Marmara ve İç Anadolu (GDD ≈ 1500–2200) uygun dışı kaldı. Soğuklama [100, 200] → [0, 100] saat yapıldı: ihtiyaç 100–150 saattir (Alata) ve nar tropikte her dem yeşildir (Harel-Beja vd. 2022). Bu değişiklik bugünkü haritayı değiştirmez; gelecekte en sıcak kıyının sıfırlanmasını önler.",
+   "temp": [
+    14,
+    20,
+    30,
+    38
+   ],
+   "rain": [
+    400,
+    900,
+    1200,
+    4200
+   ],
+   "ph": [
+    5.8,
+    6.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": -12,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "chill": [
+    0,
+    100
+   ]
+  },
+  {
+   "id": "walnut",
+   "name_en": "Walnut",
+   "name_tr": "Ceviz",
+   "group": "fruit",
+   "icon": "🌰",
+   "sci": "Juglans regia L.",
+   "ecocrop": "English walnut",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Sıcaklık sezon ortalamasına uyarlandı; ceviz ilkbahar donlarına çok hassastır (Nisan–Mayıs). Modern ceviz bahçeleri (Chandler vb.) sulu kurulduğundan sulu kabul edildi.",
+   "temp": [
+    11,
+    15,
+    24,
+    30
+   ],
+   "rain": [
+    400,
+    700,
+    1700,
+    2200
+   ],
+   "ph": [
+    4.5,
+    5.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": -22,
+   "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "chill": [
+    500,
+    900
+   ],
+   "frost": {
+    "months": [
+     4,
+     5
+    ],
+    "tmin": -2,
+    "weight": 1.0
+   },
+   "heat": {
+    "months": [
+     7,
+     8
+    ],
+    "tmax": 38,
+    "weight": 0.5
+   }
+  },
+  {
+   "id": "avocado",
+   "name_en": "Avocado",
+   "name_tr": "Avokado",
+   "group": "new",
+   "icon": "🥑",
+   "sci": "Persea americana Mill.",
+   "ecocrop": "Avocado (Guatemalan)",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Hass (Guatemala × Meksika melezi) esas alındı; TOPMN 15 → 16, KTMP −4 → −2 (çiçek ve genç sürgün zararı). En soğuk ay rampası [8, 11] °C eklendi. Avokado kireçli toprağa hassastır (ph_weight 0.5).",
+   "temp": [
+    12,
+    16,
+    24,
+    30
+   ],
+   "rain": [
+    660,
+    1000,
+    1400,
+    1800
+   ],
+   "ph": [
+    4.5,
+    5.0,
+    7.0,
+    8.3
+   ],
+   "ktmp": -2,
+   "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "coldest_tavg": [
+    8,
+    11
+   ]
+  },
+  {
+   "id": "mango",
+   "name_en": "Mango",
+   "name_tr": "Mango",
+   "group": "new",
+   "icon": "🥭",
+   "sci": "Mangifera indica L.",
+   "ecocrop": "Mango",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Yıllık ortalama sıcaklık değerlendirilir; TMIN 8 → 15, TOPMN 24 → 22 (alt-tropik mango sınırı, Gazipaşa/Alanya). En soğuk ay rampası [9, 13] °C eklendi.",
+   "temp": [
+    15,
+    22,
+    30,
+    40
+   ],
+   "rain": [
+    300,
+    600,
+    1500,
+    2600
+   ],
+   "ph": [
+    4.3,
+    5.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": 0,
+   "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "coldest_tavg": [
+    9,
+    13
+   ]
+  },
+  {
+   "id": "banana",
+   "name_en": "Banana",
+   "name_tr": "Muz",
+   "group": "new",
+   "icon": "🍌",
+   "sci": "Musa acuminata Colla",
+   "ecocrop": "Banana (Musa acuminata)",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "Açık alan muzu (Anamur/Bozyazı) esas alındı; yıllık ortalama sıcaklık [14, 22, 30, 38], en soğuk ay ortalaması rampası [10, 13] °C eklendi. TÜİK kalibrasyonu (2026): en soğuk ay ortalaması rampası [10, 13] → [10, 12] °C yapıldı. Tam uygunluk, ECOCROP'un mutlak alt sıcaklığı olan 12 °C'dedir. Modelde Türkiye'de hiçbir yer 13 °C'ye ulaşmaz; tarihsel açık alan kuşağı artık tam uygundur (Alanya 12.6, Bozyazı 11.9, Anamur ve Gazipaşa 11.7 °C). Sıfır noktası (10 °C) Antalya ve Adana ovalarıdır. Antalya'da Ocak ortalama minimumu 6.1 °C'dir ve don görülür (MGM rekoru −4.3 °C). Muz 17/10 °C gündüz/gece rejiminde üşüme zararı gösterir (Turner & Lahav 1983). TÜİK muz alanının çoğu örtü altındadır: 2016'da 4078 ha sera, 2146 ha açık alan (ProMusa; Gübbük vd. 2017). 2015'ten sonra kıyı ilçeleri seraya geçmiştir (DHA 2024). Bu nedenle il payı karşılaştırması açık alan haritasıyla örtüşmez.",
+   "temp": [
+    14,
+    22,
+    30,
+    38
+   ],
+   "rain": [
+    650,
+    1200,
+    3600,
+    5000
+   ],
+   "ph": [
+    4.0,
+    5.5,
+    7.5,
+    8.4
+   ],
+   "ktmp": 0,
+   "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "coldest_tavg": [
+    10,
+    12
+   ]
+  },
+  {
+   "id": "pitaya",
+   "name_en": "Dragon fruit",
+   "name_tr": "Ejder meyvesi (Pitaya)",
+   "group": "new",
+   "icon": "🐉",
+   "sci": "Selenicereus undatus (Haw.) D.R.Hunt",
+   "ecocrop": "— (ECOCROP'ta yok; literatür)",
+   "model": "perennial",
+   "water": "irrigated",
+   "calib": "ECOCROP'ta bulunmadığı için literatürden (Nerd vd. 2002; Mizrahi 2014) türetildi: optimum 20–30 °C, 0 °C altında doku zararı, aşırı sıcakta (> 38 °C) güneş yanığı.",
+   "temp": [
+    14,
+    20,
+    30,
+    38
+   ],
+   "rain": [
+    600,
+    800,
+    1300,
+    2000
+   ],
+   "ph": [
+    5.0,
+    5.5,
+    7.5,
+    8.5
+   ],
+   "ktmp": 0,
+   "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "coldest_tavg": [
+    9,
+    12
+   ]
+  },
+  {
+   "id": "quinoa",
+   "name_en": "Quinoa",
+   "name_tr": "Kinoa",
+   "group": "new",
+   "icon": "🌾",
+   "sci": "Chenopodium quinoa Willd.",
+   "ecocrop": "Quinoa",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "TOPMX 18 → 20; yağış optimumu 500 → 400 mm (kuraklığa dayanıklı And kökenli tür; Niğde ve Konya denemeleri).",
+   "temp": [
+    2,
+    14,
+    20,
+    35
+   ],
+   "rain": [
+    200,
+    400,
+    1000,
+    2600
+   ],
+   "ph": [
+    4.5,
+    5.5,
+    8.0,
+    9.5
+   ],
+   "ktmp": -8,
+   "duration": 150
+  },
+  {
+   "id": "sorghum",
+   "name_en": "Sorghum",
+   "name_tr": "Sorgum",
+   "group": "new",
+   "icon": "🌾",
+   "sci": "Sorghum bicolor (L.) Moench",
+   "ecocrop": "Sorghum (med. altitude)",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "ECOCROP değerleri; PHMAX 8.5 korunarak PHOPMX 7.0 → 7.5.",
+   "temp": [
+    10,
+    24,
+    35,
+    40
+   ],
+   "rain": [
+    300,
+    500,
+    1000,
+    3000
+   ],
+   "ph": [
+    5.0,
+    6.0,
+    7.5,
+    8.5
+   ],
+   "ktmp": 0,
+   "duration": 120
+  },
+  {
+   "id": "carob",
+   "name_en": "Carob",
+   "name_tr": "Keçiboynuzu",
+   "group": "new",
+   "icon": "🫛",
+   "sci": "Ceratonia siliqua L.",
+   "ecocrop": "Carob",
+   "model": "perennial",
+   "water": "rainfed",
+   "calib": "Yıllık ortalama sıcaklık değerlendirilir (Akdeniz kıyısı ≈ 18–19 °C); KTMP −4 (en soğuk ay minimumu ≥ 0 °C); kireçli topraklara uyumlu. TÜİK kalibrasyonu (2026): en soğuk ay ortalaması rampası [6, 9] °C eklendi; bu, turunçgille aynı rampadır. Keçiboynuzu kışların 'soğuk değil, serin' geçtiği yerleri ister ve −4 °C'de zarar görür (Batlle & Tous 1997, Erbaş 2024 BAKA içinde). Keçiboynuzu ve portakalın sıcaklık istekleri benzerdir (Erbaş 2024); keçiboynuzu portakaldan biraz daha dayanıklıdır (Morton 1987), yani rampa hafif ihtiyatlıdır. Rampa termo-Akdeniz kuşağına karşılık gelir (Oleo-Ceratonion, m > 3 °C; Quézel & Médail 2003). Trakya, Çanakkale, iç Ege, Bursa ve Şanlıurfa uygun dışı kaldı. KTMP −4 korundu.",
+   "temp": [
+    12,
+    17,
+    26,
+    35
+   ],
+   "rain": [
+    200,
+    400,
+    1000,
+    2000
+   ],
+   "ph": [
+    5.0,
+    6.0,
+    8.0,
+    8.7
+   ],
+   "ktmp": -4,
+   "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "coldest_tavg": [
+    6,
+    9
+   ]
+  },
+  {
+   "id": "safflower",
+   "name_en": "Safflower",
+   "name_tr": "Aspir",
+   "group": "new",
+   "icon": "🌼",
+   "sci": "Carthamus tinctorius L.",
+   "ecocrop": "— (bu ECOCROP sürümünde yok; literatür)",
+   "model": "annual",
+   "water": "rainfed",
+   "calib": "Literatürden (Weiss 2000; TAGEM aspir ıslah çalışmaları): kuraklığa ve sıcağa dayanıklı yağ bitkisi, İç Anadolu'da yazlık/kışlık ekim. TÜİK 2023–25 karşılaştırması (Ekim 2026): kışlık (sonbahar) ekim seçeneği eklendi. Hasat Haziran–Temmuz; kış dayanımı −7 °C (rozet dönemi 20 °F ≈ −7 °C'ye dayanır, Oelke vd. 1992), yani en soğuk ayın ortalama minimumu ≥ −3 °C. GAP ve Trakya'da en yüksek verim sonbahar ekiminden alınıyor. Şanlıurfa'da 30 Ekim ekimi 426 kg/da, 5 Nisan ekimi 98 kg/da verdi (Hatipoğlu vd. 2012). Diyarbakır'da 15 Kasım ve 15 Aralık ekimleri öneriliyor (Kahraman vd. 2014). Tekirdağ'da en yüksek verim kışlık ekimde (Dinçer, 357 kg/da), en düşüğü yazlık ekimde (105 kg/da) alındı (Paşa 2008). Bu seçenek olmadan GAP skorları düşük kalıyor, gelecekte de GAP yapay olarak çöküyordu. İç Anadolu'da kış soğuk olduğundan yazlık ekim geçerli.",
+   "temp": [
+    5,
+    15,
+    28,
+    38
+   ],
+   "rain": [
+    200,
+    350,
+    800,
+    1500
+   ],
+   "ph": [
+    5.5,
+    6.0,
+    8.0,
+    8.7
+   ],
+   "ktmp": -7,
+   "duration": 140
+  }
+ ],
+ "layers": [
+  {
+   "id": "tavg",
+   "min": -10,
+   "max": 30,
+   "unit": "°C",
+   "name_en": "Mean temperature",
+   "name_tr": "Ortalama sıcaklık",
+   "palette": "temp",
+   "src": "clim"
+  },
+  {
+   "id": "d_tavg",
+   "min": 0,
+   "max": 8,
+   "unit": "°C",
+   "name_en": "Warming vs today (1991–2020)",
+   "name_tr": "Bugüne göre ısınma (1991–2020)",
+   "palette": "warming",
+   "src": "delta"
+  },
+  {
+   "id": "prec",
+   "min": 0,
+   "max": 2500,
+   "unit": "mm",
+   "name_en": "Annual precipitation",
+   "name_tr": "Yıllık yağış",
+   "palette": "rain",
+   "src": "clim"
+  },
+  {
+   "id": "d_prec",
+   "min": -50,
+   "max": 50,
+   "unit": "%",
+   "name_en": "Rainfall change vs today (1991–2020)",
+   "name_tr": "Bugüne göre yağış değişimi (1991–2020)",
+   "palette": "diverging_rain",
+   "src": "delta"
+  },
+  {
+   "id": "aridity",
+   "min": 0,
+   "max": 2,
+   "unit": "",
+   "name_en": "Aridity index (P/ET₀)",
+   "name_tr": "Kuraklık indeksi (P/ET₀)",
+   "palette": "aridity",
+   "src": "clim"
+  },
+  {
+   "id": "chill",
+   "min": 0,
+   "max": 2500,
+   "unit": "h",
+   "name_en": "Winter chill hours",
+   "name_tr": "Kış soğuklama saati",
+   "palette": "chill",
+   "src": "clim"
+  },
+  {
+   "id": "hot_days",
+   "min": 0,
+   "max": 150,
+   "unit": "days",
+   "name_en": "Days above 35 °C",
+   "name_tr": "35 °C üstü gün",
+   "palette": "heat",
+   "src": "clim"
+  },
+  {
+   "id": "frost_days",
+   "min": 0,
+   "max": 250,
+   "unit": "days",
+   "name_en": "Frost days",
+   "name_tr": "Donlu gün",
+   "palette": "frost",
+   "src": "clim"
+  },
+  {
+   "id": "chirps_normal",
+   "min": 0,
+   "max": 2500,
+   "unit": "mm",
+   "name_en": "Observed rainfall 1991–2020 (CHIRPS satellite)",
+   "name_tr": "Gözlenen yağış 1991–2020 (CHIRPS uydu)",
+   "palette": "rain",
+   "src": "static"
+  },
+  {
+   "id": "chirps_recent",
+   "min": -50,
+   "max": 50,
+   "unit": "%",
+   "name_en": "Rainfall 2020–2024 vs normal (CHIRPS satellite)",
+   "name_tr": "2020–2024 yağışı, normale göre (CHIRPS uydu)",
+   "palette": "diverging_rain",
+   "src": "static"
+  },
+  {
+   "id": "cropland",
+   "min": 0,
+   "max": 100,
+   "unit": "%",
+   "name_en": "Cropland (ESA WorldCover, Sentinel)",
+   "name_tr": "Tarım alanı (ESA WorldCover, Sentinel)",
+   "palette": "cropland",
+   "src": "static"
+  },
+  {
+   "id": "soil_ph",
+   "min": 4,
+   "max": 9,
+   "unit": "pH",
+   "name_en": "Soil pH (SoilGrids)",
+   "name_tr": "Toprak pH (SoilGrids)",
+   "palette": "ph",
+   "src": "static"
+  },
+  {
+   "id": "soil_clay",
+   "min": 0,
+   "max": 60,
+   "unit": "%",
+   "name_en": "Soil clay (SoilGrids)",
+   "name_tr": "Toprak kil oranı (SoilGrids)",
+   "palette": "clay",
+   "src": "static"
+  },
+  {
+   "id": "soil_soc",
+   "min": 0,
+   "max": 40,
+   "unit": "g/kg",
+   "name_en": "Soil organic carbon (SoilGrids)",
+   "name_tr": "Toprak organik karbonu (SoilGrids)",
+   "palette": "soc",
+   "src": "static"
+  }
+ ]
+}

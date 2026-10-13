@@ -1,0 +1,226 @@
+{
+  "wheat": {
+    "file": "File:Vehnäpelto 6.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg"
+  },
+  "barley": {
+    "file": "File:Barley J1.jpg",
+    "author": "Jamain",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barley_J1.jpg"
+  },
+  "maize": {
+    "file": "File:Maize, Kurigram, Bangladesh.jpg",
+    "author": "Tanvir Rahat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maize,_Kurigram,_Bangladesh.jpg"
+  },
+  "rice": {
+    "file": "File:Oryza sativa Ear rice Stugaru roman rice IMG 3971.jpg",
+    "author": "あおもりくま (Aomorikuma)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oryza_sativa_Ear_rice_Stugaru_roman_rice_IMG_3971.jpg"
+  },
+  "chickpea": {
+    "file": "File:Ordinary chickpeas in a ceramic bowl.jpg",
+    "author": "AlixSaz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ordinary_chickpeas_in_a_ceramic_bowl.jpg"
+  },
+  "lentil": {
+    "file": "File:Dried red lentil.JPG",
+    "author": "Mytinytank",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dried_red_lentil.JPG"
+  },
+  "potato": {
+    "file": "File:Patates.jpg",
+    "author": "Scott Bauer, USDA ARS",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Patates.jpg"
+  },
+  "tomato": {
+    "file": "File:Cocktail tomatoes at Campbell farmer's market.jpg",
+    "author": "Grendelkhan",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cocktail_tomatoes_at_Campbell_farmer%27s_market.jpg"
+  },
+  "cotton": {
+    "file": "File:Pamuk 2.jpg",
+    "author": "Abdullahulas",
+    "license": "CC0 1.0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Pamuk_2.jpg"
+  },
+  "sunflower": {
+    "file": "File:Dülmen, Weddern, Sonnenblumen -- 2026 -- 2005.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Weddern,_Sonnenblumen_--_2026_--_2005.jpg"
+  },
+  "sugarbeet": {
+    "file": "File:Zuckerrüben Detailaufnahme.JPG",
+    "author": "4028mdk09",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zuckerr%C3%BCben_Detailaufnahme.JPG"
+  },
+  "tea": {
+    "file": "File:Tea, two leaves and a bud.jpg",
+    "author": "Nborkakoty",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tea,_two_leaves_and_a_bud.jpg"
+  },
+  "hazelnut": {
+    "file": "File:Hazelnuts (Corylus avellana) - whole with kernels.jpg",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hazelnuts_(Corylus_avellana)_-_whole_with_kernels.jpg"
+  },
+  "apricot": {
+    "file": "File:Плоды абрикоса.jpg",
+    "author": "KKKair",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D0%BE%D0%B4%D1%8B_%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%BE%D1%81%D0%B0.jpg"
+  },
+  "fig": {
+    "file": "File:Fig (Ficus carica) fruits.jpg",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fig_(Ficus_carica)_fruits.jpg"
+  },
+  "cherry": {
+    "file": "File:Cherry sweet cherry red fruit 167341.jpg",
+    "author": "Hans Braxmeier",
+    "license": "CC0 1.0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Cherry_sweet_cherry_red_fruit_167341.jpg"
+  },
+  "grape": {
+    "file": "File:Uva nera da vino - grappoli 1.jpg",
+    "author": "Anna.Massini",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Uva_nera_da_vino_-_grappoli_1.jpg"
+  },
+  "olive": {
+    "file": "File:Olives (GROSSANE) CL2. J Weber (2) (23122200206).jpg",
+    "author": "INRA DIST from France",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Olives_(GROSSANE)_CL2._J_Weber_(2)_(23122200206).jpg"
+  },
+  "pistachio": {
+    "file": "File:860631-Pistachio-IMG 6862-2.jpg",
+    "author": "Safa.daneshvar",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:860631-Pistachio-IMG_6862-2.jpg"
+  },
+  "almond": {
+    "file": "File:Ripe almond along Glenwood Avenue, September 2023-6908.jpg",
+    "author": "Frank Schulenburg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ripe_almond_along_Glenwood_Avenue,_September_2023-6908.jpg"
+  },
+  "citrus": {
+    "file": "File:Oranges - whole-halved-segment.jpg",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg"
+  },
+  "apple": {
+    "file": "File:Zomer zijden hemdje appel. Oud appelras. Locatie De Kruidhof.JPG",
+    "author": "Dominicus Johannes Bergsma",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zomer_zijden_hemdje_appel._Oud_appelras._Locatie_De_Kruidhof.JPG"
+  },
+  "pomegranate": {
+    "file": "File:Pomegranate fruit - whole and piece with arils.jpg",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pomegranate_fruit_-_whole_and_piece_with_arils.jpg"
+  },
+  "walnut": {
+    "file": "File:Walnuts - whole and open with halved kernel.jpg",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walnuts_-_whole_and_open_with_halved_kernel.jpg"
+  },
+  "avocado": {
+    "file": "File:Avocado Hass - single and halved.jpg",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg"
+  },
+  "mango": {
+    "file": "File:Mangos - single and halved.jpg",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mangos_-_single_and_halved.jpg"
+  },
+  "banana": {
+    "file": "File:Bananas (48585009292).jpg",
+    "author": "Brett Jordan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bananas_(48585009292).jpg"
+  },
+  "pitaya": {
+    "file": "File:D85 8275 Plant of Thailand Photographed by Trisorn Triboon.jpg",
+    "author": "One World Thailand",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D85_8275_Plant_of_Thailand_Photographed_by_Trisorn_Triboon.jpg"
+  },
+  "quinoa": {
+    "file": "File:White, red, and black quinoa.jpg",
+    "author": "Vladimirf7",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:White,_red,_and_black_quinoa.jpg"
+  },
+  "sorghum": {
+    "file": "File:Agriculture Research Service (ARS) (8411801273).jpg",
+    "author": "USDAgov",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Agriculture_Research_Service_(ARS)_(8411801273).jpg"
+  },
+  "carob": {
+    "file": "File:Garroves.JPG",
+    "author": "Chixoy",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Garroves.JPG"
+  },
+  "safflower": {
+    "file": "File:Safflower in Yonezawa.jpg",
+    "author": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Safflower_in_Yonezawa.jpg"
+  }
+}

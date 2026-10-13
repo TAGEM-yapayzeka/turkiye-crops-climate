@@ -1,0 +1,2056 @@
+{
+  "version": "2026-10-09",
+  "crops": {
+    "wheat": [
+      {
+        "type": "variety",
+        "title_en": "Taner and Bozkır: drought-tolerant wheats",
+        "title_tr": "Taner ve Bozkır: kuraklığa dayanıklı buğdaylar",
+        "text_en": "Water-efficient bread wheats from Konya that out-yield the older varieties farmers sow on dry, rainfed land.",
+        "text_tr": "Konya'da geliştirilen, suyu verimli kullanan ekmeklik buğdaylar; kuru tarım alanlarında çiftçinin ektiği eski çeşitlerden daha verimli.",
+        "institute": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü",
+        "number_en": "+15–20% yield vs existing varieties on rainfed land",
+        "number_tr": "Kuruda mevcut çeşitlere göre %15–20 verim artışı",
+        "ref": "bbm2023"
+      },
+      {
+        "type": "variety",
+        "title_en": "Selamibey bread wheat",
+        "title_tr": "Selamibey ekmeklik buğdayı",
+        "text_en": "Cold- and drought-resistant bread wheat that took 14 years to breed and holds its yield on dry land.",
+        "text_tr": "14 yıllık ıslahla geliştirilen, soğuğa ve kuraklığa dayanıklı ekmeklik buğday; kuru koşullarda da verimini koruyor.",
+        "institute": "Tarla Bitkileri Merkez Araştırma Enstitüsü",
+        "number_en": "450–500 kg/da rainfed; 650–725 kg/da irrigated",
+        "number_tr": "Kuruda 450–500 kg/da; suluda 650–725 kg/da",
+        "ref": "benguturk2024"
+      },
+      {
+        "type": "practice",
+        "title_en": "Water only at the sensitive stages",
+        "title_tr": "Yalnızca kritik dönemlerde sulama",
+        "text_en": "Deficit irrigation at stem elongation, heading and milk ripening, instead of full irrigation, stretches scarce water in the Konya basin.",
+        "text_tr": "Tam sulama yerine sapa kalkma, başaklanma ve süt olumunda kısıntılı sulama, Konya havzasının kıt suyunu daha geniş alana yetiriyor.",
+        "institute": "Toprak Su ve Çölleşme ile Mücadele Araştırma Enstitüsü (deneme alanı)",
+        "number_en": "28.3–45.3% less irrigation water with no yield loss (Konya trials 2018–2020)",
+        "number_tr": "Verim kaybı olmadan %28,3–45,3 daha az sulama suyu (Konya denemeleri 2018–2020)",
+        "ref": "dundar2021"
+      },
+      {
+        "type": "technology",
+        "title_en": "Cereal Rust Research Center",
+        "title_tr": "Tahıl Pas Hastalıkları Araştırma Merkezi",
+        "text_en": "Tests wheat and barley lines against yellow, stem and leaf rust, as shifting temperature and rainfall bring aggressive new rust races.",
+        "text_tr": "Buğday ve arpa hatlarını sarı, kara ve kahverengi pasa karşı test ediyor; değişen sıcaklık ve yağış saldırgan yeni pas ırklarını getiriyor.",
+        "institute": "Ege Tarımsal Araştırma Enstitüsü",
+        "number_en": "About 60,000 lines screened a year (centre founded 2012)",
+        "number_tr": "Yılda yaklaşık 60.000 hat taranıyor (merkez 2012'de kuruldu)",
+        "ref": "etae_rust"
+      }
+    ],
+    "barley": [
+      {
+        "type": "variety",
+        "title_en": "Drought-adapted barley varieties",
+        "title_tr": "Kuraklığa uyumlu arpa çeşitleri",
+        "text_en": "TAGEM institutes have bred drought-adapted barley for rainfed farmers, alongside drought-adapted bread and durum wheats.",
+        "text_tr": "TAGEM enstitüleri kuru tarım yapan çiftçiler için kuraklığa uyumlu arpa çeşitleri geliştirdi; yanında ekmeklik ve makarnalık buğdaylar da var.",
+        "institute": "TAGEM enstitüleri",
+        "number_en": "19 drought-adapted barley varieties (with 30 bread and 12 durum wheats)",
+        "number_tr": "Kuraklığa uyumlu 19 arpa çeşidi (ayrıca 30 ekmeklik ve 12 makarnalık buğday)",
+        "ref": "bbm2023"
+      },
+      {
+        "type": "technology",
+        "title_en": "Rain-out shelters for drought testing",
+        "title_tr": "Kuraklık testi için yağmur örtüleri",
+        "text_en": "Mobile shelters with rain sensors create controlled drought, so cereal lines are tested for drought tolerance before release.",
+        "text_tr": "Yağmur sensörlü hareketli örtüler kontrollü kuraklık oluşturuyor; tahıl hatları tescilden önce kuraklığa dayanıklılık için test ediliyor.",
+        "institute": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü",
+        "number_en": "Rail-mounted shelters, 12 m × 35 m",
+        "number_tr": "Raylı örtüler, 12 m × 35 m",
+        "ref": "bahridagdas_ktm"
+      },
+      {
+        "type": "alternative",
+        "title_en": "Triticale on problem dry land",
+        "title_tr": "Sorunlu kuru alanlarda tritikale",
+        "text_en": "Drought-resistant winter triticale such as Aslım-95 is recommended for problem areas of Central Anatolia where wheat and barley do not grow.",
+        "text_tr": "Aslım-95 gibi kuraklığa dayanıklı kışlık tritikale, İç Anadolu'da buğday ve arpanın yetişmediği sorunlu alanlar için öneriliyor.",
+        "institute": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü",
+        "number_en": "150–500 kg/da grain on problem rainfed land",
+        "number_tr": "Sorunlu kuru alanlarda 150–500 kg/da tane",
+        "ref": "bahridagdas_katalog"
+      },
+      {
+        "type": "variety",
+        "title_en": "Yağmur two-row barley",
+        "title_tr": "Yağmur iki sıralı arpa",
+        "text_en": "Registered in 2021: strongly cold-hardy, tillers well and tolerates barley leaf spot and leaf stripe diseases.",
+        "text_tr": "2021'de tescil edildi: soğuğa çok dayanıklı, iyi kardeşleniyor; arpa yaprak lekesi ve çizgili yaprak lekesi hastalıklarına toleranslı.",
+        "institute": "Trakya Tarımsal Araştırma Enstitüsü",
+        "number_en": "700–800 kg/da yield potential in suitable conditions",
+        "number_tr": "Uygun koşullarda 700–800 kg/da verim potansiyeli",
+        "ref": "milliyet2021"
+      }
+    ],
+    "maize": [
+      {
+        "type": "technology",
+        "title_en": "Programmed drip irrigation",
+        "title_tr": "Programlı damla sulama",
+        "text_en": "Scheduled drip irrigation with reduced watering for grain maize in Konya and Karaman (FAO–Ministry project funded by GEF, 2019–20).",
+        "text_tr": "Konya ve Karaman'da danelik mısırda kısıntılı, programlı damla sulama (GEF destekli FAO–Bakanlık projesi, 2019–20).",
+        "number_en": "23.5% less water, 23.9% less energy, +29.2% grain yield",
+        "number_tr": "%23,5 su ve %23,9 enerji tasarrufu, %29,2 daha fazla tane verimi",
+        "ref": "bloomberght2021"
+      },
+      {
+        "type": "variety",
+        "title_en": "Breeding drought-tolerant maize",
+        "title_tr": "Kuraklığa toleranslı mısır ıslahı",
+        "text_en": "The national maize institute bred for drought stress (2020–24); a 2023–26 project mines local landraces for stress-tolerance alleles.",
+        "text_tr": "Enstitü kuraklık stresine toleranslı çeşit ıslahı yürüttü (2020–24); 2023–26 projesi yerel çeşitlerde strese tolerans allelleri arıyor.",
+        "institute": "Mısır Araştırma Enstitüsü (Sakarya)",
+        "ref": "misir_projeler"
+      },
+      {
+        "type": "technology",
+        "title_en": "Weekly drought maps",
+        "title_tr": "Haftalık kuraklık haritaları",
+        "text_en": "Near-real-time agricultural drought maps for every province and district, published weekly, support early action on irrigated crops.",
+        "text_tr": "Her il ve ilçe için haftalık, yakın gerçek zamanlı tarımsal kuraklık haritaları sulu ürünlerde erken önlem almayı destekliyor.",
+        "institute": "TAGEM",
+        "number_en": "Weekly maps; live since early 2025",
+        "number_tr": "Haftalık haritalar; 2025 başından beri yayında",
+        "ref": "paradergi2025"
+      },
+      {
+        "type": "alternative",
+        "title_en": "Sorghum instead of maize silage",
+        "title_tr": "Mısır silajı yerine sorgum",
+        "text_en": "Where water is short, sorghum silage can replace maize: it needs less water and loses far less yield when irrigation is halved.",
+        "text_tr": "Suyun kısıtlı olduğu yerlerde sorgum silajı mısırın yerini alabilir: daha az su istiyor, sulama yarıya inince çok daha az verim kaybediyor.",
+        "institute": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü",
+        "number_en": "Halving water: maize yield about −70%, sorghum about −20%; water need 700 mm vs 470 mm",
+        "number_tr": "Su yarıya inince verim: mısırda yaklaşık −%70, sorgumda −%20; su ihtiyacı 700 mm'ye karşı 470 mm",
+        "ref": "ekonomist_sorgum"
+      }
+    ],
+    "rice": [
+      {
+        "type": "variety",
+        "title_en": "Kırbıyık, Nehir and Lazer rice",
+        "title_tr": "Kırbıyık, Nehir ve Lazer çeltikleri",
+        "text_en": "Three high-yielding, disease-tolerant rice varieties registered in 2024; Kırbıyık is medium-early, maturing in 115–120 days.",
+        "text_tr": "2024'te tescil edilen, yüksek verimli ve hastalıklara dayanıklı üç çeltik çeşidi; Kırbıyık orta erkenci, 115–120 günde olgunlaşıyor.",
+        "institute": "Trakya Tarımsal Araştırma Enstitüsü",
+        "number_en": "About 1 t/da yield potential (Kırbıyık and Nehir)",
+        "number_tr": "Yaklaşık 1 t/da verim potansiyeli (Kırbıyık ve Nehir)",
+        "ref": "haberturk2024"
+      },
+      {
+        "type": "technology",
+        "title_en": "Drip irrigation instead of flooding",
+        "title_tr": "Göllendirme yerine damla sulama",
+        "text_en": "In Thrace trials, surface or subsurface drip replaced flooded paddies: far less water for some yield loss, and a better profit ratio.",
+        "text_tr": "Trakya denemelerinde yüzey veya yüzey altı damla sulama göllendirmenin yerini aldı: biraz verim kaybına karşı çok daha az su, daha iyi kârlılık.",
+        "institute": "Atatürk Toprak Su ve Tarımsal Meteoroloji Araştırma Enstitüsü (Kırklareli)",
+        "number_en": "60–70% less water vs 20–25% lower yield; relative profit 1.66 vs 1.41 for flooding",
+        "number_tr": "%60–70 su tasarrufuna karşı %20–25 verim kaybı; göreli kârlılık 1,66, göllendirmede 1,41",
+        "ref": "cebi2023"
+      },
+      {
+        "type": "variety",
+        "title_en": "Blast resistance via the Pi40 gene",
+        "title_tr": "Pi40 geniyle yanıklığa dayanıklılık",
+        "text_en": "Marker-assisted backcrossing (project reported in 2013) moves the blast-resistance gene Pi40 into Osmancık-97 and Halilbey.",
+        "text_tr": "Markör destekli geri melezlemeyle (2013 raporu) yanıklık hastalığına dayanıklılık geni Pi40, Osmancık-97 ve Halilbey'e aktarılıyor.",
+        "institute": "Trakya Tarımsal Araştırma Enstitüsü",
+        "number_en": "Osmancık-97 then made up over 75% of Türkiye's rice output",
+        "number_tr": "Osmancık-97 o dönem Türkiye çeltik üretiminin %75'inden fazlasını oluşturuyordu",
+        "ref": "ttae2013"
+      }
+    ],
+    "chickpea": [
+      {
+        "type": "variety",
+        "title_en": "İsmetbey 01, Tolga 01 and Nuribey 01",
+        "title_tr": "İsmetbey 01, Tolga 01 ve Nuribey 01",
+        "text_en": "Winter-sown chickpeas registered in 2024; in national trials they scored as moderately tolerant to anthracnose (Ascochyta blight).",
+        "text_tr": "2024'te tescil edilen kışlık nohutlar; ulusal denemelerde antraknoza (Ascochyta yanıklığı) karşı orta toleranslı bulundu.",
+        "institute": "Doğu Akdeniz Tarımsal Araştırma Enstitüsü (Adana)",
+        "number_en": "İsmetbey 01: 275.1 kg/da vs 230.5 kg/da standard-variety average (+19%)",
+        "number_tr": "İsmetbey 01: 275,1 kg/da; standart çeşit ortalaması 230,5 kg/da (+%19)",
+        "ref": "ttsm2024_nohut"
+      },
+      {
+        "type": "practice",
+        "title_en": "Sow in autumn, not spring",
+        "title_tr": "İlkbahar yerine sonbaharda ekim",
+        "text_en": "Autumn (winter) sowing lengthens the growing period; in a two-year Turkish field trial it doubled chickpea seed yield.",
+        "text_tr": "Sonbahar (kışlık) ekimi yetişme süresini uzatıyor; Türkiye'de iki yıllık bir tarla denemesinde nohut tane verimini iki katına çıkardı.",
+        "number_en": "+102% seed yield (+1,642 kg/ha) vs spring sowing",
+        "number_tr": "İlkbahar ekimine göre +%102 tane verimi (+1.642 kg/ha)",
+        "ref": "ozdemir2003"
+      },
+      {
+        "type": "variety",
+        "title_en": "Arda winter chickpea",
+        "title_tr": "Arda kışlık nohut",
+        "text_en": "From GAPUTAEM's winter breeding programme: resistant to cold and anthracnose, and tall enough for machine harvesting.",
+        "text_tr": "GAPUTAEM'in kışlık ıslah programından: soğuğa ve antraknoza dayanıklı, makineli hasada uygun boyda.",
+        "institute": "GAP Uluslararası Tarımsal Araştırma ve Eğitim Merkezi (Diyarbakır)",
+        "number_en": "Up to three times typical farm yields",
+        "number_tr": "Çiftçi ortalamasının üç katına kadar verim",
+        "ref": "trt2016"
+      },
+      {
+        "type": "technology",
+        "title_en": "Wild chickpea relatives from the south-east",
+        "title_tr": "Güneydoğu'dan yabani nohut akrabaları",
+        "text_en": "Wild Cicer populations collected in south-east Türkiye were genotyped and crossed with cultivated chickpea to widen its narrow gene pool.",
+        "text_tr": "Güneydoğu Anadolu'da toplanan yabani Cicer popülasyonları genotiplendi ve kültür nohuduyla melezlendi; dar gen havuzu genişletiliyor.",
+        "institute": "Tarla Bitkileri Merkez Araştırma Enstitüsü ve Karadeniz Tarımsal Araştırma Enstitüsü (ortak araştırmacılar)",
+        "ref": "vonwettberg2018"
+      }
+    ],
+    "lentil": [
+      {
+        "type": "practice",
+        "title_en": "Supplemental irrigation",
+        "title_tr": "Destek sulama",
+        "text_en": "A little irrigation on top of rain lifts lentil yields; supplying two-thirds of the full requirement gave the best water productivity.",
+        "text_tr": "Yağışa ek az miktarda sulama mercimek verimini artırıyor; tam ihtiyacın üçte ikisini vermek en yüksek su verimliliğini sağladı.",
+        "number_en": "1.04 t/ha rainfed → 1.81 t/ha with full supplemental irrigation (+74%; ICARDA trial, northern Syria)",
+        "number_tr": "Kuruda 1,04 t/ha → tam destek sulamada 1,81 t/ha (+%74; ICARDA denemesi, Kuzey Suriye)",
+        "ref": "oweis2004"
+      },
+      {
+        "type": "variety",
+        "title_en": "Mirzabey winter red lentil",
+        "title_tr": "Mirzabey kışlık kırmızı mercimek",
+        "text_en": "Winter-sown red lentil registered in March 2024 after trials in Diyarbakır, Şanlıurfa, Ankara and Manisa; it out-yielded the standards.",
+        "text_tr": "Diyarbakır, Şanlıurfa, Ankara ve Manisa denemelerinin ardından Mart 2024'te tescil edilen kışlık kırmızı mercimek; standartları geçti.",
+        "institute": "GAP Tarımsal Araştırma Enstitüsü (Şanlıurfa)",
+        "number_en": "226.1 kg/da vs 208.3 kg/da standard-variety average (+8.5%)",
+        "number_tr": "226,1 kg/da; standart çeşit ortalaması 208,3 kg/da (+%8,5)",
+        "ref": "ttsm2024_mercimek"
+      },
+      {
+        "type": "variety",
+        "title_en": "Kafkas, Özbek and Çiftçi winter lentils",
+        "title_tr": "Kafkas, Özbek ve Çiftçi kışlık mercimekleri",
+        "text_en": "Cold-tolerant red lentils selected from south-east Anatolian landraces, so highland farmers can sow lentil in winter instead of spring.",
+        "text_tr": "Güneydoğu Anadolu yerel çeşitlerinden seçilen soğuğa toleranslı kırmızı mercimekler; yaylada ilkbahar yerine kışlık ekime imkân veriyor.",
+        "institute": "Tarla Bitkileri Merkez Araştırma Enstitüsü",
+        "ref": "aydogan2004"
+      }
+    ],
+    "potato": [
+      {
+        "type": "variety",
+        "title_en": "Kafkas: wart-resistant potato",
+        "title_tr": "Kafkas: siğile dayanıklı patates",
+        "text_en": "Fully resistant to potato wart; in 2025 it gave the first harvest in 24 years in Nevşehir's wart quarantine belt.",
+        "text_tr": "Patates siğil hastalığına tam dayanıklı; 2025'te Nevşehir'deki siğil güvenlik kuşağında 24 yıl sonra ilk hasadı verdi.",
+        "institute": "Zirai Mücadele Merkez Araştırma Enstitüsü",
+        "ref": "zmmae2025"
+      },
+      {
+        "type": "technology",
+        "title_en": "Drip instead of furrow irrigation",
+        "title_tr": "Karık yerine damla sulama",
+        "text_en": "In Thrace trials, drip and furrow irrigation gave similar tuber yields, but drip produced more potatoes per cubic metre of water.",
+        "text_tr": "Trakya denemelerinde damla ve karık sulama benzer yumru verimi verdi, ancak damla sulama metreküp su başına daha çok ürün sağladı.",
+        "number_en": "Water-use efficiency 5.19–9.47 kg/m³ (drip) vs 4.70–6.63 kg/m³ (furrow)",
+        "number_tr": "Su kullanım randımanı: damlada 5,19–9,47 kg/m³, karıkta 4,70–6,63 kg/m³",
+        "ref": "erdem2006"
+      },
+      {
+        "type": "practice",
+        "title_en": "Deficit drip irrigation",
+        "title_tr": "Kısıntılı damla sulama",
+        "text_en": "In Niğde, drip irrigation at 66% of field capacity gave the best water-use efficiency in both years; full irrigation gave the top yield.",
+        "text_tr": "Niğde'de tarla kapasitesinin %66'sında damla sulama iki yılda da en iyi su kullanım randımanını verdi; en yüksek verim tam sulamada alındı.",
+        "ref": "akkamis2023"
+      }
+    ],
+    "tomato": [
+      {
+        "type": "technology",
+        "title_en": "Greenhouse cooling and climate control",
+        "title_tr": "Serada serinletme ve iklim kontrolü",
+        "text_en": "After the 2022–23 heat, a survey of high-tech greenhouses urges bigger fog-cooling systems, better climate control and heat-resistant varieties.",
+        "text_tr": "2022–23 sıcaklarından sonra yüksek teknolojili seralarda yapılan araştırma; daha güçlü sisleme, iklim kontrolü ve sıcağa dayanıklı çeşit öneriyor.",
+        "ref": "kurklu2025"
+      },
+      {
+        "type": "technology",
+        "title_en": "Marker-assisted breeding against TYLCV",
+        "title_tr": "TYLCV'ye karşı markör destekli ıslah",
+        "text_en": "A hybrid with the Ty-1 and Ty-3a resistance genes was crossed with a BATEM inbred line; markers found 30 of 95 F3 lines homozygous for both.",
+        "text_tr": "Ty-1 ve Ty-3a dayanıklılık genli bir hibrit BATEM'in saf hattıyla melezlendi; markörler 95 F3 hattından 30'unu iki gen için homozigot buldu.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "ref": "zengin2020"
+      },
+      {
+        "type": "practice",
+        "title_en": "Deficit drip with biochar or vermicompost",
+        "title_tr": "Biyokömür veya solucan gübresiyle kısıntılı damla",
+        "text_en": "In an İzmir greenhouse, drip at 70% of full water yielded like full irrigation; biochar or vermicompost boosted soil microbial activity.",
+        "text_tr": "İzmir'de bir serada tam suyun %70'iyle damla sulama tam sulamaya yakın verim verdi; biyokömür ve solucan gübresi toprak canlılığını artırdı.",
+        "number_en": "About 33% less irrigation water (457 mm vs 684 mm)",
+        "number_tr": "Yaklaşık %33 daha az sulama suyu (684 mm yerine 457 mm)",
+        "ref": "tuzel2025"
+      }
+    ],
+    "cotton": [
+      {
+        "type": "variety",
+        "title_en": "Sahra and Solmaz: drought-tolerant cotton",
+        "title_tr": "Sahra ve Solmaz: kuraklığa dayanıklı pamuk",
+        "text_en": "Developed over about 10 years by Özaltın Tarım with ADÜ and İYTE, with scientific support from a Nazilli Cotton Research Institute scientist.",
+        "text_tr": "Özaltın Tarım'ın ADÜ ve İYTE ile yaklaşık 10 yılda geliştirdiği çeşitler; Nazilli Pamuk Araştırma Enstitüsü'nden bir araştırmacı destek verdi.",
+        "institute": "Nazilli Pamuk Araştırma Enstitüsü (bilimsel destek)",
+        "number_en": "At most 5–10% yield loss with 50% less irrigation",
+        "number_tr": "Sulama yarıya inince en fazla %5–10 verim kaybı",
+        "ref": "ekonomist2022"
+      },
+      {
+        "type": "practice",
+        "title_en": "Alternate-furrow irrigation",
+        "title_tr": "Karık atlamalı sulama",
+        "text_en": "Watering every other furrow is a deficit option for water-short years on the Harran Plain, saving much water for a moderate yield loss.",
+        "text_tr": "Harran Ovası'nda su kıtlığı yaşanan yıllarda bir karık atlayarak sulamak, orta düzeyde verim kaybına karşı büyük su tasarrufu sağlıyor.",
+        "number_en": "48–60% less water; 17–27% lower yield",
+        "number_tr": "%48–60 daha az su; %17–27 daha düşük verim",
+        "ref": "kanber2012"
+      },
+      {
+        "type": "technology",
+        "title_en": "Drip irrigation at 75% of full need",
+        "title_tr": "Tam ihtiyacın %75'iyle damla sulama",
+        "text_en": "In the Aegean, drip-irrigated cotton given 75% of full water saved water and raised water-use efficiency, at some cost to income.",
+        "text_tr": "Ege'de tam suyun %75'iyle damla sulanan pamuk su tasarrufu ve daha yüksek su kullanım randımanı sağladı; karşılığında gelir azaldı.",
+        "number_en": "25% irrigation water saved; the authors also report 34% lower net income",
+        "number_tr": "%25 sulama suyu tasarrufu; yazarlar net gelirde %34 düşüş de bildiriyor",
+        "ref": "dagdelen2009"
+      }
+    ],
+    "sunflower": [
+      {
+        "type": "variety",
+        "title_en": "1931 CL hybrid sunflower",
+        "title_tr": "1931 CL hibrit ayçiçeği",
+        "text_en": "Oil sunflower hybrid registered in 2024; highly tolerant to downy mildew and broomrape, and observed to be little affected by drought.",
+        "text_tr": "2024'te tescil edilen yağlık hibrit; mildiyö (köse) ve orobanşa (canavar otu) yüksek toleranslı, kuraklıktan az etkilendiği gözlendi.",
+        "institute": "Trakya Tarımsal Araştırma Enstitüsü",
+        "ref": "dha2024"
+      },
+      {
+        "type": "alternative",
+        "title_en": "Safflower where water is scarce",
+        "title_tr": "Suyun kıt olduğu yerlerde aspir",
+        "text_en": "Safflower bred by the Trakya institute is demonstrated in Kırklareli as a drought-hardy oilseed for fields with little irrigation water.",
+        "text_tr": "Trakya Tarımsal Araştırma Enstitüsü'nün aspiri, sulama suyu kısıtlı tarlalar için kuraklığa dayanıklı yağ bitkisi olarak Kırklareli'nde tanıtılıyor.",
+        "institute": "Trakya Tarımsal Araştırma Enstitüsü",
+        "ref": "karar2026"
+      },
+      {
+        "type": "variety",
+        "title_en": "SAN 2259, SAN 2239 and TR 2242 hybrids",
+        "title_tr": "SAN 2259, SAN 2239 ve TR 2242 hibritleri",
+        "text_en": "Domestic hybrids highly resistant to downy mildew (köse); no disease appeared on them in the 2022 epidemic regions.",
+        "text_tr": "Mildiyöye (köse) yüksek dayanıklı yerli hibritler; 2022'de salgın görülen bölgelerde bu çeşitlerde hastalık görülmedi.",
+        "institute": "Trakya Tarımsal Araştırma Enstitüsü",
+        "ref": "trt2022"
+      }
+    ],
+    "sugarbeet": [
+      {
+        "type": "technology",
+        "title_en": "Programmed drip irrigation",
+        "title_tr": "Programlı damla sulama",
+        "text_en": "Scheduled drip irrigation demonstrated on Konya and Karaman farms in 2019–20 by FAO, the Ministry of Agriculture and Forestry and GEF.",
+        "text_tr": "FAO, Tarım ve Orman Bakanlığı ve GEF'in 2019–20'de Konya ve Karaman'daki çiftliklerde uyguladığı programlı damla sulama.",
+        "number_en": "25.5% less water, 23.2% less electricity, +9.0% sugar yield",
+        "number_tr": "%25,5 su ve %23,2 elektrik tasarrufu, %9,0 daha fazla şeker verimi",
+        "ref": "bloomberght2021"
+      },
+      {
+        "type": "variety",
+        "title_en": "Türkşeker 2023 and Türkşeker 2053",
+        "title_tr": "Türkşeker 2023 ve Türkşeker 2053",
+        "text_en": "Registered in the rhizomania-tolerant group after 2022–23 trials in rhizomania-hit areas from Eskişehir and Konya to Çanakkale.",
+        "text_tr": "Eskişehir'den Konya ve Çanakkale'ye rizomanili alanlardaki 2022–23 denemelerinin ardından rizomaniye toleranslı grupta tescil edildi.",
+        "institute": "Türkşeker Şeker Enstitüsü",
+        "number_en": "Türkşeker 2023: 1,161 kg/da sugar yield, 2nd of 8 candidates",
+        "number_tr": "Türkşeker 2023: 1.161 kg/da şeker verimi, 8 aday arasında 2.",
+        "ref": "ttsm2024_pancar"
+      },
+      {
+        "type": "alternative",
+        "title_en": "Melon and tomato instead of sugar beet",
+        "title_tr": "Şeker pancarı yerine kavun ve domates",
+        "text_en": "In Aksaray, with groundwater down from about 50 m to 150 m or deeper, farmers are moving from sugar beet and maize to melon and tomato.",
+        "text_tr": "Yeraltı suyunun yaklaşık 50 m'den 150 m ve daha derine indiği Aksaray'da çiftçiler şeker pancarı ve mısırdan kavun ve domatese geçiyor.",
+        "institute": "Aksaray İl Tarım ve Orman Müdürlüğü",
+        "number_en": "About 75% less water than maize or sugar beet",
+        "number_tr": "Mısır ve şeker pancarına göre yaklaşık %75 su tasarrufu",
+        "ref": "dha2024b"
+      }
+    ],
+    "tea": [
+      {
+        "type": "variety",
+        "title_en": "Elite clones from the national tea gene pool",
+        "title_tr": "Ulusal çay gen havuzundan seçkin klonlar",
+        "text_en": "From 2,034 Black Sea genotypes, 200 elite clones were pre-selected and DNA-barcoded at the National Tea Gene Bank; 12 are now up for registration.",
+        "text_tr": "Karadeniz'den 2.034 genotip arasından 200 seçkin klon belirlendi ve Ulusal Çay Gen Bankası'nda DNA barkodlandı; 12'si tescil sürecinde.",
+        "number_en": "2,034 genotypes → 200 elite clones → 12 registration candidates",
+        "number_tr": "2.034 genotip → 200 seçkin klon → 12 tescil adayı",
+        "ref": "eminoglu2025"
+      },
+      {
+        "type": "practice",
+        "title_en": "Moisture and irrigation management",
+        "title_tr": "Nem yönetimi ve sulama altyapısı",
+        "text_en": "Data for five tea provinces (2004–2022) link humidity to lower productivity; the authors urge moisture management, erosion control and irrigation.",
+        "text_tr": "Beş çay ilinin 2004–2022 verileri nemin verimliliği düşürdüğünü gösteriyor; yazarlar nem yönetimi, erozyon kontrolü ve sulama altyapısı öneriyor.",
+        "ref": "haciimamoglu2025"
+      },
+      {
+        "type": "technology",
+        "title_en": "Modelling tea's future range",
+        "title_tr": "Çayın gelecekteki alanının modellenmesi",
+        "text_en": "A niche model projects suitable tea habitat shrinking by 2081–2100 under SSP5-8.5, with the range expanding toward Rize and Artvin.",
+        "text_tr": "Ekolojik niş modeli, SSP5-8.5'te 2081–2100'e kadar uygun çay alanlarının daralacağını, yayılışın Rize ve Artvin'e doğru genişleyeceğini öngörüyor.",
+        "number_en": "Model accuracy AUC 0.989",
+        "number_tr": "Model doğruluğu AUC 0,989",
+        "ref": "guzel2023"
+      }
+    ],
+    "hazelnut": [
+      {
+        "type": "technology",
+        "title_en": "Summer irrigation",
+        "title_tr": "Yaz sulaması",
+        "text_en": "Irrigating from late May to August against drought improves nut size and reduces empty nuts.",
+        "text_tr": "Mayıs sonundan ağustosa kadar kuraklığa karşı sulama, meyve iriliğini artırıyor ve boş meyve oranını azaltıyor.",
+        "institute": "Ondokuz Mayıs Üniversitesi",
+        "number_en": "About 20–60% higher yield where hazelnut was irrigated",
+        "number_tr": "Sulanan bahçelerde yaklaşık %20–60 verim artışı",
+        "ref": "omu2026"
+      },
+      {
+        "type": "variety",
+        "title_en": "Okay 28: a late-leafing hybrid",
+        "title_tr": "Okay 28: geç yapraklanan melez",
+        "text_en": "Tombul × Kargalak hybrid registered in 2012, with high yield and kernel ratio; it leafs out late, the trait bred against spring frost.",
+        "text_tr": "2012'de tescil edilen Tombul × Kargalak melezi; verimi ve iç oranı yüksek, ilkbahar donuna karşı aranan geç yapraklanma özelliğine sahip.",
+        "institute": "Fındık Araştırma Enstitüsü (Giresun)",
+        "number_en": "Leafs out about 1 week later than Tombul",
+        "number_tr": "Tombul'dan yaklaşık 1 hafta geç yapraklanıyor",
+        "ref": "findik_okay28"
+      },
+      {
+        "type": "variety",
+        "title_en": "Breeding against spring frost (2022–2037)",
+        "title_tr": "İlkbahar geç donlarına karşı ıslah (2022–2037)",
+        "text_en": "Hybrid seedlings are screened for late leafing, spring-frost resistance, yield and quality; the best will go forward to registration.",
+        "text_tr": "Melez fidanlar geç yapraklanma, ilkbahar donuna dayanıklılık, verim ve kalite için taranıyor; en iyileri tescile sunulacak.",
+        "institute": "Fındık Araştırma Enstitüsü (Giresun)",
+        "number_en": "2,200 seedlings moved to the field; over 4,000 plants expected",
+        "number_tr": "2.200 fidan araziye aktarıldı; 4.000'i aşkın bitki bekleniyor",
+        "ref": "haberler_findik"
+      },
+      {
+        "type": "practice",
+        "title_en": "The right variety for the right altitude",
+        "title_tr": "Doğru rakıma doğru çeşit",
+        "text_en": "Ten-year trials at 0–750 m advise Çakıldak and Allahverdi where late frost is a risk; Allahverdi leafs out latest, in early April.",
+        "text_tr": "0–750 m'deki 10 yıllık denemeler geç don riskli yerlerde Çakıldak ve Allahverdi'yi öneriyor; en geç Allahverdi, nisan başında yapraklanıyor.",
+        "institute": "Fındık Araştırma Enstitüsü (Giresun)",
+        "number_en": "Study begun in 2016 in three bands: 0–250, 251–500 and 501–750 m",
+        "number_tr": "2016'da başlayan çalışma, üç rakım kuşağı: 0–250, 251–500 ve 501–750 m",
+        "ref": "findik2026"
+      }
+    ],
+    "apricot": [
+      {
+        "type": "practice",
+        "title_en": "Active frost protection",
+        "title_tr": "Geç dona karşı aktif koruma",
+        "text_en": "Against late spring frost: over-canopy water spraying as frost starts, smudging, orchard heaters or big fans; avoid frost-pocket valleys.",
+        "text_tr": "Geç ilkbahar donuna karşı: don başlarken ağaç üstü su püskürtme, dumanlama, bahçe ısıtıcıları veya büyük pervaneler; don çukuru vadilerden kaçının.",
+        "institute": "Meyvecilik Araştırma Enstitüsü (Eğirdir)",
+        "number_en": "Effective against frosts of −2 to −3 °C",
+        "number_tr": "−2 ile −3 °C'lik donlara karşı etkili",
+        "ref": "marem_kayisi"
+      },
+      {
+        "type": "technology",
+        "title_en": "Agricultural Frost Warning System (ZDUS)",
+        "title_tr": "Zirai Don Uyarı Sistemi (ZDUS)",
+        "text_en": "Web-based warning that matches forecast lows with each crop's growth stage and critical temperatures to flag frost risk days ahead.",
+        "text_tr": "Tahmini en düşük sıcaklıkları ürünün gelişme dönemi ve kritik sıcaklıklarıyla eşleştirip don riskini günler önce bildiren web tabanlı sistem.",
+        "institute": "Meteoroloji Genel Müdürlüğü",
+        "number_en": "96 plant species with stage-specific critical temperatures; launched in 2007",
+        "number_tr": "96 bitki türü için döneme özgü kritik sıcaklıklar; 2007'de devreye girdi",
+        "ref": "simsek_zdus"
+      },
+      {
+        "type": "practice",
+        "title_en": "Drought-tolerant zerdali rootstock",
+        "title_tr": "Kurağa dayanıklı zerdali anacı",
+        "text_en": "Seedling rootstocks of wild apricot (zerdali) tolerate drought, lime and nematodes well enough for orchards on dry soils.",
+        "text_tr": "Zerdali çöğür anaçları kuraklık, kireç ve nematoda karşı tatmin edici sonuç veriyor; kurak topraklardaki bahçelere uygun.",
+        "institute": "Meyvecilik Araştırma Enstitüsü (Eğirdir)",
+        "ref": "marem_kayisi"
+      }
+    ],
+    "fig": [
+      {
+        "type": "variety",
+        "title_en": "Breeding drought- and cold-tolerant figs",
+        "title_tr": "Kuraklığa ve soğuğa dayanıklı incir ıslahı",
+        "text_en": "Selection, crossing and mutation breeding for figs that tolerate drought, low temperature, diseases and pests, using a 331-type gene collection.",
+        "text_tr": "331 tiplik gen koleksiyonuyla seleksiyon, melezleme ve mutasyon ıslahı; kuraklık, soğuk, hastalık ve zararlılara dayanıklı incir hedefleniyor.",
+        "institute": "İncir Araştırma Enstitüsü (Aydın)",
+        "number_en": "Gene collection: 273 female and 58 caprifig (ilek) types",
+        "number_tr": "Gen koleksiyonu: 273 dişi ve 58 erkek (ilek) incir tipi",
+        "ref": "incir_islah"
+      },
+      {
+        "type": "practice",
+        "title_en": "Supplemental irrigation and water harvesting",
+        "title_tr": "Destek sulama ve su hasadı",
+        "text_en": "Below 550 mm of rain, 1–2 summer drip or basin irrigations prevent drought leaf-drop and small fruit; on slopes, earth bunds harvest rain.",
+        "text_tr": "Yağış 550 mm'nin altındaysa yazın 1–2 damla veya çanak sulama kuraklıkla yaprak dökümünü ve küçük meyveyi önlüyor; eğimde toprak setler suyu tutuyor.",
+        "institute": "İncir Araştırma Enstitüsü (Aydın)",
+        "number_en": "1–2 irrigations raised yield and quality in institute trials",
+        "number_tr": "Enstitü denemelerinde 1–2 sulama verimi ve kaliteyi artırdı",
+        "ref": "incir_sulama"
+      },
+      {
+        "type": "technology",
+        "title_en": "Harvest nets and solar drying",
+        "title_tr": "Hasat ağları ve güneşle kurutma",
+        "text_en": "Collecting figs on nets instead of soil and drying them on raised trays in tunnels or solar dryers gives cleaner fruit and less aflatoxin.",
+        "text_tr": "İnciri toprak yerine ağda toplamak, tünel ya da güneş kollektörlü kurutucularda yüksek sergide kurutmak daha temiz ürün ve az aflatoksin sağlıyor.",
+        "institute": "İncir Araştırma Enstitüsü (Aydın)",
+        "number_en": "Nets halved harvest time; solar-collector drying finished 3 days sooner",
+        "number_tr": "Ağlarla hasat süresi yarıya indi; güneş kollektörlü kurutma 3 gün erken bitti",
+        "ref": "incir_kurutma"
+      }
+    ],
+    "cherry": [
+      {
+        "type": "variety",
+        "title_en": "Low-chill sweet cherries",
+        "title_tr": "Az soğuklama isteyen kirazlar",
+        "text_en": "Royal Tioga, Royal Lynn and Royal Marie need about 500 chill hours and fruited in lowland Adana: an option where warmer winters cut chill.",
+        "text_tr": "Royal Tioga, Royal Lynn ve Royal Marie yaklaşık 500 saat soğuklama istiyor ve Adana ovasında meyve verdi: kışı ısınan yerler için bir seçenek.",
+        "number_en": "Site chill 540–652 h; Royal Tioga bloomed 8 March, harvested 20 April",
+        "number_tr": "Bölgede 540–652 saat soğuklama; Royal Tioga 8 Mart'ta çiçeklendi, 20 Nisan'da hasat edildi",
+        "ref": "kuden2020"
+      },
+      {
+        "type": "practice",
+        "title_en": "A late-frost plan for cherry orchards",
+        "title_tr": "Kiraz bahçeleri için geç don planı",
+        "text_en": "Choose varieties and rootstocks with frost in mind, and use frost warnings, passive and active protection, and TARSİM insurance.",
+        "text_tr": "Çeşit ve anacı dona göre seçin; don uyarılarından, pasif ve aktif korumadan ve TARSİM sigortasından yararlanın.",
+        "institute": "Meyvecilik Araştırma Enstitüsü (Eğirdir)",
+        "number_en": "At full bloom, −3.9 °C causes about 90% damage",
+        "number_tr": "Tam çiçeklenmede −3,9 °C yaklaşık %90 zarara yol açıyor",
+        "ref": "marem_kiraz"
+      },
+      {
+        "type": "technology",
+        "title_en": "Grants for frost-protection equipment",
+        "title_tr": "Dondan korunma ekipmanına hibe",
+        "text_en": "The state pays half the cost of frost-protection equipment, and growers who use it get lower TARSİM crop-insurance premiums.",
+        "text_tr": "Devlet dondan korunma ekipmanının yarısını hibe olarak karşılıyor; bu ekipmanı kullanan üreticiler TARSİM priminde indirim alıyor.",
+        "institute": "Tarım ve Orman Bakanlığı",
+        "number_en": "50% equipment grant; 25–30% insurance premium discount",
+        "number_tr": "%50 ekipman hibesi; %25–30 sigorta prim indirimi",
+        "ref": "malatya2025"
+      },
+      {
+        "type": "practice",
+        "title_en": "Mahaleb rootstock for saline conditions",
+        "title_tr": "Tuzlu koşullar için mahlep anacı",
+        "text_en": "'0900 Ziraat' cherries on Mahaleb took up more water and kept out sodium under saline irrigation; the authors recommend it for saline sites.",
+        "text_tr": "Mahlep anacındaki '0900 Ziraat' kirazı tuzlu sulamada daha çok su aldı ve sodyumu dışarıda tuttu; yazarlar tuzlu koşullar için öneriyor.",
+        "institute": "Meyvecilik Araştırma Enstitüsü (Eğirdir)",
+        "number_en": "Mahaleb seedling rootstock registered by the Eğirdir institute in 1990",
+        "number_tr": "Mahlep çöğür anacı 1990'da Eğirdir enstitüsünce tescil edildi",
+        "ref": "kucukyumuk2015"
+      }
+    ],
+    "grape": [
+      {
+        "type": "variety",
+        "title_en": "Breeding drought-resistant vines and rootstocks",
+        "title_tr": "Kuraklığa dayanıklı asma ve anaç ıslahı",
+        "text_en": "A TAGEM-approved crossing project in Manisa develops drought-resistant grapes and new rootstocks suited to the region as the climate changes.",
+        "text_tr": "Manisa'da TAGEM onaylı melezleme projesi, değişen iklime karşı bölgeye uygun, kuraklığa dayanıklı üzüm çeşitleri ve yeni anaçlar geliştiriyor.",
+        "institute": "Bağcılık Araştırma Enstitüsü (Manisa)",
+        "number_en": "Nearly 13,000 vine samples; 5-year project (reported in 2021)",
+        "number_tr": "Yaklaşık 13.000 asma örneği; 5 yıllık proje (2021'de duyuruldu)",
+        "ref": "trt2021"
+      },
+      {
+        "type": "practice",
+        "title_en": "Drought-tolerant rootstock choice",
+        "title_tr": "Kurağa dayanıklı anaç seçimi",
+        "text_en": "Use 1103 P on very dry sites and 140 Ru on dry, limy soils; 110 R is far more drought-tolerant than 99 R. Avoid 5 BB and SO4 on dry soils.",
+        "text_tr": "Çok kurak yerlerde 1103 P, kurak ve kireçli topraklarda 140 Ru; 110 R, 99 R'den çok daha kurağa dayanıklı. Kurak toprakta 5 BB ve SO4'ten kaçının.",
+        "institute": "Alata Bahçe Kültürleri Araştırma Enstitüsü (Mersin)",
+        "ref": "alata_asma"
+      },
+      {
+        "type": "variety",
+        "title_en": "Saklıkara seedless table grape",
+        "title_tr": "Saklıkara çekirdeksiz sofralık üzüm",
+        "text_en": "Late-ripening seedless table grape (Ribol × Güz Üzümü) registered in 2023; resists grey mould and keeps at least 2 months in cold storage.",
+        "text_tr": "2023'te tescil edilen geç olgunlaşan çekirdeksiz sofralık üzüm (Ribol × Güz Üzümü); kurşuni küfe dayanıklı, soğukta en az 2 ay saklanıyor.",
+        "institute": "Bağcılık Araştırma Enstitüsü (Tekirdağ)",
+        "number_en": "About 10 kg per vine",
+        "number_tr": "Omca başına yaklaşık 10 kg",
+        "ref": "bagcilik_saklikara"
+      },
+      {
+        "type": "technology",
+        "title_en": "Downy mildew warning system",
+        "title_tr": "Mildiyö tahmin-uyarı sistemi",
+        "text_en": "A prediction-warning system times sprays against grapevine downy mildew in the Aegean region.",
+        "text_tr": "Ege'de bağ mildiyösüne karşı ilaçlamaların zamanı tahmin-uyarı sistemiyle belirleniyor.",
+        "institute": "Bornova Zirai Mücadele Araştırma Enstitüsü (İzmir)",
+        "ref": "bzmai"
+      }
+    ],
+    "olive": [
+      {
+        "type": "variety",
+        "title_en": "Drought-tolerant olive varieties",
+        "title_tr": "Kuraklığa dayanıklı zeytin çeşitleri",
+        "text_en": "TAGEM ranks registered olives by drought tolerance: Memecik, Butko, Çekişte, Kiraz, Girit and Satı are tolerant; Gemlik and Ayvalık are sensitive.",
+        "text_tr": "TAGEM tescilli zeytinleri kuraklığa dayanıma göre sıralıyor: Memecik, Butko, Çekişte, Kiraz, Girit ve Satı toleranslı; Gemlik ve Ayvalık hassas.",
+        "institute": "TAGEM",
+        "ref": "milliyet2026"
+      },
+      {
+        "type": "variety",
+        "title_en": "Hybrid olives and stress-tolerant rootstocks",
+        "title_tr": "Melez zeytinler ve strese dayanıklı anaçlar",
+        "text_en": "Crosses such as Kilis Yağlık × Girit and Butko × Gemlik, and rootstocks selected from wild olives, including Verticillium-resistant ones.",
+        "text_tr": "Kilis Yağlık × Girit ve Butko × Gemlik melezleri; yabani zeytinlerden seçilen, Verticillium solgunluğuna dayanıklılar dahil anaçlar.",
+        "institute": "Zeytincilik Araştırma Enstitüsü (İzmir)",
+        "number_en": "1,600 F1 genotypes targeted; 21 of 90 wild selections show rootstock potential",
+        "number_tr": "1.600 F1 genotip hedefi; 90 yabani seleksiyondan 21'i anaç potansiyeli taşıyor",
+        "ref": "izmirzae_projeler"
+      },
+      {
+        "type": "practice",
+        "title_en": "Deficit drip irrigation for Memecik",
+        "title_tr": "Memecik'te kısıntılı damla sulama",
+        "text_en": "On the Aegean coast, drip-irrigating Memecik at 25% of pan evaporation left yield unaffected compared with fuller regimes.",
+        "text_tr": "Ege kıyısında Memecik'i buharlaşma kabı değerinin %25'iyle damla sulamak, daha bol sulamaya göre verimi etkilemedi.",
+        "number_en": "72% water saving with no significant yield loss",
+        "number_tr": "Önemli verim kaybı olmadan %72 su tasarrufu",
+        "ref": "kaya2017"
+      },
+      {
+        "type": "technology",
+        "title_en": "Plant-sensor irrigation scheduling",
+        "title_tr": "Bitki sensörleriyle sulama programı",
+        "text_en": "Builds Memecik irrigation schedules from plant sensors (xylem water potential, transpiration, photosynthesis) to time water precisely.",
+        "text_tr": "Memecik'in sulama programını bitki sensörleri (ksilem su potansiyeli, terleme, fotosentez) ile oluşturup suyu tam zamanında veriyor.",
+        "institute": "Zeytincilik Araştırma Enstitüsü (İzmir)",
+        "ref": "izmirzae_projeler"
+      }
+    ],
+    "pistachio": [
+      {
+        "type": "variety",
+        "title_en": "Breeding for chill and frost fit",
+        "title_tr": "Soğuklama ve dona uygun çeşit ıslahı",
+        "text_en": "Institute breeding criteria: match each new cultivar's winter-chill need to its target region, and prefer candidates whose bloom avoids late frost.",
+        "text_tr": "Enstitünün ıslah kriterleri: yeni çeşidin soğuklama ihtiyacını hedef bölgeye uydurmak, çiçeklenmesi geç donla çakışmayan adayları seçmek.",
+        "institute": "Antepfıstığı Araştırma Enstitüsü (Gaziantep)",
+        "ref": "yilmaz2024"
+      },
+      {
+        "type": "practice",
+        "title_en": "Evaporative cooling to delay bloom",
+        "title_tr": "Çiçeklenmeyi geciktiren serinletme",
+        "text_en": "Over-tree mini-sprinklers after 600 chill units cool the buds and delay bloom, so flowers can miss spring frosts.",
+        "text_tr": "600 soğuklama biriminden sonra ağaç üstü mini yağmurlama tomurcukları serinletip çiçeklenmeyi geciktiriyor; çiçekler ilkbahar donundan kaçabiliyor.",
+        "institute": "Antepfıstığı Araştırma Enstitüsü (Gaziantep)",
+        "number_en": "Full bloom delayed 7 (Uzun), 8.5 (Ohadi) and 12.5 days (Siirt)",
+        "number_tr": "Tam çiçeklenme Uzun'da 7, Ohadi'de 8,5, Siirt'te 12,5 gün gecikti",
+        "ref": "uzun2001"
+      },
+      {
+        "type": "variety",
+        "title_en": "Tekin and Mümtaz for irrigated orchards",
+        "title_tr": "Sulu bahçeler için Tekin ve Mümtaz",
+        "text_en": "In a 14-year drip-irrigation trial of 14 cultivars in Şanlıurfa, Tekin, Mümtaz and Sel 5 gave the highest yields.",
+        "text_tr": "Şanlıurfa'da 14 çeşitle yürütülen 14 yıllık damla sulama denemesinde en yüksek verimi Tekin, Mümtaz ve Sel 5 verdi.",
+        "institute": "GAP Toprak, Su Kaynakları ve Tarımsal Araştırma Enstitüsü (Şanlıurfa)",
+        "number_en": "Trial 1994–2008; yields measured 2004–2008",
+        "number_tr": "Deneme 1994–2008; verim 2004–2008'de ölçüldü",
+        "ref": "acar2011"
+      },
+      {
+        "type": "technology",
+        "title_en": "Irrigating pistachio",
+        "title_tr": "Antepfıstığında sulama",
+        "text_en": "Irrigation offsets drought stress: in south-east Anatolia, irrigated pistachio yielded far more than non-irrigated trees.",
+        "text_tr": "Sulama kuraklık stresini dengeliyor: Güneydoğu Anadolu'da sulanan antepfıstığı sulanmayan ağaçlardan çok daha fazla ürün verdi.",
+        "institute": "Antepfıstığı Araştırma Enstitüsü (Gaziantep)",
+        "number_en": "+67% yield vs non-irrigated trees",
+        "number_tr": "Sulanmayan ağaçlara göre +%67 verim",
+        "ref": "ozmen2015"
+      }
+    ],
+    "almond": [
+      {
+        "type": "practice",
+        "title_en": "Plant late bloomers against frost",
+        "title_tr": "Geç dona karşı geç çiçeklenen çeşit",
+        "text_en": "A low chill need leaves almond exposed to late spring frost, so the institute says new orchards must use late-blooming varieties such as Ferragnes.",
+        "text_tr": "Soğuklama ihtiyacı düşük olan badem ilkbahar geç donlarına hassas; enstitü yeni bahçelerde mutlaka Ferragnes gibi geç çiçeklenen çeşitleri öneriyor.",
+        "institute": "Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü (Yalova)",
+        "number_en": "Critical temperatures: open flowers −1.5 °C, flower buds −2 to −4 °C",
+        "number_tr": "Kritik sıcaklıklar: açmış çiçek −1,5 °C, çiçek tomurcuğu −2 ile −4 °C",
+        "ref": "badem_brosur"
+      },
+      {
+        "type": "variety",
+        "title_en": "Guara: last to bloom, first in kernels",
+        "title_tr": "Guara: en geç çiçeklenen, en çok iç veren",
+        "text_en": "Of 21 varieties in the institute's almond gene bank, Guara and Glorieta bloomed last; self-fertile Guara also gave the highest kernel yield.",
+        "text_tr": "Enstitünün badem gen bankasındaki 21 çeşit içinde en geç Guara ve Glorieta çiçeklendi; kendine verimli Guara en yüksek iç verimi de verdi.",
+        "institute": "Antepfıstığı Araştırma Enstitüsü (Gaziantep)",
+        "number_en": "Bloomed 12 days after Nonpareil; 4.2 kg of kernels per tree (2012–2013 mean)",
+        "number_tr": "Nonpareil'den 12 gün sonra çiçeklendi; ağaç başına 4,2 kg iç badem (2012–2013 ortalaması)",
+        "ref": "atli2019"
+      },
+      {
+        "type": "variety",
+        "title_en": "Breeding late-blooming, self-fertile almonds",
+        "title_tr": "Geç çiçeklenen, kendine verimli badem ıslahı",
+        "text_en": "In 2009, local almonds were crossed with self-fertile Lauranne, Guara and Moncayo to breed late-blooming, self-fertile Turkish varieties.",
+        "text_tr": "2009'da yerli bademler kendine verimli Lauranne, Guara ve Moncayo ile melezlendi; hedef geç çiçeklenen ve kendine verimli yerli çeşitler.",
+        "institute": "Antepfıstığı Araştırma Enstitüsü (Gaziantep)",
+        "number_en": "4,082 seedlings; the 1,743 self-fertile ones were planted at the institute in 2011",
+        "number_tr": "4.082 fidan; kendine verimli 1.743'ü 2011'de enstitüye dikildi",
+        "ref": "acar2013"
+      },
+      {
+        "type": "practice",
+        "title_en": "Reflective films against summer heat",
+        "title_tr": "Yaz sıcağına karşı yansıtıcı film",
+        "text_en": "In Kahta (Adıyaman), kaolin and other particle films cooled deficit-irrigated Ferragnes leaves; the authors say they can ease heat and water stress.",
+        "text_tr": "Kahta'da (Adıyaman) kaolin gibi partikül filmler kısıntılı sulanan Ferragnes yapraklarını serinletti; yazarlara göre sıcak ve su stresini azaltabilir.",
+        "institute": "Sert Kabuklu Meyveler Araştırma Enstitüsü (Adıyaman) ve Adıyaman Üniversitesi",
+        "number_en": "Leaf temperature on 4 August: 36.8 °C untreated, 32.7 °C with kaolin",
+        "number_tr": "4 Ağustos yaprak sıcaklığı: uygulamasız 36,8 °C, kaolinli 32,7 °C",
+        "ref": "karaat2023"
+      }
+    ],
+    "citrus": [
+      {
+        "type": "practice",
+        "title_en": "FA-5 rootstock for salt and water stress",
+        "title_tr": "Tuz ve su stresine karşı FA-5 anacı",
+        "text_en": "Semi-dwarf rootstock well adapted to salinity, water stress and iron chlorosis; also tolerant to Tristeza and nematodes.",
+        "text_tr": "Tuzluluk, su stresi ve demir klorozuna uyumu yüksek yarı bodur anaç; Tristeza ve nematodlara da toleranslı.",
+        "institute": "Alata Bahçe Kültürleri Araştırma Enstitüsü (Mersin)",
+        "ref": "alata_turuncgil"
+      },
+      {
+        "type": "practice",
+        "title_en": "Tristeza-tolerant citrange rootstocks",
+        "title_tr": "Tristezaya toleranslı sitranj anaçları",
+        "text_en": "Sour orange, the most used rootstock, is Tristeza-susceptible; Carrizo and Troyer citranges tolerate it and are moderately cold-hardy.",
+        "text_tr": "En yaygın anaç turunç Tristezaya duyarlı; Carrizo ve Troyer sitranjları Tristezaya toleranslı ve soğuğa orta dayanıklı.",
+        "institute": "Alata Bahçe Kültürleri Araştırma Enstitüsü (Mersin)",
+        "number_en": "Trade-off: citranges grow poorly on saline soils",
+        "number_tr": "Dezavantaj: sitranjlar tuzlu toprakta zayıf gelişiyor",
+        "ref": "alata_turuncgil"
+      },
+      {
+        "type": "practice",
+        "title_en": "Deficit irrigation for grapefruit",
+        "title_tr": "Greyfurtta kısıntılı sulama",
+        "text_en": "Irrigating Rio Red grapefruit at 70% or 50% of full water had no statistically significant effect on yield, so water can be saved.",
+        "text_tr": "Rio Red greyfurdunu tam suyun %70'i veya %50'siyle sulamak verimi istatistiksel olarak etkilemedi; su tasarrufu mümkün.",
+        "number_en": "50–70% irrigation regimes: no significant yield loss",
+        "number_tr": "%50–70 sulama: önemli verim kaybı yok",
+        "ref": "kekec2020"
+      }
+    ],
+    "apple": [
+      {
+        "type": "variety",
+        "title_en": "Low-chill apples",
+        "title_tr": "Az soğuklama isteyen elmalar",
+        "text_en": "Anna, Dorsett Golden and TropicSweet suit warm-winter areas where standard apples no longer get enough chill to flower and fruit normally.",
+        "text_tr": "Anna, Dorsett Golden ve TropicSweet, standart elmaların normal çiçeklenme için yeterli soğuklama alamadığı ılık kışlı yerlere uygun.",
+        "number_en": "Chill need only 250–300 hours (at or below about 7 °C)",
+        "number_tr": "Soğuklama ihtiyacı yalnızca 250–300 saat (yaklaşık 7 °C ve altı)",
+        "ref": "andersen_edis"
+      },
+      {
+        "type": "variety",
+        "title_en": "Breeding scab-resistant apples",
+        "title_tr": "Karalekeye dayanıklı elma ıslahı",
+        "text_en": "A crossing programme running since 2008 aims at high-quality apple cultivars resistant to scab; the current phase runs 2022–2026.",
+        "text_tr": "2008'den beri süren melezleme programı karalekeye dayanıklı, kaliteli elma çeşitleri hedefliyor; mevcut aşama 2022–2026.",
+        "institute": "Meyvecilik Araştırma Enstitüsü (Eğirdir)",
+        "ref": "marem_islah"
+      },
+      {
+        "type": "practice",
+        "title_en": "Shade nets against sunburn",
+        "title_tr": "Güneş yanıklığına karşı gölge filesi",
+        "text_en": "Black or white shade nets over Granny Smith trees cut fruit sunburn without harming quality or ripening (Turkish orchard, 2012–13).",
+        "text_tr": "Granny Smith ağaçlarına gerilen siyah veya beyaz gölge fileleri, kaliteyi ve olgunlaşmayı bozmadan güneş yanıklığını azalttı (2012–13).",
+        "number_en": "24% of fruit sunburned without nets; both net types reduced it",
+        "number_tr": "Filesiz ağaçlarda meyvelerin %24'ünde yanıklık; iki file türü de azalttı",
+        "ref": "dayioglu2016"
+      },
+      {
+        "type": "technology",
+        "title_en": "Scab prediction-warning system",
+        "title_tr": "Karaleke tahmin-uyarı sistemi",
+        "text_en": "A prediction-warning system times the control of apple scab, the most important apple disease, in the Aegean region.",
+        "text_tr": "Elmanın en önemli hastalığı karalekeyle mücadelenin zamanı Ege'de tahmin-uyarı sistemiyle belirleniyor.",
+        "institute": "Bornova Zirai Mücadele Araştırma Enstitüsü (İzmir)",
+        "ref": "bzmai"
+      }
+    ],
+    "pomegranate": [
+      {
+        "type": "practice",
+        "title_en": "Kaolin and shade against sunburn",
+        "title_tr": "Güneş yanıklığına karşı kaolin ve gölge",
+        "text_en": "On Hicaznar, four 3% kaolin sprays gave the best sunburn protection and better red colour; shade alone raised cracking in humid weather.",
+        "text_tr": "Hicaznar'da dört kez %3 kaolin uygulaması yanıklığı en iyi önledi ve kırmızı rengi artırdı; tek başına gölgeleme nemli havada çatlamayı artırdı.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "number_en": "Trials 2003–2004, Antalya",
+        "number_tr": "Denemeler 2003–2004, Antalya",
+        "ref": "yazici2009"
+      },
+      {
+        "type": "practice",
+        "title_en": "Regulated deficit irrigation",
+        "title_tr": "Düzenlenmiş kısıntılı sulama",
+        "text_en": "Regulated deficit drip saves water with no loss of marketable yield; a sustained deficit cuts yield, especially in hot, dry years.",
+        "text_tr": "Düzenlenmiş kısıntılı damla sulama pazarlanabilir verimi düşürmeden su kazandırıyor; sürekli kısıntı ise sıcak, kurak yıllarda verimi azaltıyor.",
+        "number_en": "About 10% water saved with no loss of marketable yield or fruit weight (Spain)",
+        "number_tr": "Pazarlanabilir verim ve meyve ağırlığı düşmeden yaklaşık %10 su tasarrufu (İspanya)",
+        "ref": "porras2025"
+      },
+      {
+        "type": "alternative",
+        "title_en": "Pomegranate: an arid-adapted fruit",
+        "title_tr": "Nar: kurağa uyumlu meyve",
+        "text_en": "Its adaptability to arid environments makes pomegranate a strategic Mediterranean fruit as the climate warms; diverse germplasm aids breeding.",
+        "text_tr": "Kurak ortamlara uyumu narı ısınan iklimde stratejik bir Akdeniz meyvesi yapıyor; zengin gen kaynakları ıslahı destekliyor.",
+        "ref": "lozano2025"
+      }
+    ],
+    "walnut": [
+      {
+        "type": "practice",
+        "title_en": "Kaolin film against sunburn",
+        "title_tr": "Güneş yanıklığına karşı kaolin",
+        "text_en": "In a Hatay trial, kaolin clay spray lowered fruit and leaf temperature, prevented green-husk sunburn and raised kernel weight.",
+        "text_tr": "Hatay'daki denemede kaolin uygulaması meyve ve yaprak sıcaklığını düşürdü, yeşil kabukta güneş yanıklığını önledi, iç ağırlığını artırdı.",
+        "number_en": "Unsprayed fruit surface reached up to 45 °C",
+        "number_tr": "Uygulama yapılmayan meyve yüzeyi 45 °C'ye kadar ısındı",
+        "ref": "tefek2016"
+      },
+      {
+        "type": "variety",
+        "title_en": "Bilecik and Şebin for frost-prone areas",
+        "title_tr": "Geç donlu yöreler için Bilecik ve Şebin",
+        "text_en": "Recommended for inland areas with late spring frosts; Bilecik also bears about 30% of its fruit on lateral shoots.",
+        "text_tr": "Geç ilkbahar donlarının görüldüğü iç yörelere öneriliyor; Bilecik ayrıca meyvesinin yaklaşık %30'unu yan dallarda veriyor.",
+        "institute": "Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü (Yalova)",
+        "ref": "ceviz_brosur"
+      },
+      {
+        "type": "variety",
+        "title_en": "Late-flowering Fernor and Chandler",
+        "title_tr": "Geç çiçeklenen Fernor ve Chandler",
+        "text_en": "Late bloom helps avoid spring frost: Fernor suits late-frost areas; very late Chandler suits sites up to 600 m with a long growing season.",
+        "text_tr": "Geç çiçeklenme ilkbahar donundan korur: Fernor geç donlu yörelere, çok geç çiçeklenen Chandler uzun vejetasyonlu 600 m'ye kadar yerlere uygun.",
+        "institute": "Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü (Yalova)",
+        "ref": "ceviz_brosur"
+      },
+      {
+        "type": "technology",
+        "title_en": "Drip irrigation and pre-budbreak watering",
+        "title_tr": "Damla sulama ve uyanma öncesi sulama",
+        "text_en": "Drip or mini-sprinklers cover summer water needs; in late-frost areas, watering before bud-break delays the trees' awakening.",
+        "text_tr": "Damla veya mini yağmurlama yaz su ihtiyacını karşılıyor; geç donlu yerlerde ağaç uyanmadan verilen su uyanmayı geciktiriyor.",
+        "institute": "Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü (Yalova)",
+        "ref": "ceviz_sulama"
+      }
+    ],
+    "avocado": [
+      {
+        "type": "variety",
+        "title_en": "Match the variety to frost risk",
+        "title_tr": "Çeşidi don riskine göre seçin",
+        "text_en": "Cold tolerance ranges from −2 to −6.5 °C by variety, while Hass withstands only about −1.1 °C; plant on frost-free, wind-sheltered sites.",
+        "text_tr": "Soğuğa dayanım çeşide göre −2 ile −6,5 °C arasında; Hass yalnızca yaklaşık −1,1 °C'ye dayanıyor. Donsuz, rüzgârdan korunan yerler seçilmeli.",
+        "institute": "Alata Bahçe Kültürleri Araştırma Enstitüsü (Mersin)",
+        "ref": "alata_avokado"
+      },
+      {
+        "type": "variety",
+        "title_en": "Stress-tolerant rootstocks and varieties",
+        "title_tr": "Strese dayanıklı anaç ve çeşitler",
+        "text_en": "The 2021 BATEM avocado workshop calls for breeding stress-tolerant rootstocks and varieties, clonal rootstocks and certified saplings.",
+        "text_tr": "BATEM'in 2021 avokado çalıştayı strese dayanıklı anaç ve çeşit ıslahı, klonal anaç ve sertifikalı fidan çağrısında bulundu.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "ref": "batem_avokado2021"
+      },
+      {
+        "type": "practice",
+        "title_en": "Shade netting",
+        "title_tr": "Gölgeleme tülü",
+        "text_en": "Shade cloth is recommended to protect avocado orchards from external factors; greenhouse avocado is judged uneconomic.",
+        "text_tr": "Avokado bahçelerini dış etkenlerden korumak için gölgeleme tülü öneriliyor; serada avokado ekonomik bulunmuyor.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "ref": "batem_avokado2021"
+      },
+      {
+        "type": "technology",
+        "title_en": "Testing irrigation levels with soil sensors",
+        "title_tr": "Toprak sensörleriyle sulama düzeyi denemesi",
+        "text_en": "A BATEM project planned for 2024–2028 compares irrigation levels for avocado yield, quality and water productivity, with digital soil moisture data.",
+        "text_tr": "BATEM'in 2024–2028 projesi, dijital toprak nemi ölçümleriyle sulama düzeylerinin avokado verimi, kalitesi ve su verimliliğine etkisini inceliyor.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "number_en": "Planned 2024–2028",
+        "number_tr": "Planlanan süre 2024–2028",
+        "ref": "tagem_tskad2023"
+      }
+    ],
+    "mango": [
+      {
+        "type": "variety",
+        "title_en": "Kent: BATEM's registered mango",
+        "title_tr": "Kent: BATEM'in tescilli mangosu",
+        "text_en": "Registered in October 2020 after open-field adaptation trials in Gazipaşa with material introduced from the USA in 2012.",
+        "text_tr": "2012'de ABD'den getirilen materyalle Gazipaşa'da yapılan açık arazi uyum denemelerinin ardından Ekim 2020'de tescil edildi.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "number_en": "Commercial orchards planted in 2019 gave their first harvest in 2022",
+        "number_tr": "2019'da kurulan ticari bahçeler ilk hasadı 2022'de verdi",
+        "ref": "tarimorman2022"
+      },
+      {
+        "type": "technology",
+        "title_en": "Protected cultivation",
+        "title_tr": "Örtüaltı yetiştiricilik",
+        "text_en": "Tropical fruits are damaged below about 4–5 °C, so in many regions they are grown in greenhouses for protection from winter cold.",
+        "text_tr": "Tropik meyveler yaklaşık 4–5 °C'nin altında zarar gördüğünden birçok bölgede kış soğuğuna karşı seralarda yetiştiriliyor.",
+        "ref": "tarimorman2022"
+      },
+      {
+        "type": "practice",
+        "title_en": "Sustained deficit irrigation",
+        "title_tr": "Sürekli kısıntılı sulama",
+        "text_en": "In a Spanish field trial, giving mango 75% or 50% of full irrigation cut yield by only 8–11%, while water productivity rose.",
+        "text_tr": "İspanya'daki tarla denemesinde mangoya tam suyun %75'i veya %50'si verildiğinde verim yalnızca %8–11 düştü, su verimliliği arttı.",
+        "number_en": "75% water: −8% yield; 50%: −11%; 33%: −20%",
+        "number_tr": "%75 su: verim −%8; %50: −%11; %33: −%20",
+        "ref": "lipan2021"
+      },
+      {
+        "type": "practice",
+        "title_en": "Fruit bagging and tolerant cultivars",
+        "title_tr": "Meyve torbalama ve dayanıklı çeşitler",
+        "text_en": "Heat can cause early flowering and fruit drop; a Türkiye review advises optimised irrigation, heat- and drought-tolerant cultivars and bagging.",
+        "text_tr": "Sıcak erken çiçeklenme ve meyve dökümüne yol açabiliyor; Türkiye değerlendirmesi uygun sulama, sıcağa ve kurağa dayanıklı çeşit ve torbalama öneriyor.",
+        "ref": "kan2025"
+      }
+    ],
+    "banana": [
+      {
+        "type": "variety",
+        "title_en": "Banana varieties for open fields",
+        "title_tr": "Açık arazi için muz çeşitleri",
+        "text_en": "Şire (open field) and Alata Pınarı, Muzur and Altın Bodur (open field and greenhouse) were registered in March 2023.",
+        "text_tr": "Şire (açık arazi) ile Alata Pınarı, Muzur ve Altın Bodur (açık arazi ve sera) Mart 2023'te tescil edildi.",
+        "institute": "Alata Bahçe Kültürleri Araştırma Enstitüsü (Mersin)",
+        "number_en": "Aimed at economic open-field banana in the Çukurova, Amik and Antalya plains",
+        "number_tr": "Çukurova, Amik ve Antalya ovalarında ekonomik açık arazi muzculuğu hedefleniyor",
+        "ref": "bursahakimiyet2021"
+      },
+      {
+        "type": "technology",
+        "title_en": "Greenhouses and tissue-culture plantlets",
+        "title_tr": "Sera ve doku kültürü fideleri",
+        "text_en": "Climate-controlled greenhouses keep banana near ideal conditions for faster growth and heavier bunches; tissue-culture plantlets are disease-free.",
+        "text_tr": "İklim kontrollü seralar muzu ideale yakın koşullarda tutuyor: daha hızlı gelişme, daha ağır hevenk. Doku kültürü fideleri hastalıksız.",
+        "number_en": "Bunch weight 25–70 kg under cover vs 15–30 kg in the open field",
+        "number_tr": "Hevenk ağırlığı örtüaltında 25–70 kg, açıkta 15–30 kg",
+        "ref": "turkpatent_alanya"
+      },
+      {
+        "type": "alternative",
+        "title_en": "Pitaya as a lower-water alternative",
+        "title_tr": "Daha az su isteyen alternatif: pitaya",
+        "text_en": "Dragon fruit, a cactus fruit, is promoted in Alanya as an easier, lower-input alternative to banana, with short, infrequent irrigation.",
+        "text_tr": "Bir kaktüs meyvesi olan ejder meyvesi Alanya'da muza göre daha kolay, az girdili bir alternatif olarak öne çıkıyor; sulaması kısa ve seyrek.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "number_en": "Reported: about 30 min of irrigation every 3 days in greenhouses",
+        "number_tr": "Bildirilen: serada üç günde bir yaklaşık yarım saat sulama",
+        "ref": "paradergi2022"
+      }
+    ],
+    "pitaya": [
+      {
+        "type": "variety",
+        "title_en": "Cosmic Charlie and Bloody Mary",
+        "title_tr": "Cosmic Charlie ve Bloody Mary",
+        "text_en": "Introduced from the USA in a 2012 project, adapted in BATEM trials and registered in October 2018: Türkiye's first registered dragon fruits.",
+        "text_tr": "2012 projesiyle ABD'den getirildi, BATEM denemelerinde uyumlandı ve Ekim 2018'de tescil edildi: Türkiye'nin ilk tescilli ejder meyveleri.",
+        "institute": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (Antalya)",
+        "ref": "paradergi2022"
+      },
+      {
+        "type": "technology",
+        "title_en": "Greenhouse cultivation",
+        "title_tr": "Örtüaltı yetiştiricilik",
+        "text_en": "Pitaya is grown mostly under cover in Türkiye, because tropical fruits are damaged below about 4–5 °C.",
+        "text_tr": "Tropik meyveler yaklaşık 4–5 °C'nin altında zarar gördüğü için pitaya Türkiye'de çoğunlukla örtüaltında yetiştiriliyor.",
+        "number_en": "About 3,000 decares (300 ha) in 2021, mostly under cover",
+        "number_tr": "2021'de yaklaşık 3 bin dekar, çoğu örtüaltında",
+        "ref": "tarimorman2022"
+      },
+      {
+        "type": "practice",
+        "title_en": "About 35% shade netting",
+        "title_tr": "Yaklaşık %35 gölgeleme",
+        "text_en": "In a long-term field trial on red pitahaya, about 35% shade prevented sunburn under strong sun and raised second-year yield.",
+        "text_tr": "Kırmızı pitaya ile uzun süreli bir tarla denemesinde yaklaşık %35 gölge güçlü güneşte yanıklığı önledi ve ikinci yıl verimini artırdı.",
+        "number_en": "About 18.7 t/ha under shade vs 10.9 t/ha in full sun (+70%)",
+        "number_tr": "Gölgede yaklaşık 18,7 t/ha, tam güneşte 10,9 t/ha (+%70)",
+        "ref": "oliveira2021"
+      },
+      {
+        "type": "variety",
+        "title_en": "Heat-tolerant hybrids",
+        "title_tr": "Sıcağa dayanıklı melezler",
+        "text_en": "High heat can stop pitaya flowering; in a 45/35 °C chamber test, hybrid Z-10 was damaged least, pointing to breeding for heat tolerance.",
+        "text_tr": "Aşırı sıcak pitayada çiçeklenmeyi durdurabiliyor; 45/35 °C'lik kabin testinde en az zararı Z-10 melezi gördü: sıcağa dayanıklı ıslah için bir ipucu.",
+        "number_en": "8 days at 45/35 °C (day/night) vs a 25/20 °C control (Israel)",
+        "number_tr": "45/35 °C'de (gündüz/gece) 8 gün; kontrol 25/20 °C (İsrail)",
+        "ref": "raveh2019"
+      }
+    ],
+    "quinoa": [
+      {
+        "type": "practice",
+        "title_en": "Regulated deficit drip irrigation",
+        "title_tr": "Düzenlenmiş kısıntılı damla sulama",
+        "text_en": "Half irrigation until flowering, then full irrigation, under surface or subsurface drip (eastern Mediterranean trials, 2016–17).",
+        "text_tr": "Çiçeklenmeye kadar yarım, sonra tam sulama; yüzey veya yüzey altı damla ile (Doğu Akdeniz denemeleri, 2016–17).",
+        "institute": "Alata Bahçe Kültürleri Araştırma Enstitüsü (Tarsus)",
+        "number_en": "21–23% water saved, with yields statistically similar to full irrigation",
+        "number_tr": "%21–23 su tasarrufu; verim tam sulamayla istatistiksel olarak benzer",
+        "ref": "bozkurt2021"
+      },
+      {
+        "type": "alternative",
+        "title_en": "Quinoa on salt-affected land",
+        "title_tr": "Tuzlu alanlarda kinoa",
+        "text_en": "Quinoa tolerates saline irrigation water: an option for Mediterranean land where salinity and water shortage limit other crops.",
+        "text_tr": "Kinoa tuzlu sulama suyuna dayanıyor: tuzluluk ve su kıtlığının diğer ürünleri sınırladığı Akdeniz arazileri için bir seçenek.",
+        "institute": "Alata Bahçe Kültürleri Araştırma Enstitüsü (Tarsus)",
+        "number_en": "Only slight yield loss up to 30 dS/m irrigation-water salinity (Adana, 2010–12)",
+        "number_tr": "30 dS/m'ye kadar tuzlu sulama suyunda yalnızca hafif verim kaybı (Adana, 2010–12)",
+        "ref": "yazar2015"
+      }
+    ],
+    "sorghum": [
+      {
+        "type": "variety",
+        "title_en": "Domestic drought-resistant sorghum",
+        "title_tr": "Kuraklığa dayanıklı yerli sorgum",
+        "text_en": "Breeding of drought-resistant, high-yielding domestic sorghum for animal feed and bio-energy, run at Konya.",
+        "text_tr": "Konya'da hayvan yemi ve biyoenerji için kuraklığa dayanıklı, verimli yerli sorgum ıslahı.",
+        "institute": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü",
+        "ref": "bahridagdas2026"
+      },
+      {
+        "type": "practice",
+        "title_en": "Low-water sorghum silage",
+        "title_tr": "Az su isteyen sorgum silajı",
+        "text_en": "Sorghum keeps most of its yield under limited irrigation, so it suits dry basins where water is rationed.",
+        "text_tr": "Sorgum kısıtlı sulamada verimini büyük ölçüde koruyor; suyun kısıtlandığı kurak havzalara uygun.",
+        "institute": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü",
+        "number_en": "50% less water → only about 20% yield loss; about 470 mm seasonal need",
+        "number_tr": "%50 daha az su → yalnızca yaklaşık %20 verim kaybı; sezonluk ihtiyaç yaklaşık 470 mm",
+        "ref": "ekonomist_sorgum"
+      },
+      {
+        "type": "technology",
+        "title_en": "TAKİS drought monitoring",
+        "title_tr": "TAKİS kuraklık izleme",
+        "text_en": "Combines weather, water-resource and crop-stage data to monitor drought risk by province and district.",
+        "text_tr": "Meteorolojik, su kaynağı ve fenolojik verileri birleştirerek kuraklık riskini il ve ilçe bazında izliyor.",
+        "institute": "Tarım ve Orman Bakanlığı",
+        "number_en": "81 provinces and 922 districts; about 2,100 staff trained (July 2026)",
+        "number_tr": "81 il ve 922 ilçe; yaklaşık 2.100 personel eğitildi (Temmuz 2026)",
+        "ref": "takis2026"
+      }
+    ],
+    "carob": [
+      {
+        "type": "alternative",
+        "title_en": "Carob for hot, dry marginal land",
+        "title_tr": "Sıcak ve kurak alanlar için keçiboynuzu",
+        "text_en": "A heat- and drought-resistant legume tree that grows in dry areas with practically no inputs: an option where other crops lose suitability.",
+        "text_tr": "Sıcağa ve kuraklığa dayanıklı, kurak alanlarda neredeyse girdisiz yetişen baklagil ağacı; diğer ürünlerin uygunluğu azalan yerler için seçenek.",
+        "ref": "varnava2023"
+      },
+      {
+        "type": "practice",
+        "title_en": "Keep pollinators in the orchard",
+        "title_tr": "Tozlayıcıları bahçede tutun",
+        "text_en": "In Cyprus, insect (mainly bee) pollination gave far more carob pods than wind alone, with heavier, longer pods and more seeds.",
+        "text_tr": "Kıbrıs'ta böcek (çoğunlukla arı) tozlaşması yalnız rüzgâra göre çok daha fazla, daha ağır, uzun ve çok tohumlu keçiboynuzu meyvesi verdi.",
+        "number_en": "4–16× more pods with insect pollination",
+        "number_tr": "Böcek tozlaşmasıyla 4–16 kat daha fazla meyve",
+        "ref": "varnava2023"
+      },
+      {
+        "type": "practice",
+        "title_en": "Mycorrhiza plus compost for young trees",
+        "title_tr": "Genç ağaçlara mikoriza ve kompost",
+        "text_en": "Native mycorrhizal fungi plus compost improved young carob's water status and growth under drought (35% of field capacity).",
+        "text_tr": "Yerli mikorizal funguslar ve kompost, kuraklıkta (%35 tarla kapasitesi) genç keçiboynuzunun su durumunu ve gelişimini iyileştirdi.",
+        "number_en": "+20% stomatal conductance, +23% leaf water potential after 8 months of drought",
+        "number_tr": "8 aylık kuraklık sonunda stoma iletkenliği +%20, yaprak su potansiyeli +%23",
+        "ref": "boutasknit2021"
+      }
+    ],
+    "safflower": [
+      {
+        "type": "variety",
+        "title_en": "Linas and Olas",
+        "title_tr": "Linas ve Olas",
+        "text_en": "Trakya institute varieties that gave the highest seed yields in both seasons of a winter-sown trial in İzmir, including a drier year.",
+        "text_tr": "Trakya Tarımsal Araştırma Enstitüsü çeşitleri; İzmir'deki kışlık ekim denemesinde, daha kurak yıl dahil iki sezonda da en yüksek verimi verdi.",
+        "institute": "Trakya Tarımsal Araştırma Enstitüsü",
+        "ref": "sayilir2026"
+      },
+      {
+        "type": "variety",
+        "title_en": "Gene-bank landrace TR 42670",
+        "title_tr": "Gen bankasından yerel aspir TR 42670",
+        "text_en": "An Anatolian accession from Saray, Tekirdağ, kept at the national gene bank in İzmir: productive in the drier 2021 season and a breeding candidate.",
+        "text_tr": "İzmir'deki ulusal gen bankasında korunan Saray (Tekirdağ) kökenli yerel materyal; kurak 2021'de verimli kaldı, ıslah için aday.",
+        "institute": "Ege Tarımsal Araştırma Enstitüsü (gen bankası)",
+        "number_en": "With Linas, the highest oil yield in the trial",
+        "number_tr": "Linas ile birlikte denemenin en yüksek yağ verimi",
+        "ref": "sayilir2026"
+      },
+      {
+        "type": "practice",
+        "title_en": "Irrigate only at key growth stages",
+        "title_tr": "Yalnızca kritik dönemlerde sulama",
+        "text_en": "Three irrigations (start of growth, flowering, seed set) instead of weekly ones kept yield and oil quality acceptable; treated wastewater also worked.",
+        "text_tr": "Haftalık yerine üç sulama (gelişme başı, çiçeklenme, tohum bağlama) verim ve yağ kalitesini kabul edilebilir tuttu; arıtılmış atık su da işe yaradı.",
+        "number_en": "About 60% less irrigation water (204.8 mm vs 500.1 mm)",
+        "number_tr": "Yaklaşık %60 daha az sulama suyu (500,1 mm yerine 204,8 mm)",
+        "ref": "meric2026"
+      }
+    ]
+  },
+  "global": [
+    {
+      "type": "technology",
+      "title_en": "Türkiye Seed Gene Bank",
+      "title_tr": "Türkiye Tohum Gen Bankası",
+      "text_en": "Opened in Ankara in 2010, it conserves crops, landraces, wild relatives and endemic plants: the diversity for breeding climate-adapted varieties.",
+      "text_tr": "2010'da Ankara'da açıldı; kültür bitkilerini, yerel çeşitleri, yabani akrabaları ve endemikleri koruyor: iklime uyumlu çeşit ıslahının temeli.",
+      "institute": "Tarla Bitkileri Merkez Araştırma Enstitüsü",
+      "number_en": "63,600 seed samples of 1,402 species in Ankara; 122,750 samples of 4,501 species in all Turkish gene banks, plus 10,108 living samples in 18 field gene banks (2025)",
+      "number_tr": "Ankara'da 1.402 türe ait 63.600 tohum örneği; Türkiye'deki gen bankalarında 4.501 türden 122.750 örnek ve 18 arazi gen bankasında 10.108 canlı örnek (2025)",
+      "ref": "sozcu2025"
+    },
+    {
+      "type": "variety",
+      "title_en": "A steady stream of new varieties",
+      "title_tr": "Sürekli yenilenen çeşit portföyü",
+      "text_en": "TAGEM's 49 research institutes keep registering varieties: 35 field-crop and 25 horticultural ones in 2025, and 39 more field-crop ones in May 2026.",
+      "text_tr": "TAGEM'in 49 araştırma enstitüsü yeni çeşit tescil etmeyi sürdürüyor: 2025'te 35 tarla ve 25 bahçe bitkisi, Mayıs 2026'da 39 tarla bitkisi çeşidi daha.",
+      "institute": "TAGEM araştırma enstitüleri",
+      "number_en": "1,048 field-crop and 1,068 horticultural varieties registered by June 2025; field-crop total 1,087 after May 2026",
+      "number_tr": "Haziran 2025'e kadar 1.048 tarla ve 1.068 bahçe bitkisi çeşidi tescil edildi; Mayıs 2026 ile tarla bitkilerinde toplam 1.087",
+      "ref": "benguturk2025"
+    },
+    {
+      "type": "variety",
+      "title_en": "79 drought- and cold-tolerant varieties",
+      "title_tr": "Kuraklığa ve soğuğa dayanıklı 79 çeşit",
+      "text_en": "TAGEM breeding has produced 79 drought- and cold-tolerant varieties. In 2024, 27% of Türkiye's certified field-crop seed came from TAGEM varieties.",
+      "text_tr": "TAGEM ıslahı kuraklığa ve soğuğa dayanıklı 79 çeşit geliştirdi. 2024'te Türkiye'deki sertifikalı tarla bitkisi tohumluğunun %27'si TAGEM çeşidiydi.",
+      "institute": "TAGEM",
+      "number_en": "350,000 t of 1.3 Mt certified seed in 2024, incl. 40% of wheat, 48% of barley and 70% of chickpea seed",
+      "number_tr": "2024'te 1,3 milyon ton sertifikalı tohumluğun 350 bin tonu; buğdayda %40, arpada %48, nohutta %70",
+      "ref": "paradergi2025"
+    },
+    {
+      "type": "technology",
+      "title_en": "Plant Drought Test Center, Konya",
+      "title_tr": "Bitkisel Kuraklık Test Merkezi, Konya",
+      "text_en": "Founded in 2010, the centre uses four automated rain-out shelters on rails to create controlled drought and test breeding lines before release.",
+      "text_tr": "2010'da kurulan merkez, raylı dört otomatik yağmur örtüsüyle kontrollü kuraklık oluşturuyor; ıslah hatları tescilden önce burada test ediliyor.",
+      "institute": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü",
+      "number_en": "19 varieties registered after passing its tests; the wheats Taner and Bozkır yield 15–20% more on dry land",
+      "number_tr": "Testlerden geçerek tescil edilen 19 çeşit; Taner ve Bozkır buğdayları kuruda %15–20 daha verimli",
+      "ref": "bbm2023"
+    },
+    {
+      "type": "variety",
+      "title_en": "International Winter Wheat Improvement Program",
+      "title_tr": "Uluslararası Kışlık Buğday Islah Programı",
+      "text_en": "Türkiye–CIMMYT breeding since 1986 (ICARDA from 1991), tested from irrigated to dryland sites for stability, drought tolerance and rust resistance.",
+      "text_tr": "1986'dan beri Türkiye–CIMMYT ıslahı (1991'den itibaren ICARDA ile); sulu ve kuru alanlarda verim istikrarı, kuraklık ve pas dayanıklılığı için seçim.",
+      "institute": "Tarım ve Orman Bakanlığı, CIMMYT ve ICARDA",
+      "number_en": "93 IWWIP cultivars released in 11 countries, grown on about 2.5–3.0 million ha a year",
+      "number_tr": "11 ülkede 93 IWWIP çeşidi; her yıl yaklaşık 2,5–3,0 milyon hektarda ekiliyor",
+      "ref": "morgounov2019"
+    },
+    {
+      "type": "technology",
+      "title_en": "Piped and pressurised irrigation",
+      "title_tr": "Borulu ve basınçlı sulama",
+      "text_en": "Piped networks cut water losses, and the Ministry pays 50% grants for on-farm drip, sprinkler, solar-powered and smart irrigation.",
+      "text_tr": "Borulu şebekeler su kayıplarını azaltıyor; Bakanlık tarla içi damla, yağmurlama, güneş enerjili ve akıllı sulama sistemlerine %50 hibe veriyor.",
+      "institute": "Tarım ve Orman Bakanlığı / DSİ",
+      "number_en": "Piped share of irrigation networks 38% (2025); 5.4 million decares moved to modern irrigation with grants (2007–2024)",
+      "number_tr": "Tarımsal sulamada borulu şebeke oranı %38 (2025); hibelerle 5,4 milyon dekar modern sulamaya geçti (2007–2024)",
+      "ref": "ekonomi2025"
+    },
+    {
+      "type": "technology",
+      "title_en": "Agricultural Frost Warning System (ZDUS)",
+      "title_tr": "Zirai Don Uyarı Sistemi (ZDUS)",
+      "text_en": "In use since 2007, it matches forecast minimum temperatures with each crop's growth stage and damage thresholds to flag frost risk days ahead.",
+      "text_tr": "2007'den beri kullanılan sistem, tahmini en düşük sıcaklığı ürünün gelişme dönemi ve zarar eşikleriyle karşılaştırıp don riskini önceden bildiriyor.",
+      "institute": "Meteoroloji Genel Müdürlüğü",
+      "number_en": "Critical temperatures for 96 crop species; SMS alerts to farmers under a 2018 MGM–TZOB protocol",
+      "number_tr": "96 bitki türü için kritik sıcaklıklar; 2018 MGM–TZOB protokolüyle çiftçilere SMS uyarısı",
+      "ref": "mgm2018"
+    },
+    {
+      "type": "technology",
+      "title_en": "Agricultural drought monitoring portal",
+      "title_tr": "Tarımsal kuraklık izleme portalı",
+      "text_en": "Since early 2025, near-real-time agricultural drought maps have been published every week at national, province and district level.",
+      "text_tr": "2025 başından beri ülke, il ve ilçe ölçeğinde yakın gerçek zamanlı tarımsal kuraklık haritaları her hafta yayımlanıyor.",
+      "institute": "TAGEM",
+      "number_en": "Weekly maps for every province and district",
+      "number_tr": "Her il ve ilçe için haftalık haritalar",
+      "ref": "paradergi2025"
+    },
+    {
+      "type": "technology",
+      "title_en": "TAKİS drought monitoring system",
+      "title_tr": "TAKİS kuraklık izleme sistemi",
+      "text_en": "Brings weather, water-resource and crop-stage observations onto one platform to track drought risk by province and district.",
+      "text_tr": "Meteorolojik verileri, su kaynağı göstergelerini ve fenolojik gözlemleri tek platformda birleştirip kuraklık riskini il ve ilçe bazında izliyor.",
+      "institute": "Tarım ve Orman Bakanlığı",
+      "number_en": "81 provinces and 922 districts; about 2,100 staff trained (July 2026)",
+      "number_tr": "81 il ve 922 ilçe; yaklaşık 2.100 personel eğitildi (Temmuz 2026)",
+      "ref": "takis2026"
+    },
+    {
+      "type": "practice",
+      "title_en": "Adaptation pays off",
+      "title_tr": "Uyum karşılığını veriyor",
+      "text_en": "A meta-analysis of 1,700+ simulations finds that crop-level adaptation, such as variety change, planting date or irrigation, raises yields.",
+      "text_tr": "1.700'ü aşkın simülasyonun meta-analizi; çeşit değişimi, ekim zamanı veya sulama gibi ürün düzeyindeki uyumun verimi artırdığını gösteriyor.",
+      "number_en": "+7–15% average simulated yield; more effective for wheat and rice than for maize",
+      "number_tr": "Ortalama %7–15 simüle verim artışı; buğday ve çeltikte mısıra göre daha etkili",
+      "ref": "challinor2014"
+    }
+  ],
+  "story": {
+    "title_en": "From climate risk to TAGEM's answers",
+    "title_tr": "İklim riskinden TAGEM'in çözümlerine",
+    "teaser_en": "Gene bank, resilient varieties, water-saving irrigation, early warning and new crops: how Türkiye's agricultural research responds.",
+    "teaser_tr": "Gen bankası, dayanıklı çeşitler, su tasarruflu sulama, erken uyarı ve yeni ürünler: Türkiye'nin tarımsal araştırması nasıl yanıt veriyor?",
+    "steps": [
+      {
+        "kind": "crop",
+        "id": "chickpea",
+        "scenario": "585",
+        "period": 2,
+        "mode": "change",
+        "center": [
+          39.8,
+          37.7
+        ],
+        "zoom": 6.0,
+        "refs": [
+          "sozcu2025",
+          "vonwettberg2018"
+        ],
+        "title_en": "Diversity in the gene bank",
+        "title_tr": "Gen bankasındaki çeşitlilik",
+        "body_en": "With high emissions, heat drives chickpea's losses by the 2050s, notably in the south-east (national change {chg}). Breeders draw on the Turkish Seed Gene Bank (Türkiye Tohum Gen Bankası) in Ankara, which holds 63,600 seed samples of 1,402 species (122,750 in Türkiye's two seed gene banks together), and on wild chickpeas from the south-east crossed into the crop.",
+        "body_tr": "Yüksek emisyonda 2050'lere kadar nohuttaki kayıpları sıcaklık belirliyor, özellikle Güneydoğu'da (ulusal değişim {chg}). Islahçılar Ankara'daki Türkiye Tohum Gen Bankası'nda 1.402 türe ait 63.600 tohum örneğine (iki tohum gen bankasında toplam 122.750) ve kültür nohuduyla melezlenen Güneydoğu'nun yabani nohutlarına başvuruyor."
+      },
+      {
+        "kind": "crop",
+        "id": "wheat",
+        "scenario": "585",
+        "period": 2,
+        "mode": "change",
+        "center": [
+          34.0,
+          38.6
+        ],
+        "zoom": 6.3,
+        "refs": [
+          "bbm2023"
+        ],
+        "title_en": "Drought-tolerant varieties",
+        "title_tr": "Kuraklığa dayanıklı çeşitler",
+        "body_en": "Across Türkiye, land suitable for wheat {chgv} by the 2050s; in Central Anatolia its losses come from drought. At the Drought Test Center of Konya's Bahri Dağdaş institute, tens of thousands of breeding materials are tested under drought. TAGEM institutes have released 30 bread wheat, 12 durum wheat and 19 barley varieties that tolerate drought; Taner and Bozkır yield 15–20% more than older varieties on dry land.",
+        "body_tr": "Türkiye genelinde buğdaya uygun alan 2050'lere kadar {chgv}; İç Anadolu'da kayıpların nedeni kuraklık. Konya'daki Bahri Dağdaş enstitüsünün Kuraklık Test Merkezi'nde on binlerce ıslah materyali kuraklıkta test ediliyor. TAGEM enstitüleri kuraklığa toleranslı 30 ekmeklik buğday, 12 makarnalık buğday ve 19 arpa çeşidi geliştirdi; Taner ve Bozkır kuru tarımda eski çeşitlerden %15–20 fazla verim veriyor."
+      },
+      {
+        "kind": "crop",
+        "id": "maize",
+        "scenario": "245",
+        "period": 2,
+        "mode": "change",
+        "center": [
+          34.0,
+          38.6
+        ],
+        "zoom": 6.3,
+        "refs": [
+          "ekonomist_sorgum",
+          "bloomberght2021",
+          "ekonomi2025"
+        ],
+        "title_en": "Every drop counts",
+        "title_tr": "Her damla önemli",
+        "body_en": "Across Türkiye maize gains suitable land in a warmer climate ({chg}), but it needs about 700 mm of water a season. In Konya and Karaman, programmed drip irrigation used 23.5% less water and gave 29.2% more grain. Piped networks now carry 38% of irrigation, and on-farm drip gets 50% grants.",
+        "body_tr": "Isınan iklimde Türkiye genelinde mısırın uygun alanı genişliyor ({chg}), ama sezonda yaklaşık 700 mm su istiyor. Konya ve Karaman'da programlı damla sulama %23,5 daha az su kullandı, %29,2 daha fazla tane verdi. Sulamada borulu şebeke oranı %38; tarla içi damla sulamaya %50 hibe veriliyor."
+      },
+      {
+        "kind": "crop",
+        "id": "apricot",
+        "scenario": "585",
+        "period": 2,
+        "mode": "change",
+        "center": [
+          38.4,
+          38.4
+        ],
+        "zoom": 6.6,
+        "refs": [
+          "mgm2018",
+          "paradergi2025"
+        ],
+        "title_en": "Early warning for frost and drought",
+        "title_tr": "Don ve kuraklık için erken uyarı",
+        "body_en": "Across Türkiye, land suitable for apricot still {chgv} by the 2050s. But lowland areas lose winter chill, Malatya stays suitable and late spring frost remains a hazard. The frost warning system of the Turkish State Meteorological Service (MGM) matches forecast lows with each crop's growth stage, and TAGEM's portal maps drought weekly for every district.",
+        "body_tr": "Türkiye genelinde kayısıya uygun alan 2050'lere kadar yine de {chgv}. Ama alçak alanlar kış soğuklamasını kaybediyor, Malatya uygun kalıyor ve geç ilkbahar donu hâlâ tehlike. MGM'nin Zirai Don Uyarı Sistemi tahmini en düşük sıcaklıkları ürünün gelişme dönemiyle eşleştiriyor; TAGEM portalı kuraklığı her hafta ilçe ölçeğinde haritalıyor."
+      },
+      {
+        "kind": "crop",
+        "id": "safflower",
+        "scenario": "585",
+        "period": 2,
+        "mode": "suit",
+        "center": [
+          33.0,
+          38.2
+        ],
+        "zoom": 5.6,
+        "refs": [
+          "karar2026",
+          "ekonomist_sorgum"
+        ],
+        "title_en": "New crops for a drier climate",
+        "title_tr": "Daha kurak iklim için yeni ürünler",
+        "body_en": "Some answers are new crops. Safflower bred by the Trakya institute is demonstrated in Kırklareli as a drought-hardy oilseed where irrigation water is scarce, and keeps {to} of suitable land. Konya's Bahri Dağdaş institute reports that halving water cuts sorghum yield by about 20%, maize by about 70%.",
+        "body_tr": "Bazı çözümler yeni ürünler. Trakya enstitüsünün aspiri, sulama suyu kıt tarlalar için kuraklığa dayanıklı yağ bitkisi olarak Kırklareli'nde tanıtılıyor; uygun alanı {to}. Konya'daki Bahri Dağdaş enstitüsüne göre su yarıya inince verim sorgumda yaklaşık %20, mısırda %70 düşüyor."
+      }
+    ]
+  },
+  "references": [
+    {
+      "key": "sozcu2025",
+      "short": "Sözcü / AA 2025",
+      "full": "Anadolu Ajansı via Sözcü (6 Sep 2025). Türkiye'de 4 bin 500 türden 122 bin tohum gen bankalarında korunuyor. Opening date and mandate: Tarla Bitkileri Merkez Araştırma Enstitüsü, 'Biodiversity and Genetic Resources' page.",
+      "url": "https://www.sozcu.com.tr/turkiye-de-4-bin-500-turden-122-bin-tohum-gen-bankalarinda-korunuyor-p223014"
+    },
+    {
+      "key": "benguturk2025",
+      "short": "Bengütürk 2025",
+      "full": "Bengütürk (11 Jun 2025). Tarım ve Orman Bakanlığı tescilli tarla ve bahçe bitkileri sayısını açıkladı. Also: TRT Haber (17 Jun 2024); Yeni Asır (31 May 2026); Para Dergi (25 Aug 2025).",
+      "url": "https://www.benguturk.com/ekonomi/tarim-ve-orman-bakanligi-tescilli-tarla-ve-bahce-bitkileri-sayisini-acikladi-210366h"
+    },
+    {
+      "key": "paradergi2025",
+      "short": "Para Dergi 2025",
+      "full": "Genç Sertkaya, H. (25 Aug 2025). Tarımsal Ar-Ge'nin kalbi TAGEM'de atıyor. Para Dergi.",
+      "url": "https://www.paradergi.com.tr/sektorler/2025/08/25/tarimsal-ar-genin-kalbi-tagemde-atiyor"
+    },
+    {
+      "key": "bbm2023",
+      "short": "BBM Magazine 2023",
+      "full": "BBM Magazine no. 63 (Apr 2023). Tarım Bakanlığı, kuraklığa dayanıklı buğday çeşitlerini yaygınlaştırıyor.",
+      "url": "https://magazinebbm.com/magazine/63/8/"
+    },
+    {
+      "key": "morgounov2019",
+      "short": "Morgounov et al. 2019",
+      "full": "Morgounov, A., Özdemir, F., Keser, M., Akın, B., Payne, T., Braun, H.-J. (2019). International Winter Wheat Improvement Program: history, activities, impact and future. Frontiers of Agricultural Science and Engineering 6(3): 240–250. doi:10.15302/J-FASE-2019261",
+      "url": "https://journal.hep.com.cn/fase/EN/10.15302/J-FASE-2019261"
+    },
+    {
+      "key": "ekonomi2025",
+      "short": "Ekonomi Gazetesi 2025",
+      "full": "Ekonomi Gazetesi (16 Sep 2025). Tarımsal sulamada borulu şebeke oranı yüzde 38'e ulaştı. Grants: Tarım ve Orman Bakanlığı news no. 5630 (12 Dec 2022).",
+      "url": "https://www.ekonomigazetesi.com/sektor-haberleri/tarimsal-sulamada-borulu-sebeke-orani-yuzde-38e-ulasti-59328"
+    },
+    {
+      "key": "mgm2018",
+      "short": "MGM 2018",
+      "full": "Meteoroloji Genel Müdürlüğü (29 Nov 2018). MGM–TZOB protocol press release. System description: Şimşek, Nadaroğlu, Ayvacı, Zirai Don Uyarı Sistemi (ZDUS).",
+      "url": "https://www.mgm.gov.tr/FILES/Haberler/2018/29.11.2018TZOB.pdf"
+    },
+    {
+      "key": "simsek_zdus",
+      "short": "Şimşek et al., ZDUS",
+      "full": "Şimşek, O., Nadaroğlu, Y., Ayvacı, H. Zirai Don Uyarı Sistemi (ZDUS). Devlet Meteoroloji İşleri Genel Müdürlüğü (now MGM), technical paper.",
+      "url": "https://www.mgm.gov.tr/FILES/genel/makale/ziraidon.pdf"
+    },
+    {
+      "key": "takis2026",
+      "short": "Tarım ve Orman Bakanlığı 2026",
+      "short_en": "Ministry of Agriculture and Forestry 2026",
+      "full": "Tarım ve Orman Bakanlığı (30 Jul 2026). Kuraklığa Karşı Dijital Kalkan: TAKİS Hizmete Girdi.",
+      "url": "https://www.tarimorman.gov.tr/Haber/7190/Kurakliga-Karsi-Dijital-Kalkan-Takis-Hizmete-Girdi"
+    },
+    {
+      "key": "challinor2014",
+      "short": "Challinor et al. 2014",
+      "full": "Challinor, A.J., Watson, J., Lobell, D.B., Howden, S.M., Smith, D.R., Chhetri, N. (2014). A meta-analysis of crop yield under climate change and adaptation. Nature Climate Change 4: 287–291. doi:10.1038/nclimate2153",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/78340/"
+    },
+    {
+      "key": "benguturk2024",
+      "short": "Bengütürk 2024",
+      "full": "Bengütürk (9 Jul 2024). Tarım ve Orman Bakanı Yumaklı, yerli ve milli buğday çeşitlerinin hasadına katıldı.",
+      "url": "https://www.benguturk.com/ekonomi/tarim-ve-orman-bakani-yumakli-yerli-ve-milli-bugday-cesitlerinin-hasadina-160980h"
+    },
+    {
+      "key": "dundar2021",
+      "short": "Dündar 2021",
+      "full": "Dündar, M.A. (2021). Konya koşullarında farklı sulama programı uygulamalarının ekmeklik buğdayın verim ve kalitesine etkisi. PhD thesis, Selçuk Üniversitesi.",
+      "url": "https://acikerisim.selcuk.edu.tr/items/b50c17a0-6623-425a-b8b3-bbe70d8f4a0f"
+    },
+    {
+      "key": "etae_rust",
+      "short": "Ege TAE, TPHAM",
+      "short_en": "Aegean Agricultural Research Institute (TAGEM), TPHAM",
+      "full": "Ege Tarımsal Araştırma Enstitüsü. Tahıl Pas Hastalıkları Araştırma Merkezi (web page).",
+      "url": "https://arastirma.tarimorman.gov.tr/etae/Menu/72/Tahil-Pas-Hastaliklari-Arastirma-Merkezi"
+    },
+    {
+      "key": "bahridagdas_ktm",
+      "short": "Bahri Dağdaş UTAE, KTM",
+      "short_en": "Bahri Dağdaş Institute (TAGEM), Drought Test Center",
+      "full": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü. Kuraklık Test Merkezi Birimi (web page).",
+      "url": "https://arastirma.tarimorman.gov.tr/bahridagdas/Menu/163/Kuraklik-Test-Merkezi-Birimi"
+    },
+    {
+      "key": "bahridagdas_katalog",
+      "short": "Bahri Dağdaş UTAE, katalog",
+      "short_en": "Bahri Dağdaş Institute (TAGEM), catalogue",
+      "full": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü. Çeşit ve Irk Kataloğu (Aslım-95 triticale).",
+      "url": "https://arastirma.tarimorman.gov.tr/bahridagdas/BelgelerArsiv/Belgeler/Katalog.pdf"
+    },
+    {
+      "key": "milliyet2021",
+      "short": "Milliyet 2021",
+      "full": "Milliyet (6 Sep 2021). Tescilli arpa çeşidi Yağmur verimiyle çiftçinin yüzünü güldürecek.",
+      "url": "https://www.milliyet.com.tr/ekonomi/tescilli-arpa-cesidi-yagmur-verimiyle-ciftcinin-yuzunu-guldurecek-6591476"
+    },
+    {
+      "key": "bloomberght2021",
+      "short": "Bloomberg HT 2021",
+      "full": "Bloomberg HT (9 Apr 2021). Tarımda programlı damla sulama yüzde 25 tasarruf, yüzde 33 verim artışı sağladı (FAO/GEF Sürdürülebilir Arazi Yönetimi ve İklim Dostu Tarım project).",
+      "url": "https://www.bloomberght.com/tarimda-programli-damla-sulama-yuzde-25-tasarruf-yuzde-33-verim-artisi-sagladi-2278226"
+    },
+    {
+      "key": "misir_projeler",
+      "short": "Mısır Araştırma Enstitüsü",
+      "short_en": "Maize Research Institute (TAGEM)",
+      "full": "Mısır Araştırma Enstitüsü. Sıcak İklim Tahılları Şubesi Projeleri (project list).",
+      "url": "https://arastirma.tarimorman.gov.tr/misir/Menu/70/Sicak-Iklim-Tahillari-Subesi-Projeleri"
+    },
+    {
+      "key": "ekonomist_sorgum",
+      "short": "Ekonomist",
+      "full": "Ekonomist. Kuraklığa meydan okuyan bitki: Sorgum (interview with E. Gönülal, Bahri Dağdaş UTAE).",
+      "url": "https://www.ekonomist.com.tr/tarim/kurakliga-meydan-okuyan-bitki-sorgum-64474"
+    },
+    {
+      "key": "cebi2023",
+      "short": "Çebi et al. 2023",
+      "full": "Çebi, U., Özer, S., Öztürk, O., Aydın, B., Çakır, R. (2023). Yield and water productivity of rice grown under different irrigation methods. Journal of Agricultural Science 161(3): 387–397.",
+      "url": "https://doi.org/10.1017/S0021859623000308"
+    },
+    {
+      "key": "haberturk2024",
+      "short": "Habertürk 2024",
+      "full": "Habertürk (2024). Edirne'de yüksek verimli ve hastalıklara dayanıklı 3 çeltik çeşidi geliştirildi.",
+      "url": "https://www.haberturk.com/edirne-de-3-celtik-cesidi-gelistirildi-3719115"
+    },
+    {
+      "key": "ttae2013",
+      "short": "Trakya TAE 2013",
+      "short_en": "Trakya Agricultural Research Institute (TAGEM) 2013",
+      "full": "Trakya Tarımsal Araştırma Enstitüsü. Brifing Raporu 2013.",
+      "url": "https://arastirma.tarimorman.gov.tr/ttae/BelgelerArsiv/Belgeler/Yayinlar/Raporlar/ttae_brifing_raporu_2013.pdf"
+    },
+    {
+      "key": "bahridagdas2026",
+      "short": "Bahri Dağdaş UTAE 2026",
+      "short_en": "Bahri Dağdaş Institute (TAGEM) 2026",
+      "full": "Bahri Dağdaş Uluslararası Tarımsal Araştırma Enstitüsü (17 May 2026). Stratejik Ürün Sorgumda Islah Çalışmaları Hız Kesmiyor.",
+      "url": "https://arastirma.tarimorman.gov.tr/bahridagdas/Haber/340/Stratejik-Urun-Sorgumda-Islah-Calismalari-Hiz-Kesmiyor"
+    },
+    {
+      "key": "bozkurt2021",
+      "short": "Bozkurt Çolak et al. 2021",
+      "full": "Bozkurt Çolak, Y., Yazar, A., Alghory, A., Tekin, S. (2021). Yield and water productivity response of quinoa to various deficit irrigation regimes. Journal of Agricultural Science 159: 116–127.",
+      "url": "https://doi.org/10.1017/S0021859621000265"
+    },
+    {
+      "key": "yazar2015",
+      "short": "Yazar et al. 2015",
+      "full": "Yazar, A., Incekaya, Ç., Sezen, S.M., Jacobsen, S.-E. (2015). Saline water irrigation of quinoa under Mediterranean conditions. Crop & Pasture Science 66: 993–1002.",
+      "url": "https://doi.org/10.1071/CP14243"
+    },
+    {
+      "key": "ttsm2024_nohut",
+      "short": "TTSM 2024 (nohut)",
+      "short_en": "TTSM 2024 (chickpea)",
+      "full": "Tohumluk Tescil ve Sertifikasyon Merkezi (2024). Kışlık Ekim Nohut Tescil Raporu.",
+      "url": "https://tarimorman.gov.tr/BUGEM/TTSM/Belgeler/Yayınlar/Tescil%20Raporları/2024/TARLA%20BİTKİLERİ%20TÜRLERİ/YEMEKLİK%20TANE%20BAKLAGİLLER/Kışlık%20Ekim%20Nohut%20Tescil%20Raporu.pdf"
+    },
+    {
+      "key": "trt2016",
+      "short": "TRT Haber 2016",
+      "full": "TRT Haber (15 Jul 2016). Nohut üreticisinin yüzü Arda ile gülecek.",
+      "url": "https://www.trthaber.com/haber/ekonomi/nohut-ureticisinin-yuzu-arda-ile-gulecek-261162.html"
+    },
+    {
+      "key": "ozdemir2003",
+      "short": "Özdemir & Karadavut 2003",
+      "full": "Özdemir & Karadavut (2003). Turkish Journal of Agriculture and Forestry 27(6): 345–352 (autumn vs spring sowing of chickpea).",
+      "url": "https://journals.tubitak.gov.tr/agriculture/vol27/iss6/4"
+    },
+    {
+      "key": "vonwettberg2018",
+      "short": "von Wettberg et al. 2018",
+      "full": "von Wettberg et al. (2018). Nature Communications (wild Cicer from south-east Türkiye; co-authors from Tarla Bitkileri MAE and Karadeniz TAE).",
+      "url": "https://doi.org/10.1038/s41467-018-02867-z"
+    },
+    {
+      "key": "ttsm2024_mercimek",
+      "short": "TTSM 2024 (mercimek)",
+      "short_en": "TTSM 2024 (lentil)",
+      "full": "Tohumluk Tescil ve Sertifikasyon Merkezi (2024). Kışlık Ekim Kırmızı Mercimek Tescil Raporu.",
+      "url": "https://tarimorman.gov.tr/BUGEM/TTSM/Belgeler/Yayınlar/Tescil%20Raporları/2024/TARLA%20BİTKİLERİ%20TÜRLERİ/YEMEKLİK%20TANE%20BAKLAGİLLER/Kışlık%20Ekim%20Kırmızı%20Mercimek%20Tescil%20Raporu.pdf"
+    },
+    {
+      "key": "aydogan2004",
+      "short": "Aydoğan et al. 2004",
+      "full": "Aydoğan, A. et al. (2004). Tarla Bitkileri Merkez Araştırma Enstitüsü Dergisi 13(1–2) (winter lentil cultivars Kafkas, Özbek and Çiftçi).",
+      "url": "https://dergipark.org.tr/tr/pub/tarbitderg/article/137055"
+    },
+    {
+      "key": "oweis2004",
+      "short": "Oweis & Hachum 2004",
+      "full": "Oweis & Hachum (2004). Agricultural Water Management (ICARDA lentil supplemental irrigation trial, northern Syria).",
+      "url": "https://repo.mel.cgiar.org/items/b027cb34-f34a-4547-bd87-cb593f6d611a/full"
+    },
+    {
+      "key": "ekonomist2022",
+      "short": "Ekonomist 2022",
+      "full": "Ekonomist (27 Oct 2022). Aydın'da kuraklığa dayanıklı iki pamuk tohumu geliştirildi.",
+      "url": "https://www.ekonomist.com.tr/tarim/aydinda-kurakliga-dayanikli-iki-pamuk-tohumu-gelistirildi-18495"
+    },
+    {
+      "key": "kanber2012",
+      "short": "Kanber et al. 2012",
+      "full": "Kanber et al. (2012). Turkish Journal of Agriculture and Forestry 36(1): 77–94 (alternate-furrow irrigation of cotton, Harran Plain).",
+      "url": "https://openaccess.mku.edu.tr/items/7c825760-98c4-4fed-a284-67ef85dc6c7e/full"
+    },
+    {
+      "key": "dagdelen2009",
+      "short": "Dağdelen et al. 2009",
+      "full": "Dağdelen et al. (2009). Agricultural Water Management 96(1): 111–120 (drip-irrigated cotton, Aegean region).",
+      "url": "https://agris.fao.org/search/en/records/65de77fb4c5aef494fdc82f0"
+    },
+    {
+      "key": "dha2024",
+      "short": "DHA 2024",
+      "full": "Demirören Haber Ajansı (30 Dec 2024). Edirne'de kuraklık ve hastalığa karşı dayanıklı yeni ayçiçeği türü geliştirildi.",
+      "url": "https://www.dha.com.tr/foto-galeri/edirnede-kuraklik-ve-hastaliga-karsi-dayanikli-yeni-aycicegi-turu-gelistirildi-2557737"
+    },
+    {
+      "key": "trt2022",
+      "short": "TRT Haber 2022",
+      "full": "TRT Haber (23 Aug 2022). Edirne'de 3 yeni hibrit ayçiçeği çeşidi geliştirildi.",
+      "url": "https://www.trthaber.com/haber/guncel/edirnede-3-yeni-hibrit-aycicegi-cesidi-gelistirildi-703137.html"
+    },
+    {
+      "key": "karar2026",
+      "short": "Karar 2026",
+      "full": "Karar (8 Aug 2026). Report on the Trakya institute's safflower demonstration in Kırklareli.",
+      "url": "https://www.karar.com/guncel-haberler/kurakliga-kafa-tutuyor-hem-bitkisi-hem-yagi-kullaniliyor-ureticiye-2064428"
+    },
+    {
+      "key": "ttsm2024_pancar",
+      "short": "TTSM 2024 (şekerpancarı)",
+      "short_en": "TTSM 2024 (sugar beet)",
+      "full": "Tohumluk Tescil ve Sertifikasyon Merkezi (2024). Şekerpancarı Tescil Raporu.",
+      "url": "https://tarimorman.gov.tr/BUGEM/TTSM/Belgeler/Yayınlar/Tescil%20Raporları/2024/TARLA%20BİTKİLERİ%20TÜRLERİ/ENDÜSTRİ%20BİTKİLERİ/Şekerpancarı%20Tescil%20Raporu.pdf"
+    },
+    {
+      "key": "dha2024b",
+      "short": "DHA 2024 (Aksaray)",
+      "full": "Demirören Haber Ajansı (11 Aug 2024). Tuz Gölü havzasında kavun ve domates üretimi yüzde 75 su tasarrufu sağladı.",
+      "url": "https://www.dha.com.tr/foto-galeri/tuz-golu-havzasinda-kavun-ve-domates-uretimi-yuzde-75-su-tasarrufu-sagladi-2488114"
+    },
+    {
+      "key": "sayilir2026",
+      "short": "Sayilir & Ilker 2026",
+      "full": "Sayilir & Ilker (2026). BMC Plant Biology (winter-sown safflower trial, İzmir).",
+      "url": "https://doi.org/10.1186/s12870-026-09499-2"
+    },
+    {
+      "key": "meric2026",
+      "short": "Meriç et al. 2026",
+      "full": "Meriç et al. (2026). Water Environment Research (Ege University; safflower cv. Dinçer, phenological-stage irrigation).",
+      "url": "https://doi.org/10.1002/wer.70522"
+    },
+    {
+      "key": "zmmae2025",
+      "short": "ZMMAE 2025",
+      "short_en": "Plant Protection Central Research Institute (TAGEM) 2025",
+      "full": "Zirai Mücadele Merkez Araştırma Enstitüsü (2025). Patates Siğil Hastalığı Güvenlik Kuşaklarında 24 Yıl Sonra İlk Hasatlar Başarıyla Gerçekleştirildi.",
+      "url": "https://arastirma.tarimorman.gov.tr/zmmae/Haber/1055/Patates-Sigil-Hastaligi-Guvenlik-Kusaklarinda-24-Yil-Sonra-Ilk-Hasatlar-Basariyla-Gerceklestirildi"
+    },
+    {
+      "key": "erdem2006",
+      "short": "Erdem et al. 2006",
+      "full": "Erdem et al. (2006). Scientia Agricola (drip vs furrow irrigation of potato, Thrace).",
+      "url": "https://scielo.br/j/sa/a/d3WQ8Qy8JQNv3WHkYQgxhJm/?lang=en"
+    },
+    {
+      "key": "akkamis2023",
+      "short": "Akkamis & Caliskan 2023",
+      "full": "Akkamis & Caliskan (2023). Scientific Reports (deficit drip irrigation of potato, Niğde).",
+      "url": "https://doi.org/10.1038/s41598-023-36934-3"
+    },
+    {
+      "key": "kurklu2025",
+      "short": "Kürklü et al. 2025",
+      "full": "Kürklü, Pearson & Felek (2025). BMC Plant Biology (survey of high-tech greenhouses after the 2022–23 heat).",
+      "url": "https://doi.org/10.1186/s12870-025-06307-1"
+    },
+    {
+      "key": "tuzel2025",
+      "short": "Tüzel et al. 2025",
+      "full": "Tüzel et al. (2025). Scientific Reports (greenhouse tomato, deficit irrigation with biochar or vermicompost, İzmir).",
+      "url": "https://doi.org/10.1038/s41598-025-12098-0"
+    },
+    {
+      "key": "zengin2020",
+      "short": "Zengin et al. 2020",
+      "full": "Zengin, Kabaş & İlbi (2020). Notulae Botanicae Horti Agrobotanici Cluj-Napoca 48(1): 388–397 (Ty-1 and Ty-3a markers in tomato).",
+      "url": "https://doi.org/10.15835/nbha48111732"
+    },
+    {
+      "key": "marem_kayisi",
+      "short": "MAREM, Kayısı",
+      "short_en": "Fruit Research Institute (TAGEM), apricot",
+      "full": "Meyvecilik Araştırma Enstitüsü Müdürlüğü, Eğirdir. Kayısı Yetiştiriciliği (grower guide, TAGEM 2022 document set).",
+      "url": "https://arastirma.tarimorman.gov.tr/marem/Belgeler/2022/Yeti%C5%9Ftiricilik%20Bilgileri/Kay%C4%B1s%C4%B1%20Yeti%C5%9Ftiricili%C4%9Fi.pdf"
+    },
+    {
+      "key": "kuden2020",
+      "short": "Küden et al. 2020",
+      "full": "Küden, A., Küden, A.B., İmrak, B., Ceyhanlı, B. (2020). Performances of low chill cherries under subtropical conditions. Acta Horticulturae 1280: 155–160. doi:10.17660/ActaHortic.2020.1280.21",
+      "url": "https://doi.org/10.17660/ActaHortic.2020.1280.21"
+    },
+    {
+      "key": "kucukyumuk2015",
+      "short": "Küçükyumuk et al. 2015",
+      "full": "Küçükyumuk, C., Yıldız, H., Ünlükara, A., Küçükyumuk, Z. (2015). Responses of '0900 Ziraat' sweet cherry variety grafted on different rootstocks to salt stress. Notulae Botanicae Horti Agrobotanici Cluj-Napoca 43(1): 214–221.",
+      "url": "https://doi.org/10.15835/nbha4319754"
+    },
+    {
+      "key": "marem_kiraz",
+      "short": "MAREM 2025",
+      "short_en": "Fruit Research Institute (TAGEM) 2025",
+      "full": "Meyvecilik Araştırma Enstitüsü Müdürlüğü, Eğirdir (2025). Kirazlarda Don Zararı (leaflet).",
+      "url": "https://bartin.tarimorman.gov.tr/Belgeler/SolMenu/Yeti%C5%9Ftiricilik%20Bilgileri/Bitkisel%20%C3%9Cretim/ISPARTA%20MAREM%20Kiraz%20Don%20Zarar%C4%B1.pdf"
+    },
+    {
+      "key": "malatya2025",
+      "short": "Tarım ve Orman Bakanlığı, Malatya 2025",
+      "short_en": "Ministry of Agriculture and Forestry, Malatya 2025",
+      "full": "Tarım ve Orman Bakanlığı Malatya İl Müdürlüğü (18 Apr 2025). Sayın Bakanımız İbrahim Yumaklı Malatya'da zirai dona ilişkin açıklamalarda bulundu.",
+      "url": "https://malatya.tarimorman.gov.tr/Haber/894/Sayin-Bakanimiz-Ibrahim-Yumakli-Malatyada-Zirai-Dona-Iliskin-Aciklamalarda-Bulundu"
+    },
+    {
+      "key": "marem_islah",
+      "short": "MAREM, Islah ve Genetik",
+      "short_en": "Fruit Research Institute (TAGEM), breeding",
+      "full": "Meyvecilik Araştırma Enstitüsü Müdürlüğü. Islah ve Genetik Bölümü (web page); project 'Karaleke Hastalığına Dayanıklı ve Kaliteli Elma Çeşitlerinin Elde Edilmesi (III. Dilim)' 2022–2026.",
+      "url": "https://arastirma.tarimorman.gov.tr/marem/Menu/64/Islah-Ve-Genetik-Bolumu"
+    },
+    {
+      "key": "andersen_edis",
+      "short": "Andersen et al., UF/IFAS",
+      "full": "Andersen, P.C., Shahid, M.A., Folta, K. Low-Chill Apple Cultivars for North Florida and North Central Florida. UF/IFAS Extension EDIS MG368.",
+      "url": "https://edis.ifas.ufl.edu/publication/MG368"
+    },
+    {
+      "key": "dayioglu2016",
+      "short": "Dayıoğlu & Hepaksoy 2016",
+      "full": "Dayıoğlu, A., Hepaksoy, S. (2016). Effects of shading nets on sunburn and quality of 'Granny Smith' apple fruits. Acta Horticulturae 1139: 523–528.",
+      "url": "https://doi.org/10.17660/ActaHortic.2016.1139.90"
+    },
+    {
+      "key": "bzmai",
+      "short": "Bornova ZMAE",
+      "short_en": "Bornova Plant Protection Research Institute (TAGEM)",
+      "full": "Bornova Zirai Mücadele Araştırma Enstitüsü Müdürlüğü. Meyve ve Bağ Hastalıkları Laboratuvarı (web page).",
+      "url": "https://arastirma.tarimorman.gov.tr/bzmai/Menu/96/Meyve-Ve-Bag-Hastaliklari-Laboratuvari"
+    },
+    {
+      "key": "incir_islah",
+      "short": "İncir Araştırma Enstitüsü",
+      "short_en": "Fig Research Institute (TAGEM)",
+      "full": "İncir Araştırma Enstitüsü Müdürlüğü. Islah ve Genetik Bölümü (web page); Kocataş, H. (2016). İncir Çeşitleri (leaflet).",
+      "url": "https://arastirma.tarimorman.gov.tr/incir/Menu/17/Islah-Ve-Genetik-Bolumu"
+    },
+    {
+      "key": "incir_sulama",
+      "short": "İncir AE 2016 (sulama)",
+      "short_en": "Fig Research Institute (TAGEM) 2016 (irrigation)",
+      "full": "İncir Araştırma Enstitüsü Müdürlüğü (2016). İncirde Sulama ve Gübreleme (leaflet).",
+      "url": "https://arastirma.tarimorman.gov.tr/incir/BelgelerArsiv/Belgeler/Kitap-Liflet/incirde_sulama_ve_gubreleme.pdf"
+    },
+    {
+      "key": "incir_kurutma",
+      "short": "İncir AE 2016 (kurutma)",
+      "short_en": "Fig Research Institute (TAGEM) 2016 (drying)",
+      "full": "İncir Araştırma Enstitüsü Müdürlüğü (2016). İncirde Hasat, Kurutma ve Depolama (leaflet).",
+      "url": "https://arastirma.tarimorman.gov.tr/incir/BelgelerArsiv/Belgeler/Kitap-Liflet/incirde_hasat_kurutma_depolama.pdf"
+    },
+    {
+      "key": "bagcilik_saklikara",
+      "short": "Bağcılık AE, Saklıkara",
+      "short_en": "Viticulture Research Institute (TAGEM), Saklıkara",
+      "full": "Bağcılık Araştırma Enstitüsü Müdürlüğü, Tekirdağ. Variety catalogue sheet 'Saklıkara'.",
+      "url": "https://arastirma.tarimorman.gov.tr/bagcilik/IcerikResimleri/KATALOG/SAKLIKARA.JPG"
+    },
+    {
+      "key": "trt2021",
+      "short": "TRT Haber / AA 2021",
+      "full": "TRT Haber / AA (24 Nov 2021). Manisa'daki 91 yıllık enstitü kuraklığa dirençli asma geliştirecek.",
+      "url": "https://www.trthaber.com/haber/guncel/manisadaki-91-yillik-enstitu-kurakliga-direncli-asma-gelistirecek-629197.html"
+    },
+    {
+      "key": "alata_asma",
+      "short": "Tarım & Kiraz 2022",
+      "full": "Tarım, G., Kiraz, M.E. (2022). Asma Anaçları (leaflet). Alata Bahçe Kültürleri Araştırma Enstitüsü.",
+      "url": "https://arastirma.tarimorman.gov.tr/alata/Belgeler/brosurler/brosur2022/AsmaAna%C3%A7lar%C4%B1-G%C3%BCzinTARIM,%20M.Erdem%20K%C4%B0RAZ.pdf"
+    },
+    {
+      "key": "yazici2009",
+      "short": "Yazıcı & Kaynak 2009",
+      "full": "Yazıcı, K., Kaynak, L. (2009). Effects of kaolin and shading treatments on sunburn on fruit of Hicaznar cultivar of pomegranate. Acta Horticulturae 818. doi:10.17660/ActaHortic.2009.818.24",
+      "url": "https://doi.org/10.17660/ActaHortic.2009.818.24"
+    },
+    {
+      "key": "porras2025",
+      "short": "Porras-Jorge et al. 2025",
+      "full": "Porras-Jorge, R. et al. (2025). Effect of deficit irrigation on agronomic and physiological performance of pomegranate. Plants 14(2): 164.",
+      "url": "https://doi.org/10.3390/plants14020164"
+    },
+    {
+      "key": "lozano2025",
+      "short": "Lozano-Soria et al. 2025",
+      "full": "Lozano-Soria, A. et al. (2025). Pomegranate germplasm collections from Elche (Spain) and Bari (Italy): genetic resources characterization for emerging Mediterranean challenges. Plants 14(21): 3239.",
+      "url": "https://doi.org/10.3390/plants14213239"
+    },
+    {
+      "key": "findik_okay28",
+      "short": "Fındık AE, Okay 28",
+      "short_en": "Hazelnut Research Institute (TAGEM), Okay 28",
+      "full": "Fındık Araştırma Enstitüsü. OKAY 28 variety page.",
+      "url": "https://arastirma.tarimorman.gov.tr/findik/Sayfalar/Detay.aspx?SayfaId=87"
+    },
+    {
+      "key": "haberler_findik",
+      "short": "Haberler.com",
+      "full": "Haberler.com. Fındık Araştırma Enstitüsü'nden ilkbahar geç donlarına dayanıklı yeni fındık çeşitleri geliştiriliyor.",
+      "url": "https://www.haberler.com/guncel/findik-arastirma-enstitusu-nden-ilkbahar-gec-donlarina-dayanikli-yeni-findik-cesitleri-gelistiriliyo-19001530-haberi/"
+    },
+    {
+      "key": "findik2026",
+      "short": "Fındık AE 2026",
+      "short_en": "Hazelnut Research Institute (TAGEM) 2026",
+      "full": "Fındık Araştırma Enstitüsü (29 Jul 2026). Fındıkta Doğru Çeşit, Doğru Rakım: 10 Yıllık Çalışmanın Sonuçları.",
+      "url": "https://arastirma.tarimorman.gov.tr/findik/Haber/171/Findikta-Dogru-Cesitdogru-Rakim-10-Yillik-Calismanin-Sonuclari"
+    },
+    {
+      "key": "omu2026",
+      "short": "Ondokuz Mayıs Üniversitesi 2026",
+      "short_en": "Ondokuz Mayıs University 2026",
+      "full": "Ondokuz Mayıs University news (May 2026). Prof. Dr. Yusuf Demir on hazelnut irrigation.",
+      "url": "https://www.omu.edu.tr/en/node/21546"
+    },
+    {
+      "key": "acar2011",
+      "short": "Acar et al. 2011",
+      "full": "Acar et al. (2011). Acta Horticulturae 912: 313–319 (pistachio cultivars under drip irrigation, Şanlıurfa).",
+      "url": "https://agris.fao.org/search/es/records/65df4bbb0f3e94b9e5d71179"
+    },
+    {
+      "key": "ozmen2015",
+      "short": "Özmen et al. 2015",
+      "full": "Özmen et al. (2015). Soil and Water Research 10(1): 56–63 (citing Özmen 2002). doi:10.17221/60/2014-SWR",
+      "url": "https://swr.agriculturejournals.cz/pdfs/swr/2015/01/08.pdf"
+    },
+    {
+      "key": "uzun2001",
+      "short": "Uzun & Çağlar 2001",
+      "full": "Uzun & Çağlar (2001). CIHEAM Options Méditerranéennes A56: 219–222 (evaporative cooling to delay pistachio bloom).",
+      "url": "https://ressources.ciheam.org/ressources/om/pdf/c56/01600179.pdf"
+    },
+    {
+      "key": "yilmaz2024",
+      "short": "Yılmaz & İlikçioğlu 2024",
+      "full": "Yılmaz & İlikçioğlu (2024). Antepfıstığında Çeşit Islahı Kriterleri. Antepfıstığı Araştırma Dergisi 11.",
+      "url": "https://arastirma.tarimorman.gov.tr/afistik/Belgeler/AYRILMIŞ%20MAKALELER/143-ANTEPFISTIĞINDA%20ÇEŞİT%20ISLAHI%20KRİTERLERİ%202024.pdf"
+    },
+    {
+      "key": "ceviz_brosur",
+      "short": "Utku & Orman, Ceviz",
+      "short_en": "Utku & Orman, walnut",
+      "full": "Utku & Orman. Ceviz Yetiştiriciliği (farmer brochure). Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü.",
+      "url": "https://arastirma.tarimorman.gov.tr/yalovabahce/Belgeler/brosurler/Ceviz.pdf"
+    },
+    {
+      "key": "tefek2016",
+      "short": "Tefek 2016",
+      "full": "Tefek, H. (2016). MSc thesis, Hatay Mustafa Kemal University (kaolin on walnut).",
+      "url": "https://openaccess.mku.edu.tr/items/2088c557-0489-42a6-a2bb-e107b35e1c03/full"
+    },
+    {
+      "key": "ceviz_sulama",
+      "short": "Üğlü Tekin, Ceviz sulama",
+      "short_en": "Üğlü Tekin, walnut irrigation",
+      "full": "Üğlü Tekin, G. Ceviz Yetiştiriciliğinde Sulama (farmer brochure). Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü.",
+      "url": "https://arastirma.tarimorman.gov.tr/yalovabahce/Belgeler/brosurler/CevizSulamasi.pdf"
+    },
+    {
+      "key": "milliyet2026",
+      "short": "Milliyet 2026",
+      "full": "Milliyet (9 Jun 2026). Zeytinyağı kalitesinde iklim belirleyici oldu (citing TAGEM).",
+      "url": "https://www.milliyet.com.tr/ekonomi/zeytinyagi-kalitesinde-iklim-belirleyici-oldu-7601882"
+    },
+    {
+      "key": "izmirzae_projeler",
+      "short": "Zeytincilik AE, projeler",
+      "short_en": "Olive Research Institute (TAGEM), projects",
+      "full": "Zeytincilik Araştırma Enstitüsü. Ongoing projects (TAGEM and TÜBİTAK–TAGEM 1003, incl. 222O427).",
+      "url": "https://arastirma.tarimorman.gov.tr/izmirzae/Menu/6/Devam-Eden"
+    },
+    {
+      "key": "kaya2017",
+      "short": "Kaya et al. 2017",
+      "full": "Kaya et al. (2017). Irrigation and Drainage 66(5): 820–827 (deficit drip irrigation of Memecik olive).",
+      "url": "https://agris.fao.org/search/en/records/65dfdee363b8185d9caf936d"
+    },
+    {
+      "key": "alata_turuncgil",
+      "short": "Aksoy 2022",
+      "full": "Aksoy, D. (2022). Turunçgil Anaçları (brochure). Alata Bahçe Kültürleri Araştırma Enstitüsü.",
+      "url": "https://arastirma.tarim.gov.tr/alata/Belgeler/brosurler/brosur2022/TurunçgilAnaçları-DenizAKSOY.pdf"
+    },
+    {
+      "key": "kekec2020",
+      "short": "Kekeç & Özekici 2020",
+      "full": "Kekeç & Özekici (2020). Turkish Journal of Agriculture – Food Science and Technology 8(1): 116–124 (deficit irrigation of Rio Red grapefruit).",
+      "url": "https://agris.fao.org/search/en/records/675981a7c7a957febdf99dc4"
+    },
+    {
+      "key": "eminoglu2025",
+      "short": "Eminoğlu et al. 2025",
+      "full": "Eminoğlu et al. (2025). BMC Plant Biology 25: 1381 (tea genotypes, elite clones and DNA barcoding).",
+      "url": "https://doi.org/10.1186/s12870-025-07464-z"
+    },
+    {
+      "key": "haciimamoglu2025",
+      "short": "Hacıimamoğlu et al. 2025",
+      "full": "Hacıimamoğlu et al. (2025). Assessing climate change effects on Turkish tea farming through a dual approach using MMQR and machine learning. Scientific Reports.",
+      "url": "https://avesis.erdogan.edu.tr/yayin/1806dfee-a400-4924-ab11-10519078b530/assessing-climate-change-effects-on-turkish-tea-farming-through-a-dual-approach-using-mmqr-and-machine-learning"
+    },
+    {
+      "key": "guzel2023",
+      "short": "Güzel İzmirli & Gül 2023",
+      "full": "Güzel İzmirli & Gül (2023). Modeling of current and future distributions of Camellia sinensis in Türkiye under climate change. Theoretical and Applied Climatology 154: 1323–1332.",
+      "url": "https://avesis.erdogan.edu.tr/yayin/96d24e7c-5e2a-43f9-a1a8-b8c2e7a16e7b/modeling-of-current-and-future-distributions-of-camellia-sinensis-in-turkiye-under-climate-change"
+    },
+    {
+      "key": "varnava2023",
+      "short": "Varnava et al. 2023",
+      "full": "Varnava et al. (2023). PLoS One 18(10): e0291431 (carob pollination, Cyprus).",
+      "url": "https://doi.org/10.1371/journal.pone.0291431"
+    },
+    {
+      "key": "boutasknit2021",
+      "short": "Boutasknit et al. 2021",
+      "full": "Boutasknit et al. (2021). Scientific Reports 11: 22835 (mycorrhiza and compost for young carob under drought).",
+      "url": "https://doi.org/10.1038/s41598-021-02018-3"
+    },
+    {
+      "key": "alata_avokado",
+      "short": "Bulut 2022",
+      "full": "Bulut, A. (2022). Avokado Yetiştiriciliği (extension brochure). Alata Bahçe Kültürleri Araştırma Enstitüsü.",
+      "url": "https://arastirma.tarimorman.gov.tr/alata/Belgeler/brosurler/brosur2022/AvokadoYeti%C5%9Ftiricili%C4%9Fi-As%C4%B1mBULUT.pdf"
+    },
+    {
+      "key": "batem_avokado2021",
+      "short": "BATEM 2021",
+      "full": "Batı Akdeniz Tarımsal Araştırma Enstitüsü (2021). Avokado Çalıştayı Sonuç Bildirgesi (workshop of 17 Dec 2021, Antalya).",
+      "url": "https://arastirma.tarimorman.gov.tr/batem/Lists/Haber/Attachments/353/Avokado_Calistay_Sonuc_Bildirgesi.pdf"
+    },
+    {
+      "key": "tagem_tskad2023",
+      "short": "TAGEM 2023",
+      "full": "TAGEM (2023). Toprak ve Su Kaynakları Araştırmaları Proje Değerlendirme Grubu toplantı tutanağı (BATEM avocado irrigation proposal, 2024–2028).",
+      "url": "https://www.tarimorman.gov.tr/TAGEM/Belgeler/pdgt/tskad/2023_%20TOPRAKSU_TUTANAK.docx"
+    },
+    {
+      "key": "tarimorman2022",
+      "short": "Tarım ve Orman Bakanlığı 2022",
+      "short_en": "Ministry of Agriculture and Forestry 2022",
+      "full": "Tarım ve Orman Bakanlığı (28 Oct 2022). Türkiye'de Tropik Meyve Yetiştiriciliği Hızla Artıyor.",
+      "url": "https://tarimorman.gov.tr/Haber/5534/Turkiyede-Tropik-Meyve-Yetistiriciligi-Hizla-Artiyor"
+    },
+    {
+      "key": "lipan2021",
+      "short": "Lipan et al. 2021",
+      "full": "Lipan, L., Carbonell-Pedro, A.A., Durán-Zuazo, V.H. et al. (2021). Can sustained deficit irrigation save water and meet the quality characteristics of mango? Agriculture 11(5): 448.",
+      "url": "https://ideas.repec.org/a/gam/jagris/v11y2021i5p448-d555358.html"
+    },
+    {
+      "key": "kan2025",
+      "short": "Kan et al. 2025",
+      "full": "Kan, M., Yaman, A.F., Akan, K., Bahçeci, M. (2025). Evaluation of Mango Production under Climate Change in Türkiye. In: Climate Change and Mango Production, Springer, pp. 89–108. doi:10.1007/978-3-031-87035-4_4",
+      "url": "https://openaccess.ahievran.edu.tr/items/6ee5b458-0d73-4d91-ba27-dafb0f226b26"
+    },
+    {
+      "key": "bursahakimiyet2021",
+      "short": "Bursa Hakimiyet 2021",
+      "full": "Bursa Hakimiyet (27 Apr 2021). Yeni muz çeşidi geliştirildi (Alata institute director Cengiz Türkay).",
+      "url": "https://www.bursahakimiyet.com.tr/ekonomi/yeni-muz-cesidi-gelistirildi-524571"
+    },
+    {
+      "key": "turkpatent_alanya",
+      "short": "TÜRKPATENT 2022",
+      "full": "Türk Patent ve Marka Kurumu (2022). Coğrafi İşaret Tescil No. 1176: Alanya Muzu (Menşe Adı).",
+      "url": "https://ci.turkpatent.gov.tr/Files/GeographicalSigns/a578c370-3060-44cb-8d6c-c9186ae75a63.pdf"
+    },
+    {
+      "key": "paradergi2022",
+      "short": "Para Dergi 2022",
+      "full": "Öz, Ö. (3 Oct 2022). Ejder meyvesi, muzdan daha çok kazandırıyor. Para Dergi.",
+      "url": "https://paradergi.com.tr/sektorler/2022/10/03/ejder-meyvesi-muzdan-daha-cok-kazandiriyor"
+    },
+    {
+      "key": "oliveira2021",
+      "short": "de Oliveira et al. 2021",
+      "full": "de Oliveira, M.M.T. et al. (2021). Shade improves growth, photosynthetic performance, production and postharvest quality in red pitahaya (Hylocereus costaricensis). Scientia Horticulturae. doi:10.1016/j.scienta.2021.110217",
+      "url": "https://agris.fao.org/search/ar/records/65df8c080f3e94b9e5d9a97c"
+    },
+    {
+      "key": "raveh2019",
+      "short": "Raveh et al. 2019",
+      "full": "Raveh, E., Zurgil, U., Sravanthi, D., Shu-Hua, L., Oliveira, M., Tel-Zur, N. (2019). Performance of pitaya (Hylocereus, Cactaceae) hybrids under high temperature stress. ASHS Annual Conference abstract.",
+      "url": "https://ashs.confex.com/ashs/2019/webprogramarchives/Paper29866.html"
+    },
+    {
+      "key": "badem_brosur",
+      "short": "Utku & Orman, Badem",
+      "short_en": "Utku & Orman, almond",
+      "full": "Utku, Ö. & Orman, E. Badem Yetiştiriciliği (farmer brochure). Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü, Yalova.",
+      "url": "https://arastirma.tarimorman.gov.tr/yalovabahce/Belgeler/brosurler/Badem.pdf"
+    },
+    {
+      "key": "atli2019",
+      "short": "Atlı 2019",
+      "full": "Atlı, H.S. (2019). Bazı badem çeşitlerinin fenolojik ve pomolojik özelliklerinin belirlenmesi. Türkiye Tarımsal Araştırmalar Dergisi 6(2): 222–229 (almond gene bank of the Pistachio Research Institute, Gaziantep). doi:10.19159/tutad.564014",
+      "url": "https://doi.org/10.19159/tutad.564014"
+    },
+    {
+      "key": "acar2013",
+      "short": "Açar et al. 2013",
+      "full": "Açar, İ., Arpacı, S., Yılmaz, A., Atlı, H.S., Kafkas, S., Eti, S., Çağlar, S. (2013). A new almond breeding program in Turkey. Acta Horticulturae 976: 63–68. doi:10.17660/ActaHortic.2013.976.4",
+      "url": "https://doi.org/10.17660/ActaHortic.2013.976.4"
+    },
+    {
+      "key": "karaat2023",
+      "short": "Karaat & Denizhan 2023",
+      "full": "Karaat, F.E., Denizhan, H. (2023). The effects of different particle film applications on almond trees. Ciência Rural 53(3): e20210757. doi:10.1590/0103-8478cr20210757",
+      "url": "https://doi.org/10.1590/0103-8478cr20210757"
+    },
+    {
+      "key": "kayisi_islah",
+      "short": "Kayısı AE, Islah ve Genetik",
+      "short_en": "Apricot Research Institute (TAGEM), breeding",
+      "full": "Kayısı Araştırma Enstitüsü Müdürlüğü, Malatya (TAGEM). Islah ve Genetik Bölümü: aims include strategies against late spring frost, breeding tolerant varieties and developing late-blooming varieties (web page, accessed 9 Oct 2026).",
+      "url": "https://arastirma.tarimorman.gov.tr/kayisi/Menu/11/Islah-Ve-Genetik"
+    },
+    {
+      "key": "kayisi_projeler",
+      "short": "Kayısı AE, projeler",
+      "short_en": "Apricot Research Institute (TAGEM), projects",
+      "full": "Kayısı Araştırma Enstitüsü Müdürlüğü, Malatya (TAGEM). Ongoing projects: 'Melezleme ıslahıyla geç çiçek açan, dona ve şarkaya dayanıklı kayısı çeşitlerinin belirlenmesi' (2023–2027); 'Ulusal Kayısı Genetik Kaynaklarında Bulunan Kayısı Genotiplerinin Soğuğa Toleranslarının Belirlenmesi' (2023–2027, TAGEM). Completed projects: 'Dona Mukavim Geç Çiçek Açan Kayısı Çeşitlerinin Aranması' (1965–1971); 'Bazı Kayısı Çeşitlerinin Soğuklama Gereksinimleri ve Büyüme Dereceleri Saatleri Toplamının Çeşitli Yöntemlerle Belirlenmesi' (2017–2019). Web pages 'Devam Eden Projeler' and 'Sonuçlanan Projeler' (https://arastirma.tarimorman.gov.tr/kayisi/Menu/9/Sonuclanan-Projeler), accessed 9 Oct 2026.",
+      "url": "https://arastirma.tarimorman.gov.tr/kayisi/Menu/8/Devam-Eden-Projeler"
+    }
+  ]
+}

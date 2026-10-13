@@ -1,0 +1,2561 @@
+{
+ "version": "2026-10-09",
+ "gwl": {
+  "source": {
+   "short": "IPCC AR6 WGI SPM Table SPM.1",
+   "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/",
+   "doi": "10.1017/9781009157896.001",
+   "ref": "ipcc2021spm"
+  },
+  "unit": "°C above 1850–1900",
+  "format": "[central, very likely low, very likely high]",
+  "values": {
+   "126": {
+    "2021-2040": [
+     1.5,
+     1.2,
+     1.8
+    ],
+    "2041-2060": [
+     1.7,
+     1.3,
+     2.2
+    ],
+    "2061-2080": null,
+    "2081-2100": [
+     1.8,
+     1.3,
+     2.4
+    ]
+   },
+   "245": {
+    "2021-2040": [
+     1.5,
+     1.2,
+     1.8
+    ],
+    "2041-2060": [
+     2.0,
+     1.6,
+     2.5
+    ],
+    "2061-2080": null,
+    "2081-2100": [
+     2.7,
+     2.1,
+     3.5
+    ]
+   },
+   "585": {
+    "2021-2040": [
+     1.6,
+     1.3,
+     1.9
+    ],
+    "2041-2060": [
+     2.4,
+     1.9,
+     3.0
+    ],
+    "2061-2080": null,
+    "2081-2100": [
+     4.4,
+     3.3,
+     5.7
+    ]
+   }
+  },
+  "note_ref": "lee2021",
+  "note_en": "AR6 does not tabulate 2061–2080. First 20-year windows crossing 2 °C: 2043–2062 (SSP2-4.5), 2032–2051 (SSP5-8.5); 3 °C: 2055–2074 (SSP5-8.5). SSP1-2.6 central estimate stays below 2 °C.",
+  "note_tr": "AR6, 2061–2080 için değer vermez. 2 °C'nin aşıldığı ilk 20 yıllık dönem: 2043–2062 (SSP2-4.5), 2032–2051 (SSP5-8.5); 3 °C: 2055–2074 (SSP5-8.5). SSP1-2.6 merkezi tahmini 2 °C'nin altında kalır."
+ },
+ "yield_per_c": {
+  "source": {
+   "short": "Zhao et al. 2017, PNAS",
+   "doi": "10.1073/pnas.1701762114",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.1701762114",
+   "ref": "zhao2017"
+  },
+  "unit": "% global yield change per +1 °C global mean temperature",
+  "wheat": -6.0,
+  "maize": -7.4,
+  "rice": -3.2,
+  "pm": {
+   "wheat": 2.9,
+   "maize": 4.5,
+   "rice": 3.7
+  },
+  "note_en": "Mean of four independent methods; no CO2 fertilisation, adaptation or genetic gain.",
+  "note_tr": "Dört bağımsız yöntemin ortalaması; CO2 gübrelemesi, uyum ve genetik ilerleme hariç."
+ },
+ "global": [
+  {
+   "claim_en": "CMIP6 projections for Türkiye show summer warming of up to 6.5 °C and drying of up to 40% towards autumn under medium and high emissions.",
+   "claim_tr": "CMIP6 projeksiyonları, orta ve yüksek emisyonda Türkiye'de yazın 6,5 °C'ye varan ısınma ve sonbahara doğru %40'a varan kuraklaşma gösteriyor.",
+   "metric": "temperature",
+   "value_text": "up to +6.5 °C (summer); precipitation up to −40 %",
+   "value_text_tr": "+6,5 °C'ye varan (yaz); yağışta −%40'a varan",
+   "direction": "increase",
+   "region": "Türkiye (national)",
+   "scope": "Ensemble of the best 4 CMIP6 GCMs; SSP2-4.5 and SSP5-8.5; short to long term; upper-bound values",
+   "location": "Abstract",
+   "ref": "bagcaci2021",
+   "model": "agree",
+   "model_note_en": "Our 8-model ensemble, SSP5-8.5 2090s: summer max temp +7.0 °C, annual rain −11% vs 1991–2020",
+   "model_note_tr": "8 modelimiz (SSP5-8.5, 2090'lar): yaz maks. sıcaklık +7,0 °C, yıllık yağış %11 az (1991–2020'ye göre)"
+  },
+  {
+   "claim_en": "Turkish State Meteorological Service projections (RCP4.5/8.5): over 2016–2099 Türkiye's mean temperature is 1–6 °C above 1971–2000, by model and period.",
+   "claim_tr": "Meteoroloji Genel Müdürlüğü projeksiyonları (RCP4.5/8.5): 2016–2099'da Türkiye'nin ortalama sıcaklığı, modele ve döneme göre 1971–2000'in 1–6 °C üzerinde.",
+   "metric": "temperature",
+   "value_text": "+1 to +6 °C",
+   "value_text_tr": "+1 ile +6 °C",
+   "direction": "increase",
+   "region": "Türkiye (national)",
+   "scope": "2016–2099 vs 1971–2000; RCP4.5 and RCP8.5; RegCM4.3.4 at 20 km driven by HadGEM2-ES, MPI-ESM-MR, GFDL-ESM2M (CMIP5)",
+   "location": "Abstract; Section 3 (Results)",
+   "ref": "demircan2017",
+   "model": "agree",
+   "model_note_en": "Our ensemble vs 1970–2000: +2.4 °C (SSP1-2.6) to +6.2 °C (SSP5-8.5) by the 2090s",
+   "model_note_tr": "Modelimiz, 1970–2000'e göre: 2090'larda +2,4 °C (SSP1-2.6) ile +6,2 °C (SSP5-8.5)"
+  },
+  {
+   "claim_en": "IPCC: by 2100 Mediterranean land warms 0.9–5.6 °C depending on emissions, and precipitation will likely fall by 4–22% in most areas.",
+   "claim_tr": "IPCC: 2100'e kadar Akdeniz karaları emisyona bağlı olarak 0,9–5,6 °C ısınıyor; yağış çoğu bölgede büyük olasılıkla %4–22 azalıyor.",
+   "metric": "water",
+   "value_text": "−4 to −22 % precipitation; +0.9 to +5.6 °C land warming",
+   "value_text_tr": "yağışta −%4 ile −%22; karada +0,9 ile +5,6 °C ısınma",
+   "direction": "decrease",
+   "region": "Mediterranean Basin",
+   "scope": "End of 21st century vs last two decades of the 20th century; range across emission scenarios (precipitation: medium confidence)",
+   "location": "CCP4 Executive Summary, p. 2235",
+   "ref": "ali2022",
+   "model": "agree",
+   "model_note_en": "Our Türkiye mean, 2090s vs 1991–2020: +1.6 to +5.5 °C; rain −2% (SSP1-2.6) to −11% (SSP5-8.5)",
+   "model_note_tr": "Türkiye ortalamamız, 2090'lar (1991–2020'ye göre): +1,6 ile +5,5 °C; yağış %2 (SSP1-2.6) ile %11 (SSP5-8.5) az"
+  },
+  {
+   "claim_en": "IPCC: Mediterranean irrigation needs could rise by 25% in the north and double in the south-east, putting arid southern areas at risk of water shortage by 2100.",
+   "claim_tr": "IPCC: Akdeniz'de sulama ihtiyacı kuzeyde %25 artabilir, güneydoğuda iki katına çıkabilir; 2100'e kadar kurak güney bölgelerde su yetersizliği riski doğar.",
+   "metric": "water",
+   "value_text": "+25 % (north); ×2 (south-east)",
+   "value_text_tr": "+%25 (kuzey); ×2 (güneydoğu)",
+   "direction": "increase",
+   "region": "Mediterranean Basin",
+   "scope": "Toward 2100 (based on Fader et al. 2016, LPJmL, horizon 2080–2090)",
+   "location": "CCP4, Section CCP4.3.4 (Water, Agriculture and Food Production), p. 2246",
+   "ref": "ali2022",
+   "model": "agree",
+   "model_note_en": "Our water deficit (ET0 − rain), 2090s: +10% (SSP1-2.6) to +35% (SSP5-8.5) vs 1991–2020",
+   "model_note_tr": "Su açığımız (ET0 − yağış), 2090'lar: %10 (SSP1-2.6) ile %35 (SSP5-8.5) artış (1991–2020'ye göre)"
+  },
+  {
+   "claim_en": "IPCC: in the Mediterranean, river low flows and runoff may fall by 5–70%, and rain-fed crop yields may drop by up to 64% in some locations.",
+   "claim_tr": "IPCC: Akdeniz'de nehirlerin düşük akımları ve yıllık akış %5–70 azalabilir; yağışa dayalı ürün verimi bazı yerlerde %64'e kadar düşebilir.",
+   "metric": "yield",
+   "value_text": "up to −64 % (rain-fed crops, some locations); runoff −5 to −70 %",
+   "value_text_tr": "−%64'e varan (yağışa bağlı ürünler, bazı yerler); akış −%5 ile −%70",
+   "direction": "decrease",
+   "region": "Mediterranean Basin",
+   "scope": "21st-century projections; location-specific maximum (high confidence)",
+   "location": "CCP4 Executive Summary, p. 2235",
+   "ref": "ali2022",
+   "model": "na",
+   "model_note_en": "Not comparable: our model maps climatically suitable land, not yield or river flow",
+   "model_note_tr": "Doğrudan karşılaştırılamaz: modelimiz verimi veya akımı değil, iklimsel uygun alanı haritalar"
+  },
+  {
+   "claim_en": "Even with the adaptation farmers already make, global staple-crop output falls by 5.5×10¹⁴ kcal a year for each 1 °C of warming (4.4% of recommended intake).",
+   "claim_tr": "Çiftçilerin bugünkü uyumu hesaba katılsa bile, her 1 °C ısınma küresel temel ürün üretimini yılda 5,5×10¹⁴ kcal azaltıyor (önerilen tüketimin %4,4'ü).",
+   "metric": "yield",
+   "value_text": "−5.5×10¹⁴ kcal/yr per °C (≈ −4.4 % of recommended consumption per °C)",
+   "value_text_tr": "°C başına −5,5×10¹⁴ kcal/yıl (önerilen tüketimin ≈ −%4,4'ü)",
+   "direction": "decrease",
+   "region": "Global (12,658 regions)",
+   "scope": "Per 1 °C GMST rise; empirical estimate for 6 staple crops (2/3 of crop calories), including producer adaptation",
+   "location": "Abstract",
+   "ref": "hultgren2025",
+   "model": "na",
+   "model_note_en": "Not comparable: our model has no CO2, price or farmer-adaptation response",
+   "model_note_tr": "Doğrudan karşılaştırılamaz: modelimizde CO2, fiyat ve çiftçi uyumu etkisi yok"
+  }
+ ],
+ "crops": {
+  "wheat": [
+   {
+    "claim_en": "Across Türkiye's 820 districts, a 1.5 °C temperature rise is linked to a 9% fall in wheat yield, affecting nearly 1 million hectares.",
+    "claim_tr": "Türkiye'nin 820 ilçesinde 1,5 °C'lik sıcaklık artışı buğday veriminde %9 düşüşle ilişkili; etkilenen alan yaklaşık 1 milyon hektar.",
+    "metric": "yield",
+    "value_text": "−9 % at +1.5 °C",
+    "value_text_tr": "+1,5 °C'de −%9",
+    "direction": "decrease",
+    "region": "Türkiye (national, 820 districts)",
+    "scope": "+1.5 °C temperature rise; district-level panel (fixed-effect) model over ~25 years of observed yields",
+    "location": "Abstract",
+    "ref": "demirdogen2024",
+    "model": "na",
+    "model_note_en": "Our model maps land, not yield: wheat land +1%, very suitable land −15% by the 2090s (SSP5-8.5)",
+    "model_note_tr": "Modelimiz verimi değil alanı gösterir: SSP5-8.5 2090'larda buğday alanı +%1, çok uygun alan −%15"
+   },
+   {
+    "claim_en": "IPCC: at 2 °C of global warming and above, rain-fed wheat yields in most Mediterranean locations could fall by 2–59%, depending on farming practices.",
+    "claim_tr": "IPCC: 2 °C ve üzeri küresel ısınmada Akdeniz'in çoğu yerinde yağışa dayalı buğday verimi, tarım uygulamalarına bağlı olarak %2–59 düşebilir.",
+    "metric": "yield",
+    "value_text": "−2 to −59 %",
+    "value_text_tr": "−%2 ile −%59 arası",
+    "direction": "decrease",
+    "region": "Mediterranean Basin",
+    "scope": "≥2 °C global warming level; range depends on agricultural practices",
+    "location": "CCP4, Table CCP4.1 (Cereals and rice), p. 2246",
+    "ref": "ali2022",
+    "model": "na",
+    "model_note_en": "Our model at ~2 °C (SSP2-4.5, 2050s): rain-fed wheat land +3%, very suitable land −6%",
+    "model_note_tr": "Modelimizde ~2 °C'de (SSP2-4.5, 2050'ler): kuru tarım buğday alanı %3 artıyor, çok uygun alan %6 azalıyor"
+   },
+   {
+    "claim_en": "In SE Türkiye (Islahiye, Nurdağı), the CERES-Wheat model projects wheat yield losses of 13–16.8% by mid- and late century as temperatures rise.",
+    "claim_tr": "Güneydoğu Türkiye'de (İslahiye, Nurdağı) CERES-Wheat modeli, sıcaklık artışıyla yüzyıl ortası ve sonunda buğday veriminde %13–16,8 kayıp öngörüyor.",
+    "metric": "yield",
+    "value_text": "−13.0 to −16.8 %",
+    "value_text_tr": "−%13,0 ile −%16,8 arası",
+    "direction": "decrease",
+    "region": "Southeastern Türkiye (Gaziantep: Islahiye, Nurdağı)",
+    "scope": "Mid-century 2036–2065 and late century 2066–2095, RCP4.5 and RCP8.5 (abstract reports pooled figures per site); CERES-Wheat",
+    "location": "Abstract",
+    "ref": "vanli2019",
+    "model": "na",
+    "model_note_en": "Our model: wheat losses come mainly from drought; net land +4% (SSP2-4.5), +1% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimizde ana kayıp nedeni kuraklık; 2090'larda net buğday alanı %4 (SSP2-4.5), %1 (SSP5-8.5) artıyor"
+   }
+  ],
+  "barley": [
+   {
+    "claim_en": "Across nine Mediterranean sites, barley yield falls 9% on average by mid-century (RCP4.5), and 27% under the driest projections.",
+    "claim_tr": "Akdeniz'deki dokuz noktada arpa verimi yüzyıl ortasında (RCP4.5) ortalama %9, en kurak projeksiyonlarda %27 düşüyor.",
+    "metric": "yield",
+    "value_text": "−9 % overall (−27 % Dry, +4 % Mid, +8 % Wet)",
+    "value_text_tr": "genelde −%9 (kurak −%27, orta +%4, nemli +%8)",
+    "direction": "decrease",
+    "region": "Mediterranean basin (9 locations)",
+    "scope": "RCP4.5, mid-century, 40 GCMs (growing-season warming 0.9–2.16 °C); DSSAT simulations",
+    "location": "Abstract",
+    "ref": "cammarano2019",
+    "model": "na",
+    "model_note_en": "Our model (SSP2-4.5, 2050s): barley land +0.4%; very suitable land −1.3%",
+    "model_note_tr": "Modelimiz (SSP2-4.5, 2050'ler): arpa alanı %0,4 artıyor; çok uygun alan %1,3 azalıyor"
+   },
+   {
+    "claim_en": "CMIP6 runs show spring barley yields down by up to 31% in Europe's Mediterranean south by the 2080s under high emissions, before CO2 fertilisation.",
+    "claim_tr": "CMIP6 simülasyonlarında yüksek emisyonda, CO2 gübrelemesi hariç, Avrupa'nın Akdeniz güneyinde yazlık arpa verimi 2080'lerde %31'e kadar düşüyor.",
+    "metric": "yield",
+    "value_text": "up to −31 %",
+    "value_text_tr": "−%31'e varan",
+    "direction": "decrease",
+    "region": "Europe – Mediterranean south zone",
+    "scope": "CMIP6, 6 GCMs, SSP5-8.5 (high emission), 2080s; losses largely offset in the model when CO2 fertilisation (868 ppm) is included",
+    "location": "Abstract",
+    "ref": "koster2026",
+    "model": "na",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): barley land −2.5%; very suitable land −8%",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): arpa alanı %2,5, çok uygun alan %8 azalıyor"
+   },
+   {
+    "claim_en": "Concurrent drought and heat extremes could cut average barley yields worldwide by 3–17%, depending on their severity.",
+    "claim_tr": "Eş zamanlı kuraklık ve sıcak hava aşırılıkları, şiddetine bağlı olarak dünya genelinde ortalama arpa verimini %3–17 düşürebilir.",
+    "metric": "yield",
+    "value_text": "−3 to −17 %",
+    "value_text_tr": "−%3 ile −%17 arası",
+    "direction": "decrease",
+    "region": "Global",
+    "scope": "Future concurrent drought + heat extremes across a range of climate scenarios (5 Earth System Models); DSSAT + GTAP",
+    "location": "Abstract",
+    "ref": "xie2018",
+    "model": "na",
+    "model_note_en": "Our model uses period-average climate, so single extreme years are not simulated",
+    "model_note_tr": "Modelimiz dönem ortalaması iklimi kullanır; tekil aşırı yıllar simüle edilmez"
+   }
+  ],
+  "maize": [
+   {
+    "claim_en": "With CMIP6 climate and newer crop models, mean end-of-century global maize yield falls 24% under SSP5-8.5 and 6% under SSP1-2.6.",
+    "claim_tr": "CMIP6 iklimi ve yeni nesil ürün modelleriyle yüzyıl sonunda küresel ortalama mısır verimi SSP5-8.5'te %24, SSP1-2.6'da %6 düşüyor.",
+    "metric": "yield",
+    "value_text": "−24 % (SSP5-8.5); −6 % (SSP1-2.6)",
+    "value_text_tr": "−%24 (SSP5-8.5); −%6 (SSP1-2.6)",
+    "direction": "decrease",
+    "region": "Global",
+    "scope": "End of century; GGCMI phase 3 crop-model ensemble driven by CMIP6 GCMs (CO2 effects included); the earlier CMIP5 ensemble gave +1 % / +5 %",
+    "location": "Abstract",
+    "ref": "jagermeyr2021",
+    "model": "na",
+    "model_note_en": "Our model (irrigated maize in Türkiye): land +16% (SSP1-2.6) to +30% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz (Türkiye'de sulu mısır): 2090'larda alan %16 (SSP1-2.6) ile %30 (SSP5-8.5) artıyor"
+   },
+   {
+    "claim_en": "Of wheat, rice, maize and soybean, maize loses most: global yield falls 7.4% (±4.5) for each +1 °C, without CO2 fertilisation or adaptation.",
+    "claim_tr": "Buğday, çeltik, mısır ve soya arasında en çok mısır kaybediyor: CO2 gübrelemesi ve uyum olmadan her +1 °C'de küresel verim %7,4 (±4,5) düşüyor.",
+    "metric": "yield",
+    "value_text": "−7.4 % per °C (±4.5)",
+    "value_text_tr": "°C başına −%7,4 (±4,5)",
+    "direction": "decrease",
+    "region": "Global",
+    "scope": "Per 1 °C global mean temperature increase; multi-method mean ±2 SE; no CO2 fertilisation, adaptation or genetic gain",
+    "location": "Abstract; Results (Fig. 2A)",
+    "ref": "zhao2017",
+    "model": "na",
+    "model_note_en": "Our model maps suitable land, not yield; irrigated maize land grows with warming in Türkiye",
+    "model_note_tr": "Modelimiz verimi değil uygun alanı haritalar; Türkiye'de sulu mısır alanı ısınmayla genişliyor"
+   },
+   {
+    "claim_en": "In US county data, maize yields rise with temperature up to 29 °C; above that threshold, heat is very harmful to yields.",
+    "claim_tr": "ABD ilçe verilerinde mısır verimi 29 °C'ye kadar sıcaklıkla artıyor; bu eşiğin üzerindeki sıcaklıklar verime çok zarar veriyor.",
+    "metric": "temperature",
+    "value_text": "optimum threshold 29 °C",
+    "value_text_tr": "optimum eşik 29 °C",
+    "direction": "threshold",
+    "region": "USA (county-level yields)",
+    "scope": "Observed temperature–yield response (daily temperature distribution over growing season); pre-2015 reference study",
+    "location": "Abstract",
+    "ref": "schlenker2009",
+    "model": "na",
+    "model_note_en": "Our model: optimum 18–33 °C (growing-season mean); daily heat above 29 °C is not modelled separately",
+    "model_note_tr": "Modelimiz: optimum 18–33 °C (yetişme dönemi ortalaması); 29 °C üstü günlük sıcaklık ayrıca modellenmiyor"
+   }
+  ],
+  "rice": [
+   {
+    "claim_en": "In Tarsus (Mersin), late-century irrigated rice yields rise by up to 10%, while rain-fed rice falls 15–25% from heat and a shorter growing season.",
+    "claim_tr": "Tarsus'ta (Mersin) yüzyıl sonunda sulu çeltik verimi %10'a kadar artarken, yağışa dayalı çeltik sıcak ve kısalan gelişme süresi nedeniyle %15–25 düşüyor.",
+    "metric": "yield",
+    "value_text": "irrigated up to +10 %; rainfed −15 to −25 %",
+    "value_text_tr": "sulu: +%10'a varan; yağışa bağlı: −%15 ile −%25",
+    "direction": "mixed",
+    "region": "Mediterranean Türkiye (Tarsus, Mersin)",
+    "scope": "Late-future 2071–2098; RCP4.5 and RCP8.5; 3 GCMs (HadGEM2-ES, MPI-ESM-MR, GFDL-ESM2M); DSSAT-CERES-Rice",
+    "location": "Abstract (scenario details in Methods)",
+    "ref": "baydar2026",
+    "model": "na",
+    "model_note_en": "Our model (irrigated rice): land +30% (SSP2-4.5) and +39% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz (sulu çeltik): 2090'larda alan %30 (SSP2-4.5) ve %39 (SSP5-8.5) artıyor"
+   },
+   {
+    "claim_en": "Each +1 °C of global mean temperature cuts global rice yield by 3.2% (±3.7) on average, a smaller loss than for maize or wheat.",
+    "claim_tr": "Küresel ortalama sıcaklıktaki her +1 °C artış, küresel çeltik verimini ortalama %3,2 (±3,7) düşürüyor; bu kayıp mısır ve buğdaydan az.",
+    "metric": "yield",
+    "value_text": "−3.2 % per °C (±3.7)",
+    "value_text_tr": "°C başına −%3,2 (±3,7)",
+    "direction": "decrease",
+    "region": "Global",
+    "scope": "Per 1 °C global mean temperature increase; multi-method ensemble mean; no CO2 fertilisation, adaptation or genetic gain",
+    "location": "Abstract; Results (Fig. 2A)",
+    "ref": "zhao2017",
+    "model": "na",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): 6.8 Mha lost to heat, 13.0 Mha gained; net +39%",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): sıcak nedeniyle 6,8 milyon ha kayıp, 13,0 milyon ha kazanç; net %39 artış"
+   },
+   {
+    "claim_en": "In irrigated dry-season trials at IRRI (Philippines), rice yield fell 10% for each +1 °C rise in growing-season minimum (night) temperature.",
+    "claim_tr": "IRRI'deki (Filipinler) sulu kurak mevsim denemelerinde, yetişme dönemi minimum (gece) sıcaklığındaki her +1 °C artış çeltik verimini %10 düşürdü.",
+    "metric": "yield",
+    "value_text": "−10 % per +1 °C minimum temperature",
+    "value_text_tr": "en düşük sıcaklıkta +1 °C başına −%10",
+    "direction": "decrease",
+    "region": "Philippines (IRRI farm, irrigated field trials)",
+    "scope": "Observed 1992–2003 dry season; growing-season minimum temperature; pre-2015 reference study",
+    "location": "Abstract",
+    "ref": "peng2004",
+    "model": "na",
+    "model_note_en": "Our model uses mean temperature (optimum 20–30 °C); night heat is not modelled separately",
+    "model_note_tr": "Modelimiz ortalama sıcaklığı kullanır (optimum 20–30 °C); gece sıcaklığı ayrıca modellenmiyor"
+   }
+  ],
+  "chickpea": [
+   {
+    "claim_en": "In field trials of 167 chickpea genotypes, temperatures of 35 °C or more during the reproductive phase caused yield losses of up to 39%.",
+    "claim_tr": "167 nohut genotipiyle yapılan tarla denemelerinde, üreme döneminde 35 °C ve üzeri sıcaklıklar %39'a varan verim kaybına yol açtı.",
+    "metric": "temperature",
+    "value_text": "≥35 °C → up to −39 % yield",
+    "value_text_tr": "≥35 °C → verimde −%39'a varan",
+    "direction": "threshold",
+    "region": "India (ICRISAT, Patancheru)",
+    "scope": "Late-sown (heat-stressed) vs optimal sowing; 2009–2011 field seasons; 167 genotypes",
+    "location": "Abstract",
+    "ref": "devasirvatham2015",
+    "model": "na",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): 5.3 Mha lost mainly to heat, 3.4 Mha gained; net −4.3%",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): çoğu sıcaktan 5,3 milyon ha kayıp, 3,4 milyon ha kazanç; net %4,3 azalış"
+   },
+   {
+    "claim_en": "Chickpea yield fell 10, 23, 64 and 78% as reproductive-stage day/night temperatures rose to 26/16, 30/18, 34/20 and 38/28 °C.",
+    "claim_tr": "Üreme dönemindeki gündüz/gece sıcaklıkları 26/16, 30/18, 34/20 ve 38/28 °C'ye çıktıkça nohut verimi sırasıyla %10, %23, %64 ve %78 düştü.",
+    "metric": "temperature",
+    "value_text": "−10 / −23 / −64 / −78 % at 26/16, 30/18, 34/20, 38/28 °C",
+    "value_text_tr": "26/16, 30/18, 34/20, 38/28 °C'de −%10 / −%23 / −%64 / −%78",
+    "direction": "threshold",
+    "region": "Global (review)",
+    "scope": "Reproductive-stage day/night temperature treatments (experimental studies reviewed)",
+    "location": "Section 'Seed Filling and Yield' (review summarising an earlier chickpea experiment)",
+    "ref": "sita2017a",
+    "model": "na",
+    "model_note_en": "Our model: optimum up to 29 °C, unsuitable above 35 °C (growing-season mean)",
+    "model_note_tr": "Modelimiz: optimum 29 °C'ye kadar, 35 °C üzerinde uygun değil (yetişme dönemi ortalaması)"
+   },
+   {
+    "claim_en": "In Syria and Lebanon, winter-sown chickpea out-yielded traditional spring sowing by 70% (692 kg/ha) over 10 years, escaping terminal heat and drought.",
+    "claim_tr": "Suriye ve Lübnan'da 10 yıllık ortalamada kışlık ekilen nohut, yazlık ekimden %70 (692 kg/ha) fazla verim verdi; sezon sonu sıcak ve kuraklıktan kaçtı.",
+    "metric": "yield",
+    "value_text": "+70 % (+692 kg/ha) winter vs spring sowing",
+    "value_text_tr": "kışlık ekim yazlığa göre +%70 (+692 kg/ha)",
+    "direction": "increase",
+    "region": "Syria and Lebanon – Eastern Mediterranean",
+    "scope": "Adaptation: winter vs spring sowing, 1983–1993, three ICARDA sites (pre-2015 classic)",
+    "location": "Abstract",
+    "ref": "singh1997",
+    "model": "na",
+    "model_note_en": "Adaptation evidence: sowing date is a farm choice our suitability map does not test",
+    "model_note_tr": "Uyum kanıtı: ekim zamanı, uygunluk haritamızın test etmediği bir çiftçi tercihidir"
+   }
+  ],
+  "lentil": [
+   {
+    "claim_en": "In Moroccan field trials of 36 lentil genotypes, combined heat and drought cut seed yield by up to 40% and lowered protein, iron and zinc.",
+    "claim_tr": "Fas'ta 36 mercimek genotipiyle yapılan tarla denemelerinde sıcak ve kuraklık birlikte tane verimini %40'a kadar düşürdü; protein, demir ve çinko azaldı.",
+    "metric": "yield",
+    "value_text": "up to −40 % seed yield",
+    "value_text_tr": "tane veriminde −%40'a varan",
+    "direction": "decrease",
+    "region": "Morocco – Mediterranean North Africa",
+    "scope": "Field trials at two Moroccan locations under normal, heat and combined heat + drought stress; 36 genotypes",
+    "location": "Abstract",
+    "ref": "choukri2025",
+    "model": "na",
+    "model_note_en": "Our model: red lentil land +21% by the 2090s (SSP5-8.5) as its altitude limit rises; losses mainly drought",
+    "model_note_tr": "Modelimiz: rakım sınırı yükselince kırmızı mercimek alanı 2090'larda %21 artıyor (SSP5-8.5); kayıp kuraklıktan"
+   },
+   {
+    "claim_en": "Day/night temperatures above 35/25 °C were highly detrimental to lentil growth and yield; heat-sensitive lines failed even at 38/28 °C.",
+    "claim_tr": "35/25 °C'nin (gündüz/gece) üzerindeki sıcaklıklar mercimeğin gelişmesine ve verimine çok zarar verdi; sıcağa hassas hatlar 38/28 °C'de bile başarısız oldu.",
+    "metric": "temperature",
+    "value_text": ">35/25 °C day/night detrimental",
+    "value_text_tr": ">35/25 °C gündüz/gece zararlı",
+    "direction": "threshold",
+    "region": "India (field and controlled-environment screening)",
+    "scope": "Late-sown field screen (>32/20 °C at reproductive stage) plus controlled-environment temperature series; 38 core accessions",
+    "location": "Abstract",
+    "ref": "sita2017b",
+    "model": "na",
+    "model_note_en": "Our model: optimum 10–25 °C, unsuitable above 32 °C (growing-season mean)",
+    "model_note_tr": "Modelimiz: optimum 10–25 °C, 32 °C üzerinde uygun değil (yetişme dönemi ortalaması)"
+   }
+  ],
+  "potato": [
+   {
+    "claim_en": "Modelling for Türkiye: warming at unchanged planting dates cuts potential potato yield from 94 to 83 t/ha (about −12%); CO2 near 550 ppm could add ~25%.",
+    "claim_tr": "Türkiye modellemesi: ekim tarihi değişmezse ısınma potansiyel patates verimini 94'ten 83 t/ha'ya (~%12) düşürüyor; ~550 ppm CO2 verimi ~%25 artırabilir.",
+    "metric": "yield",
+    "value_text": "94 → 83 t/ha (≈ −12 %); +25 % with CO2 ≈550 ppm",
+    "value_text_tr": "94 → 83 t/ha (≈ −%12); CO2 ≈550 ppm ile +%25",
+    "direction": "mixed",
+    "region": "Türkiye (highland and coastal potato areas)",
+    "scope": "Warmer climate scenario with unchanged radiation and planting dates; LINTUL crop model; NASA and Turkish national weather data",
+    "location": "Abstract",
+    "ref": "yagiz2020",
+    "model": "na",
+    "model_note_en": "Our model (no CO2 effect): potato land −21% (SSP2-4.5) and −67% (SSP5-8.5) by the 2090s, mainly heat",
+    "model_note_tr": "Modelimiz (CO2 etkisi yok): 2090'larda patates alanı %21 (SSP2-4.5), %67 (SSP5-8.5) azalıyor; neden sıcak"
+   },
+   {
+    "claim_en": "SUBSTOR-Potato projects small global tuber yield losses by 2055 (−2 to −6%) but larger declines by 2085 (−2 to −26%), depending on the RCP.",
+    "claim_tr": "SUBSTOR-Potato modeli küresel yumru veriminde 2055'e kadar küçük (%2–6), 2085'e kadar daha büyük (%2–26) kayıplar öngörüyor; büyüklük RCP'ye bağlı.",
+    "metric": "yield",
+    "value_text": "−2 to −6 % (2055); −2 to −26 % (2085)",
+    "value_text_tr": "−%2 ile −%6 (2055); −%2 ile −%26 (2085)",
+    "direction": "decrease",
+    "region": "Global",
+    "scope": "Current potato cropping systems; RCP scenarios; 2055 and 2085 vs baseline; SUBSTOR-Potato",
+    "location": "Abstract",
+    "ref": "raymundo2018",
+    "model": "na",
+    "model_note_en": "Our model (2070s): potato land −1.5% (SSP1-2.6) to −52% (SSP5-8.5)",
+    "model_note_tr": "Modelimiz (2070'ler): patates alanı %1,5 (SSP1-2.6) ile %52 (SSP5-8.5) azalıyor"
+   },
+   {
+    "claim_en": "Potato tubers grow best at 15–20 °C (foliage at 20–25 °C); temperatures above 25 °C delay tuberization.",
+    "claim_tr": "Patates yumruları en iyi 15–20 °C'de (yapraklar 20–25 °C'de) gelişir; 25 °C'nin üzerindeki sıcaklıklar yumru oluşumunu geciktirir.",
+    "metric": "temperature",
+    "value_text": "tuber optimum 15–20 °C; >25 °C delays tuberization",
+    "value_text_tr": "yumru için optimum 15–20 °C; >25 °C yumru oluşumunu geciktirir",
+    "direction": "threshold",
+    "region": "Global (review)",
+    "scope": "Physiological temperature optimum and threshold (review)",
+    "location": "Section 'High Temperature'",
+    "ref": "dahal2019",
+    "model": "agree",
+    "model_note_en": "Our model uses the same range: optimum 15–25 °C, declining above 25 °C",
+    "model_note_tr": "Modelimiz aynı aralığı kullanır: optimum 15–25 °C, 25 °C üzerinde uygunluk düşer"
+   }
+  ],
+  "tomato": [
+   {
+    "claim_en": "Regional climate projections with DSSAT for Türkiye's Mediterranean region show tomato yield falling about 16–17% while rainfall drops 21–25%.",
+    "claim_tr": "Türkiye'nin Akdeniz Bölgesi için bölgesel iklim projeksiyonları ve DSSAT, yağış %21–25 azalırken domates veriminin yaklaşık %16–17 düştüğünü gösteriyor.",
+    "metric": "yield",
+    "value_text": "−16 to −17 % yield",
+    "value_text_tr": "verimde −%16 ile −%17",
+    "direction": "decrease",
+    "region": "Türkiye – Mediterranean Region (Seyhan Basin climate data)",
+    "scope": "RegCM3 (Seyhan Basin), reference 1961–1990 vs future 2001–2099 via pseudo-warming; DSSAT CROPGRO calibrated on 2014–2015 field trials",
+    "location": "Abstract",
+    "ref": "baydar2025",
+    "model": "na",
+    "model_note_en": "Our model (irrigated, open field): tomato land −1% (SSP1-2.6) to −14% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz (sulu, açık alan): 2090'larda domates alanı %1 (SSP1-2.6) ile %14 (SSP5-8.5) azalıyor"
+   },
+   {
+    "claim_en": "Crop models project processing-tomato output in the USA, Italy and China (65% of world supply) to fall 6% by 2050 vs 1980–2009.",
+    "claim_tr": "Ürün modelleri, dünya üretiminin %65'ini sağlayan ABD, İtalya ve Çin'de sanayi domatesi üretiminin 2050'ye kadar 1980–2009'a göre %6 düşeceğini öngörüyor.",
+    "metric": "yield",
+    "value_text": "−6 % production by 2050",
+    "value_text_tr": "2050'ye kadar üretimde −%6",
+    "direction": "decrease",
+    "region": "USA (California), Italy, China",
+    "scope": "2050 vs 1980–2009; ensemble of projected climate scenarios; process-based tomato models",
+    "location": "Abstract",
+    "ref": "cammarano2022",
+    "model": "na",
+    "model_note_en": "Our model (2050s): tomato land about −1%; larger losses appear only late-century under SSP5-8.5",
+    "model_note_tr": "Modelimiz (2050'ler): domates alanı yaklaşık %1 azalıyor; büyük kayıp yalnızca yüzyıl sonunda SSP5-8.5'te"
+   },
+   {
+    "claim_en": "Night temperatures above 21 °C are a key heat threshold for tomato: cultivars that still set viable fruit there are classed as heat-tolerant.",
+    "claim_tr": "21 °C'nin üzerindeki gece sıcaklıkları domates için kritik bir eşik: bu koşulda hâlâ sağlıklı meyve bağlayan çeşitler sıcağa dayanıklı sayılır.",
+    "metric": "temperature",
+    "value_text": "night >21 °C",
+    "value_text_tr": "gece >21 °C",
+    "direction": "threshold",
+    "region": "Global (review)",
+    "scope": "Heat-tolerance criterion for fruit set (review)",
+    "location": "Abstract",
+    "ref": "alsamir2021",
+    "model": "na",
+    "model_note_en": "Our model: optimum 20–27 °C (season mean); night temperature is not modelled separately",
+    "model_note_tr": "Modelimiz: optimum 20–27 °C (sezon ortalaması); gece sıcaklığı ayrıca modellenmiyor"
+   }
+  ],
+  "cotton": [
+   {
+    "claim_en": "In Çukurova (Adana), cotton uses about 810 mm of water against about 149 mm of effective rain; without irrigation a 51% yield loss is simulated.",
+    "claim_tr": "Çukurova'da (Adana) pamuk yaklaşık 810 mm su tüketirken etkili yağış yaklaşık 149 mm; sulama yapılmazsa %51 verim kaybı simüle ediliyor.",
+    "metric": "water",
+    "value_text": "ETc 809.5 mm vs 149.4 mm effective rain; −51 % yield without irrigation",
+    "value_text_tr": "ETc 809,5 mm, etkili yağış 149,4 mm; sulamasız verimde −%51",
+    "direction": "decrease",
+    "region": "Türkiye – Çukurova (Adana)",
+    "scope": "1990–2020 observed climate (Adana station), CROPWAT 8.0; rainfed vs irrigated",
+    "location": "Abstract",
+    "ref": "umar2025",
+    "model": "na",
+    "model_note_en": "Matches our setup: cotton is mapped as irrigated, so rainfall does not limit it",
+    "model_note_tr": "Kurgumuzla uyumlu: pamuk sulu olarak haritalanır, bu yüzden yağış sınırlayıcı değil"
+   },
+   {
+    "claim_en": "At Greek cotton sites under A1B (+1.8 °C by 2050, +4 °C by 2100), AquaCrop shows a tendency toward higher yields by the end of the century.",
+    "claim_tr": "Yunanistan'daki pamuk alanlarında A1B senaryosunda (2050'ye +1,8 °C, 2100'e +4 °C) AquaCrop, yüzyıl sonuna doğru verimde artış eğilimi gösteriyor.",
+    "metric": "yield",
+    "value_text": "+1.8 °C (2050), +4 °C (2100); yields tend to rise",
+    "value_text_tr": "+1,8 °C (2050), +4 °C (2100); verim artma eğiliminde",
+    "direction": "increase",
+    "region": "Greece (7 cotton sites)",
+    "scope": "SRES A1B, 8 regional climate models; 2021–2050 and 2071–2100 vs 1961–1990; rainfall −11 % / −24 %; AquaCrop",
+    "location": "Abstract",
+    "ref": "voloudakis2015",
+    "model": "na",
+    "model_note_en": "Same direction: our cotton land +53% (SSP1-2.6) to +235% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Aynı yönde: pamuk alanımız 2090'larda %53 (SSP1-2.6) ile %235 (SSP5-8.5) artıyor"
+   },
+   {
+    "claim_en": "Global cotton under RCP8.5: with CO2 effects, output rises over 50% by 2099; from climate change alone it shrinks by up to one-third (43 Mt).",
+    "claim_tr": "RCP8.5'te küresel pamuk: CO2 etkisiyle üretim 2099'a kadar %50'den fazla artıyor; yalnızca iklim değişikliğiyle üçte bire varan oranda (43 Mt) azalıyor.",
+    "metric": "yield",
+    "value_text": ">+50 % with CO2; up to −1/3 (−43 Mt) climate-only",
+    "value_text_tr": "CO2 ile >+%50; yalnız iklim etkisiyle üçte bire varan kayıp (−43 Mt)",
+    "direction": "mixed",
+    "region": "Global",
+    "scope": "ISIMIP protocol, 5 GCMs × 4 RCPs, 2011–2099, current cropland (LPJmL)",
+    "location": "Abstract",
+    "ref": "jans2021",
+    "model": "na",
+    "model_note_en": "Our model is climate-only (no CO2 effect), yet Türkiye's cotton land still expands",
+    "model_note_tr": "Modelimiz yalnızca iklimi içerir (CO2 etkisi yok); yine de Türkiye'de pamuk alanı genişliyor"
+   }
+  ],
+  "sunflower": [
+   {
+    "claim_en": "In Thrace (CORDEX, RCP4.5/8.5), mean temperature rises 1.7–3.3 °C and season rainfall falls 10–33% by 2099; sunflower yields tend to decline at all sites.",
+    "claim_tr": "Trakya'da (CORDEX, RCP4.5/8.5) 2099'a kadar ortalama sıcaklık 1,7–3,3 °C artıyor, sezon yağışı %10–33 azalıyor; ayçiçeği verimi tüm noktalarda düşme eğiliminde.",
+    "metric": "yield",
+    "value_text": "+1.7–3.3 °C; −10 to −33 % season rain → yield declines",
+    "value_text_tr": "+1,7–3,3 °C; sezon yağışı −%10 ile −%33 → verim düşüyor",
+    "direction": "decrease",
+    "region": "Türkiye – Thrace (NW Türkiye)",
+    "scope": "CORDEX, 3 models × RCP4.5/8.5; periods 2020–2040, 2041–2070, 2071–2099; DSSAT",
+    "location": "Abstract",
+    "ref": "yesilkoy2021",
+    "model": "na",
+    "model_note_en": "Our model (rain-fed): sunflower land −8.5% by the 2090s (SSP5-8.5), losses mainly to drought",
+    "model_note_tr": "Modelimiz (kuru tarım): 2090'larda ayçiçeği alanı %8,5 azalıyor (SSP5-8.5); kayıplar esas olarak kuraklıktan"
+   },
+   {
+    "claim_en": "In Konya, CROPGRO-Sunflower projects rain-fed yields falling 2.9–39.6% but irrigated yields rising 7.4–38.5% under RCP4.5/8.5.",
+    "claim_tr": "Konya'da CROPGRO-Sunflower, RCP4.5/8.5 altında kuru tarım veriminin %2,9–39,6 düşeceğini, sulu verimin ise %7,4–38,5 artacağını öngörüyor.",
+    "metric": "yield",
+    "value_text": "rainfed −2.9 to −39.6 %; irrigated +7.4 to +38.5 %",
+    "value_text_tr": "kuru tarım −%2,9 ile −%39,6; sulu +%7,4 ile +%38,5",
+    "direction": "mixed",
+    "region": "Türkiye – Konya (Central Anatolia)",
+    "scope": "3 GCMs (HadGEM2-ES, MPI-ESM-MR, GFDL-ESM2M) × RCP4.5/8.5; DSSAT CROPGRO-Sunflower; rainfed vs irrigated",
+    "location": "Abstract",
+    "ref": "gurkan2020",
+    "model": "na",
+    "model_note_en": "Our model treats sunflower as rain-fed: land +2% to −8.5% by the 2090s across scenarios",
+    "model_note_tr": "Modelimizde ayçiçeği kuru tarımdır: 2090'larda alan senaryoya göre %2 artış ile %8,5 azalış arasında"
+   },
+   {
+    "claim_en": "Konya, 2022–2098 (AquaCrop): rain-fed sunflower yield −21 to −44% (RCP4.5) and −18 to −50% (RCP8.5); irrigated yield +10 to +33%.",
+    "claim_tr": "Konya, 2022–2098 (AquaCrop): kuru tarım ayçiçeği verimi %21–44 (RCP4.5) ve %18–50 (RCP8.5) düşüyor; sulu verim %10–33 artıyor.",
+    "metric": "yield",
+    "value_text": "rainfed −21 to −44 % (RCP4.5), −18 to −50 % (RCP8.5); irrigated +10 to +33 %",
+    "value_text_tr": "kuru tarım −%21 ile −%44 (RCP4.5), −%18 ile −%50 (RCP8.5); sulu +%10 ile +%33",
+    "direction": "mixed",
+    "region": "Türkiye – Konya (Central Anatolia)",
+    "scope": "2022–2098 vs reference 1971–2000; 3 GCMs × RCP4.5/8.5; AquaCrop",
+    "location": "Abstract",
+    "ref": "gurkan2023",
+    "model": "na",
+    "model_note_en": "Irrigation flips the sign here; our rain-fed map: land +0.8% (SSP2-4.5), −8.5% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Sulama sonucu tersine çeviriyor; kuru tarım alanımız 2090'larda: %0,8 artış (SSP2-4.5), %8,5 azalış (SSP5-8.5)"
+   }
+  ],
+  "sugarbeet": [
+   {
+    "claim_en": "In Konya, under +2 °C and +200 ppm CO2, optimum sugar beet sowing moves 13 days earlier and harvest 8 days later; irrigation need is 619–689 mm.",
+    "claim_tr": "Konya'da +2 °C ve +200 ppm CO2 koşulunda şeker pancarında en uygun ekim 13 gün öne, hasat 8 gün sonraya kayıyor; sulama ihtiyacı 619–689 mm.",
+    "metric": "phenology",
+    "value_text": "sowing −13 days, harvest +8 days; irrigation 618.8–688.5 mm",
+    "value_text_tr": "ekim 13 gün öne, hasat 8 gün sonraya; sulama 618,8–688,5 mm",
+    "direction": "shift",
+    "region": "Türkiye – Konya (Central Anatolia)",
+    "scope": "Scenarios: +2 °C, +200 ppm CO2 and re-optimised sowing/harvest dates (LINTUL-MULTICROP), irrigated",
+    "location": "Abstract",
+    "ref": "yetik2023",
+    "model": "na",
+    "model_note_en": "Our Konya sugar beet irrigation need: 721 mm today, 781 mm by the 2050s (SSP2-4.5)",
+    "model_note_tr": "Konya'da şeker pancarı sulama ihtiyacımız: bugün 721 mm, 2050'lerde 781 mm (SSP2-4.5)"
+   },
+   {
+    "claim_en": "In Castilla y León (Spain, RCP4.5), at current irrigation, warming cuts sugar beet yield by 9% in 2050 and 2070; adaptation could raise yields up to 17%.",
+    "claim_tr": "İspanya'nın Castilla y León bölgesinde (RCP4.5) mevcut sulamada ısınma şeker pancarı verimini 2050 ve 2070'te %9 düşürüyor; uyumla verim %17'ye kadar artabilir.",
+    "metric": "yield",
+    "value_text": "−9 % yield",
+    "value_text_tr": "verimde −%9",
+    "direction": "decrease",
+    "region": "Spain – Castilla y León",
+    "scope": "RCP4.5, 2050 and 2070, current irrigation levels (AquaCrop)",
+    "location": "Abstract",
+    "ref": "sanchezsastre2020",
+    "model": "na",
+    "model_note_en": "Our model (SSP2-4.5): Türkiye sugar beet land +2.5% by the 2050s and +3.9% by the 2070s",
+    "model_note_tr": "Modelimiz (SSP2-4.5): Türkiye'de şeker pancarı alanı 2050'lerde %2,5, 2070'lerde %3,9 artıyor"
+   }
+  ],
+  "tea": [
+   {
+    "claim_en": "A niche model of tea in Türkiye (541 sites) projects shrinking suitable habitat, with 'excellent' habitat disappearing by 2081–2100 under SSP5-8.5.",
+    "claim_tr": "Türkiye'de çay için niş modeli (541 nokta) uygun habitatın daralacağını, SSP5-8.5'te 2081–2100'de 'mükemmel' habitatın ortadan kalkacağını öngörüyor.",
+    "metric": "suitability",
+    "value_text": "excellent habitat lost by 2081–2100 (SSP5-8.5)",
+    "value_text_tr": "'mükemmel' habitat 2081–2100'de ortadan kalkıyor (SSP5-8.5)",
+    "direction": "decrease",
+    "region": "Türkiye – Eastern Black Sea (Rize, Artvin, Trabzon…)",
+    "scope": "4 SSPs, 3 future periods to 2081–2100, MaxEnt (AUC 0.989), 541 occurrence sites; some gains toward Rize/Artvin",
+    "location": "Abstract",
+    "ref": "izmirli2023",
+    "model": "agree",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): tea land −53% and very suitable land −100%",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): çay alanı %53, çok uygun alan %100 azalıyor"
+   },
+   {
+    "claim_en": "Eastern Black Sea tea yield rose from 593 to 1,465 kg/decare between 1975–89 and 2005–19; it correlates with temperature, not significantly with rainfall.",
+    "claim_tr": "Doğu Karadeniz'de çay verimi 1975–89'dan 2005–19'a dekar başına 593'ten 1.465 kg'a çıktı; verim sıcaklıkla ilişkili, yağışla anlamlı ilişkisi yok.",
+    "metric": "yield",
+    "value_text": "593.1 → 1465.3 kg per decare",
+    "value_text_tr": "dekarda 593,1 → 1.465,3 kg",
+    "direction": "increase",
+    "region": "Türkiye – Giresun, Trabzon, Rize, Artvin",
+    "scope": "Observed 1975–2019; positive correlation with temperature, none significant with precipitation",
+    "location": "Results 3.5",
+    "ref": "irdem2022",
+    "model": "na",
+    "model_note_en": "Our model: tea land grew ~11% from 1970–2000 to 1991–2020 as cold limits eased",
+    "model_note_tr": "Modelimiz: soğuk sınırı gevşedikçe çay alanı 1970–2000'den 1991–2020'ye yaklaşık %11 arttı"
+   },
+   {
+    "claim_en": "By 2050, optimal tea suitability is projected to drop by 26.2% in Kenya, 14% in Sri Lanka and 4.7% in China, while India gains.",
+    "claim_tr": "2050'ye kadar optimum çay uygunluğunun Kenya'da %26,2, Sri Lanka'da %14, Çin'de %4,7 azalacağı, Hindistan'da ise artacağı öngörülüyor.",
+    "metric": "suitability",
+    "value_text": "−26.2 % / −14 % / −4.7 % by 2050",
+    "value_text_tr": "2050'ye kadar −%26,2 / −%14 / −%4,7",
+    "direction": "decrease",
+    "region": "Global – Kenya, Sri Lanka, China, India",
+    "scope": "2050, averaged over 3 RCPs × 3 GCMs, MaxEnt",
+    "location": "Abstract",
+    "ref": "jayasinghe2020",
+    "model": "agree",
+    "model_note_en": "Our model (2050s): very suitable tea land +2% (SSP1-2.6) to −6% (SSP5-8.5)",
+    "model_note_tr": "Modelimiz (2050'ler): çok uygun çay alanı %2 artış (SSP1-2.6) ile %6 azalış (SSP5-8.5) arasında"
+   }
+  ],
+  "hazelnut": [
+   {
+    "claim_en": "Under RCP8.5, hazelnut yield in Türkiye is projected to fall by up to 13% in about half of current production areas by 2021–2050.",
+    "claim_tr": "RCP8.5'te Türkiye'de fındık veriminin 2021–2050'de mevcut üretim alanlarının yaklaşık yarısında %13'e kadar düşeceği öngörülüyor.",
+    "metric": "yield",
+    "value_text": "up to −13 % yield",
+    "value_text_tr": "verimde −%13'e varan",
+    "direction": "decrease",
+    "region": "Türkiye – Black Sea and Marmara hazelnut belt (88 locations)",
+    "scope": "RCP8.5, RegCM4.4 at 10 km, 2021–2050; largest declines in eastern Black Sea",
+    "location": "Abstract",
+    "ref": "an2020",
+    "model": "na",
+    "model_note_en": "Our model (SSP5-8.5): hazelnut land +4% (2030s), −14% (2050s); losses from drought, then lost chill",
+    "model_note_tr": "Modelimiz (SSP5-8.5): fındık alanı 2030'larda %4 artıyor, 2050'lerde %14 azalıyor; kuraklık, sonra soğuklama"
+   },
+   {
+    "claim_en": "With up to 6 °C of warming by 2100 (A2), the hazelnut belt may move upslope: the 0–250 m coast loses suitability, land above 1,500 m becomes cultivable.",
+    "claim_tr": "2100'e kadar 6 °C'ye varan ısınmayla (A2) fındık kuşağı yükseğe kayabilir: 0–250 m kıyı şeridi uygunluk kaybederken 1.500 m üzeri alanlar tarıma açılabilir.",
+    "metric": "suitability",
+    "value_text": "up to +6 °C; losses at 0–250 m, gains above 1500 m",
+    "value_text_tr": "+6 °C'ye varan; 0–250 m'de kayıp, 1.500 m üstünde kazanç",
+    "direction": "shift",
+    "region": "Türkiye – Black Sea and Marmara regions",
+    "scope": "SRES A2, RegCM3, 2011–2100 (decadal means)",
+    "location": "Abstract",
+    "ref": "ustaoglu2014",
+    "model": "partly",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): 2.5 Mha lost, 0.2 Mha gained; net −88%, mainly lost chill",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): 2,5 milyon ha kayıp, 0,2 milyon ha kazanç; net %88 azalış, ana neden soğuklama"
+   },
+   {
+    "claim_en": "Hazelnut needs winter chill to break dormancy: about 100–860 h for catkins and 290–1,550 h for female flowers, depending on cultivar.",
+    "claim_tr": "Fındık dormansiden çıkmak için kış soğuklamasına ihtiyaç duyar: çeşide göre erkek çiçekler için yaklaşık 100–860 saat, dişi çiçekler için 290–1.550 saat.",
+    "metric": "chill",
+    "value_text": "100–860 h (catkins); 290–1550 h (female flowers)",
+    "value_text_tr": "100–860 saat (erkek çiçek); 290–1.550 saat (dişi çiçek)",
+    "direction": "threshold",
+    "region": "Global cultivar range (Mehlenbacher 1991 data, cited in an Ontario study)",
+    "scope": "Chilling requirement by organ, range across cultivars",
+    "location": "Introduction",
+    "ref": "taghavi2021",
+    "model": "agree",
+    "model_note_en": "Our model uses 500–800 chill hours for Tombul, within this cultivar range",
+    "model_note_tr": "Modelimiz Tombul için 500–800 soğuklama saati kullanır; bu çeşit aralığının içinde"
+   },
+   {
+    "claim_en": "Late frosts are among the most damaging stresses for Turkish hazelnut: heavy frosts in 2004 and 2014 cut production, and in 2014 mean yield in the eastern area was 0.48 t/ha against a 2004–2019 average of 0.72 t/ha.",
+    "claim_tr": "Geç donlar Türkiye fındığı için en zararlı streslerden biri: 2004 ve 2014'teki şiddetli donlar üretimi düşürdü; 2014'te doğu bölgesinde ortalama verim, 2004–2019 ortalaması olan 0,72 t/ha'ya karşı 0,48 t/ha'ya indi.",
+    "metric": "yield",
+    "value_text": "2014 east: 0.48 vs 0.72 t/ha",
+    "value_text_tr": "2014'te doğuda 0,48 t/ha (ortalama 0,72)",
+    "direction": "decrease",
+    "region": "Türkiye – Black Sea",
+    "scope": "Process model + random forest on official yields, 2004–2019 (historical)",
+    "location": "Introduction; Results",
+    "ref": "bregaglio2021",
+    "model": "partly",
+    "model_note_en": "Our model uses monthly climate and does not see single frost nights; its future losses come from lost winter chill and summer heat",
+    "model_note_tr": "Modelimiz aylık iklimle çalışır, tek tek don gecelerini görmez; gelecekteki kayıpları soğuklama kaybından ve yaz sıcağından gelir"
+   },
+   {
+    "claim_en": "Turkish hazelnut output averaged 558,579 t in 2006–2016 but swung between 420,000 and 800,791 t, mainly because of late spring frosts and other climate events.",
+    "claim_tr": "Türkiye fındık üretimi 2006–2016'da ortalama 558.579 ton oldu, ama başta geç ilkbahar donları olmak üzere iklim olayları yüzünden 420.000 ile 800.791 ton arasında dalgalandı.",
+    "metric": "yield",
+    "value_text": "420,000–800,791 t (mean 558,579 t)",
+    "value_text_tr": "420.000–800.791 t (ortalama 558.579 t)",
+    "direction": "mixed",
+    "region": "Türkiye – 14 Black Sea provinces",
+    "scope": "Sector review from official statistics, 2006–2016",
+    "location": "Abstract",
+    "ref": "erdogan2018",
+    "model": "na",
+    "model_note_en": "Shows how strongly weather drives output from year to year; our model works with 20-year climate averages",
+    "model_note_tr": "Üretimin yıldan yıla hava koşullarına ne kadar bağlı olduğunu gösteriyor; modelimiz 20 yıllık iklim ortalamalarıyla çalışır"
+   },
+   {
+    "claim_en": "Machine-learning models trained on 20 years of data project hazelnut yield losses of up to 17% under SSP5-8.5 in the Eastern Black Sea and Düzce, while SSP1-1.9 keeps conditions favourable.",
+    "claim_tr": "20 yıllık veriyle eğitilen makine öğrenmesi modelleri, SSP5-8.5'te Doğu Karadeniz ve Düzce'de fındık veriminde %17'ye varan kayıp öngörüyor; SSP1-1.9'da koşullar elverişli kalıyor.",
+    "metric": "yield",
+    "value_text": "up to −17% (SSP5-8.5)",
+    "value_text_tr": "−%17'ye varan (SSP5-8.5)",
+    "direction": "decrease",
+    "region": "Türkiye – Eastern Black Sea, Düzce",
+    "scope": "Random forest and gradient boosting, SSP1-1.9 to SSP5-8.5",
+    "location": "Abstract",
+    "ref": "albayrak2025",
+    "model": "partly",
+    "model_note_en": "Same direction and scenario order; our −88% under SSP5-8.5 in the 2090s is suitable area, not yield",
+    "model_note_tr": "Yön ve senaryo sırası aynı; modelimizdeki SSP5-8.5 2090'lar −%88 değeri verim değil, uygun alandır"
+   },
+   {
+    "claim_en": "In the six leading provinces in 1993–2019, warmer March and April raised hazelnut yields, while more annual rain lowered them everywhere except Sakarya; mean yield ranged from 63.8 to 130.6 kg per decare.",
+    "claim_tr": "1993–2019'da ilk altı üretici ilde mart ve nisan ısındıkça fındık verimi arttı, yıllık yağış ise Sakarya dışında verimi düşürdü; ortalama verim dekarda 63,8 ile 130,6 kg arasında değişti.",
+    "metric": "yield",
+    "value_text": "warm Mar–Apr → higher yield (1993–2019)",
+    "value_text_tr": "ılık mart–nisan → daha yüksek verim (1993–2019)",
+    "direction": "increase",
+    "region": "Türkiye – Sakarya, Düzce, Samsun, Ordu, Giresun, Trabzon",
+    "scope": "Correlation and regression on station and yield data, 1993–2019",
+    "location": "Abstract",
+    "ref": "irdem2021",
+    "model": "partly",
+    "model_note_en": "No warming penalty in 1993–2019, and in our model hazelnut land still grows a little in the 2030s (+2% to +4%); losses come only with stronger warming, mostly after 2060, which this period cannot show",
+    "model_note_tr": "1993–2019'da ısınmaya bağlı kayıp yok, modelimizde de fındık alanı 2030'larda hâlâ biraz artıyor (%2–4); kayıplar daha güçlü ısınmayla, çoğunlukla 2060'tan sonra geliyor ve bu dönem bunu gösteremez"
+   },
+   {
+    "claim_en": "Kaolin sprayed when air temperature topped 35 °C for 2–3 days cooled hazelnut leaves by 2.9–6.9 °C and raised kernel yield and oil content; the authors conclude that summer heat stress limits hazelnut in some areas.",
+    "claim_tr": "Hava sıcaklığı 2–3 gün üst üste 35 °C'yi aştığında püskürtülen kaolin, fındık yapraklarını 2,9–6,9 °C serinletti, iç verimini ve yağ oranını artırdı; yazarlara göre yaz sıcak stresi bazı bölgelerde fındığı sınırlıyor.",
+    "metric": "temperature",
+    "value_text": ">35 °C for 2–3 days",
+    "value_text_tr": "2–3 gün >35 °C",
+    "direction": "threshold",
+    "region": "Italy (Tonda di Giffoni)",
+    "scope": "Field trial on young trees, summer 2018",
+    "location": "Abstract",
+    "ref": "luciani2020",
+    "model": "agree",
+    "model_note_en": "Our model also penalises hot summers (July–August heat-stress term)",
+    "model_note_tr": "Modelimiz de sıcak yazları cezalandırıyor (temmuz–ağustos sıcak stresi terimi)"
+   },
+   {
+    "claim_en": "Across 34 stations in Abruzzo (1980–2019), chill needs were mostly met except on the warm southern coast, days above 30 °C rose everywhere, and only 5 sites were suitable for hazelnut while 19 were unsuitable.",
+    "claim_tr": "Abruzzo'daki 34 istasyonda (1980–2019) soğuklama ihtiyacı sıcak güney kıyısı dışında büyük ölçüde karşılandı, 30 °C üstü gün sayısı her yerde arttı; fındığa yalnızca 5 yer uygun, 19 yer uygun değil bulundu.",
+    "metric": "suitability",
+    "value_text": "5 suitable, 19 unsuitable of 34 sites",
+    "value_text_tr": "34 alanın 5'i uygun, 19'u uygun değil",
+    "direction": "decrease",
+    "region": "Italy – Abruzzo",
+    "scope": "Station climatology 1980–2019 (no scenarios)",
+    "location": "Abstract",
+    "ref": "dilena2022",
+    "model": "partly",
+    "model_note_en": "Same mechanisms as in our model: warm low coasts run short of chill and hot days increase",
+    "model_note_tr": "Modelimizdeki mekanizmaların aynısı: sıcak alçak kıyılarda soğuklama yetmiyor, sıcak günler artıyor"
+   }
+  ],
+  "apricot": [
+   {
+    "claim_en": "In Malatya, annual mean temperature rose 2.4 °C (linear trend, 1980–2020) and the start of apricot's growth stage shifted 20.2 days earlier.",
+    "claim_tr": "Malatya'da yıllık ortalama sıcaklık 1980–2020'de doğrusal eğilimle 2,4 °C arttı; kayısının fenolojik dönem başlangıcı 20,2 gün öne kaydı.",
+    "metric": "phenology",
+    "value_text": "−20.2 days (onset); +2.4 °C (1980–2020 trend)",
+    "value_text_tr": "−20,2 gün (başlangıç); +2,4 °C (1980–2020 eğilimi)",
+    "direction": "shift",
+    "region": "Türkiye – Malatya",
+    "scope": "Observed, Malatya stations 1980–2020; questionnaire also reports yield decline after 2000",
+    "location": "Abstract (English 'Öz'), Malatya province",
+    "ref": "balcioglu2022",
+    "model": "na",
+    "model_note_en": "Our model keeps bloom timing fixed; apricot land +17% (SSP1-2.6) to +7.5% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimizde çiçeklenme zamanı sabit; 2090'larda kayısı alanı %17 (SSP1-2.6) ile %7,5 (SSP5-8.5) artıyor"
+   },
+   {
+    "claim_en": "The 2014 spring frost caused 100% damage in Akçadağ, as across Malatya; damage fell with altitude as flowering came later (6,140 orchards, 2013–2023).",
+    "claim_tr": "2014 ilkbahar donu, Malatya genelinde olduğu gibi Akçadağ'da da %100 zarara yol açtı; rakım arttıkça çiçeklenme geciktiği için zarar azaldı (6.140 bahçe).",
+    "metric": "yield",
+    "value_text": "100 % frost damage (2014)",
+    "value_text_tr": "%100 don zararı (2014)",
+    "direction": "decrease",
+    "region": "Türkiye – Malatya-Akçadağ",
+    "scope": "Observed frost events at flowering, 2013–2023; 6,140 orchards at four altitude bands",
+    "location": "Abstract, Malatya-Akçadağ district",
+    "ref": "koparan2025",
+    "model": "na",
+    "model_note_en": "Our model includes a March–April frost penalty (below −2 °C) for apricot",
+    "model_note_tr": "Modelimiz kayısı için Mart–Nisan donu cezası (−2 °C altı) içerir"
+   },
+   {
+    "claim_en": "Chill requirements of 18 apricot cultivars in Algeria ranged from 26 to 72 Chill Portions; heat needs for flowering were 1,574–5,597 GDH.",
+    "claim_tr": "Cezayir'de 18 kayısı çeşidinin soğuklama ihtiyacı 26–72 soğuklama porsiyonu (CP), çiçeklenme için sıcaklık ihtiyacı 1.574–5.597 GDH arasında değişti.",
+    "metric": "chill",
+    "value_text": "26–72 CP; 1574–5597 GDH",
+    "value_text_tr": "26–72 soğuklama porsiyonu; 1.574–5.597 GDH",
+    "direction": "threshold",
+    "region": "Mediterranean – Constantine, Algeria (18 cultivars)",
+    "scope": "Crop requirement (Dynamic model chill, GDH heat); observed 2021–2022",
+    "location": "Abstract",
+    "ref": "boutiti2025",
+    "model": "na",
+    "model_note_en": "Our model uses 500–900 chill hours (Hacıhaliloğlu ≈ 900 h); hours and portions are different units",
+    "model_note_tr": "Modelimiz 500–900 soğuklama saati kullanır (Hacıhaliloğlu ≈ 900 saat); saat ve porsiyon farklı birimlerdir"
+   }
+  ],
+  "fig": [
+   {
+    "claim_en": "In semi-arid western Türkiye, young Sarılop figs used 25.5–472.2 mm of water a season (rain-fed to fully irrigated); 75% irrigation proved a good option.",
+    "claim_tr": "Yarı kurak Batı Türkiye'de genç Sarılop incir ağaçları sezonda 25,5–472,2 mm su tüketti (susuzdan tam sulamaya); %75 sulama iyi bir alternatif oldu.",
+    "metric": "water",
+    "value_text": "ET 25.5–472.2 mm/season; 75 % irrigation level",
+    "value_text_tr": "ET 25,5–472,2 mm/sezon; %75 sulama düzeyi",
+    "direction": "threshold",
+    "region": "Türkiye – semi-arid west (cv. Sarılop)",
+    "scope": "Two-year field experiment; rainfed to full irrigation (0, 25, 50, 75, 100 %)",
+    "location": "Abstract",
+    "ref": "akcay2023",
+    "model": "na",
+    "model_note_en": "Our model treats fig as rain-fed: land +67% (SSP1-2.6) to +142% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz inciri kuru tarım olarak ele alır: 2090'larda alan %67 (SSP1-2.6) ile %142 (SSP5-8.5) artıyor"
+   },
+   {
+    "claim_en": "In Bejaïa (Algeria), warming of 0.057 °C/yr, rainfall falling 27.1 mm/yr and new pests coincided with a 25% fall in fig yield over 10 years.",
+    "claim_tr": "Bejaïa'da (Cezayir) yılda 0,057 °C ısınma, yılda 27,1 mm yağış azalması ve yeni zararlılar, 10 yılda incir veriminde %25 düşüşle eş zamanlı yaşandı.",
+    "metric": "yield",
+    "value_text": "−25 % yield; +0.057 °C/yr; −27.1 mm/yr",
+    "value_text_tr": "verimde −%25; +0,057 °C/yıl; −27,1 mm/yıl",
+    "direction": "decrease",
+    "region": "Mediterranean – Bejaïa province, Algeria",
+    "scope": "Observed, 10-year record; yield decline attributed to climate and pests combined",
+    "location": "Abstract",
+    "ref": "mellal2023",
+    "model": "na",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): 4.1 Mha lost mainly to heat, 18.7 Mha gained; net +142%",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): çoğu sıcaktan 4,1 milyon ha kayıp, 18,7 milyon ha kazanç; net %142 artış"
+   },
+   {
+    "claim_en": "Cold hardiness (LT50) of one-year fig shoots in 7 cultivars averaged −16.9 °C in November, −20.2 °C in January and −21.4 °C in March.",
+    "claim_tr": "7 incir çeşidinde bir yıllık sürgünlerin soğuğa dayanımı (LT50) ortalama Kasım'da −16,9 °C, Ocak'ta −20,2 °C, Mart'ta −21,4 °C oldu.",
+    "metric": "temperature",
+    "value_text": "LT50 −16.89 / −20.23 / −21.35 °C",
+    "value_text_tr": "LT50 −16,89 / −20,23 / −21,35 °C",
+    "direction": "threshold",
+    "region": "Eastern Mediterranean – Iran (7 commercial cultivars)",
+    "scope": "Laboratory freezing tests (electrolyte leakage, tetrazolium) on one-year-old shoots, three dormancy stages",
+    "location": "Abstract",
+    "ref": "karami2018",
+    "model": "na",
+    "model_note_en": "Our model uses a more cautious −10 °C killing temperature for whole fig trees",
+    "model_note_tr": "Modelimiz incir ağacı için daha temkinli bir −10 °C öldürücü sıcaklık sınırı kullanır"
+   }
+  ],
+  "cherry": [
+   {
+    "claim_en": "Inland Türkiye is among the Mediterranean's highest-chill areas (median ≈90 Chill Portions), yet simulated chill there fell by about 20 CP from 1975 to 2019.",
+    "claim_tr": "Türkiye'nin iç kesimleri Akdeniz'in en yüksek soğuklamalı yerlerinden (medyan ≈90 porsiyon); yine de simüle soğuklama 1975–2019'da ~20 porsiyon azaldı.",
+    "metric": "chill",
+    "value_text": "≈ −20 CP (1975→2019); baseline ≈ 90 CP",
+    "value_text_tr": "≈ −20 porsiyon (1975→2019); başlangıç ≈ 90 porsiyon",
+    "direction": "decrease",
+    "region": "Türkiye (inland)",
+    "scope": "Historic simulated Safe Winter Chill, 2019 minus 1975, Mediterranean basin (study covers sweet cherry, apricot, apple, almond, pistachio)",
+    "location": "Results ('Absolute chill levels and change based on historic simulated scenarios'), Fig. 3–4",
+    "ref": "fernandez2023",
+    "model": "differs",
+    "model_note_en": "Our chill hours, 1970–2000 → 1991–2020: inland flat (Konya 1,353 → 1,352 h), Aegean −5 to −7%",
+    "model_note_tr": "Soğuklama saatlerimiz, 1970–2000 → 1991–2020: iç kesimde sabit (Konya 1.353 → 1.352 saat), Ege'de %5–7 azalış"
+   },
+   {
+    "claim_en": "Spanish sweet cherry cultivars need 26.1–60.2 Chill Portions; under RCP8.5 by 2085, four high-chill cultivars will often fail to meet them.",
+    "claim_tr": "İspanyol kiraz çeşitleri 26,1–60,2 soğuklama porsiyonu ister; RCP8.5'te 2085'te yüksek soğuklama isteyen dört çeşit bu ihtiyacı sık sık karşılayamayacak.",
+    "metric": "chill",
+    "value_text": "26.1–60.2 CP; 5473–8030 GDH",
+    "value_text_tr": "26,1–60,2 soğuklama porsiyonu; 5.473–8.030 GDH",
+    "direction": "threshold",
+    "region": "Mediterranean – Zaragoza, Spain (7 cultivars)",
+    "scope": "Requirements from phenology records; projections RCP4.5/RCP8.5, 2050 and 2085, 15 GCMs",
+    "location": "Abstract",
+    "ref": "fadon2023",
+    "model": "agree",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): cherry land −18%, losses mainly from lost winter chill",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): kiraz alanı %18 azalıyor; kayıpların ana nedeni yetersiz kış soğuklaması"
+   },
+   {
+    "claim_en": "Türkiye leads world cherry output (690 kt in 2021); rising temperature in 2004–2021 significantly cut production in Amasya, Kütahya, Manisa and İzmir.",
+    "claim_tr": "Türkiye dünya kiraz üretiminde lider (2021'de 690 bin ton); 2004–2021'de artan sıcaklık Amasya, Kütahya, Manisa ve İzmir'de üretimi anlamlı biçimde düşürdü.",
+    "metric": "yield",
+    "value_text": "significant negative temperature effect in 4 of 10 provinces (2004–2021)",
+    "value_text_tr": "10 ilin 4'ünde anlamlı olumsuz sıcaklık etkisi (2004–2021)",
+    "direction": "decrease",
+    "region": "Türkiye (10 cherry provinces)",
+    "scope": "Observed provincial panel 2004–2021, long-run AMG cointegration estimates",
+    "location": "Abstract",
+    "ref": "sarica2024",
+    "model": "na",
+    "model_note_en": "Our model: cherry land −3% (SSP2-4.5) and −18% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz: 2090'larda kiraz alanı %3 (SSP2-4.5) ve %18 (SSP5-8.5) azalıyor"
+   }
+  ],
+  "grape": [
+   {
+    "claim_en": "About 90% of traditional coastal and lowland wine regions of Spain, Italy and Greece could be at risk of disappearing by 2100 from drought and heatwaves.",
+    "claim_tr": "İspanya, İtalya ve Yunanistan'daki geleneksel kıyı ve ova bağ bölgelerinin ~%90'ı, kuraklık ve sıcak dalgaları yüzünden 2100'e kadar yok olma riski taşıyabilir.",
+    "metric": "suitability",
+    "value_text": "~90 % of traditional coastal/lowland regions at risk",
+    "value_text_tr": "geleneksel kıyı ve ova bölgelerinin ~%90'ı risk altında",
+    "direction": "decrease",
+    "region": "Mediterranean – Spain, Italy, Greece (and southern California)",
+    "scope": "End of 21st century; magnitude depends on warming level (review synthesises 2 °C and 4 °C scenarios)",
+    "location": "Abstract",
+    "ref": "vanleeuwen2024",
+    "model": "partly",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): 10.6 Mha of sultana land lost to heat, 17.7 Mha gained; net +14%",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): sultanide sıcaktan 10,6 milyon ha kayıp, 17,7 milyon ha kazanç; net %14 artış"
+   },
+   {
+    "claim_en": "Without changing cultivars, 56% of current wine-grape areas are lost at +2 °C and 85% at +4 °C; switching cultivars cuts losses to 24% and 58%.",
+    "claim_tr": "Çeşit değiştirilmezse mevcut şaraplık üzüm alanlarının %56'sı +2 °C'de, %85'i +4 °C'de kayboluyor; çeşit değişimiyle kayıplar %24 ve %58'e iniyor.",
+    "metric": "area",
+    "value_text": "−56 % (2 °C), −85 % (4 °C); with cultivar diversity −24 % / −58 %",
+    "value_text_tr": "−%56 (2 °C), −%85 (4 °C); çeşit çeşitliliğiyle −%24 / −%58",
+    "direction": "decrease",
+    "region": "Global",
+    "scope": "Global warming levels +2 °C and +4 °C; 11 winegrape cultivars",
+    "location": "Abstract",
+    "ref": "moralescastilla2020",
+    "model": "partly",
+    "model_note_en": "Our model: 1% of today's sultana land lost at ~2 °C (SSP2-4.5, 2050s), 21% at ~4.4 °C",
+    "model_note_tr": "Modelimiz: bugünkü sultani alanının ~2 °C'de (SSP2-4.5, 2050'ler) %1'i, ~4,4 °C'de %21'i kayboluyor"
+   },
+   {
+    "claim_en": "In most wine regions worldwide, grape harvests have advanced by 2–3 weeks over the past 40 years.",
+    "claim_tr": "Dünyadaki bağ bölgelerinin çoğunda üzüm hasadı son 40 yılda 2–3 hafta öne kaydı.",
+    "metric": "phenology",
+    "value_text": "harvest 2–3 weeks earlier (40 years)",
+    "value_text_tr": "hasat 2–3 hafta erken (40 yıl)",
+    "direction": "shift",
+    "region": "Global",
+    "scope": "Observed, past ~40 years, global winegrowing regions",
+    "location": "Key points",
+    "ref": "vanleeuwen2024",
+    "model": "na",
+    "model_note_en": "Our model maps climatic suitability, not harvest dates",
+    "model_note_tr": "Modelimiz hasat tarihini değil iklimsel uygunluğu haritalar"
+   }
+  ],
+  "olive": [
+   {
+    "claim_en": "Highly suitable olive land in Türkiye falls from 4.4% of the country to 0.2% by 2081–2100 under SSP5-8.5, shifting north and upslope.",
+    "claim_tr": "SSP5-8.5'te 2081–2100'e kadar Türkiye'de zeytine çok uygun alanların payı ülkenin %4,4'ünden %0,2'sine iniyor; alanlar kuzeye ve yükseğe kayıyor.",
+    "metric": "suitability",
+    "value_text": "4.4 % → 0.2 % of national land area",
+    "value_text_tr": "ülke yüzölçümünün %4,4'ü → %0,2'si",
+    "direction": "decrease",
+    "region": "Türkiye",
+    "scope": "SSP5-8.5, 2081–2100 vs 1970–2000, machine-learning ensemble SDM",
+    "location": "Abstract",
+    "ref": "ozdel2025",
+    "model": "differs",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): olive land +145% as frost limits ease; 4.2 Mha lost to low chill",
+    "model_note_tr": "SSP5-8.5, 2090'lar: don sınırı gevşedikçe zeytin alanımız %145 artıyor; 4,2 milyon ha düşük soğuklamadan kayıp"
+   },
+   {
+    "claim_en": "IPCC: at 1.5–2 °C of global warming, olive yields in northern Mediterranean locations could fall by up to 21%.",
+    "claim_tr": "IPCC: 1,5–2 °C küresel ısınmada Kuzey Akdeniz'deki bazı yerlerde zeytin verimi %21'e kadar düşebilir.",
+    "metric": "yield",
+    "value_text": "up to −21 %",
+    "value_text_tr": "−%21'e varan",
+    "direction": "decrease",
+    "region": "Northern Mediterranean",
+    "scope": "1.5–2 °C global warming level",
+    "location": "CCP4, Table CCP4.1 (Olives), p. 2246",
+    "ref": "ali2022",
+    "model": "na",
+    "model_note_en": "Our model (2030s–2050s, ~1.5–2 °C): olive land +29% to +56%; yield is not modelled",
+    "model_note_tr": "Modelimiz (2030'lar–2050'ler, ~1,5–2 °C): zeytin alanı %29–56 artıyor; verim modellenmiyor"
+   },
+   {
+    "claim_en": "In Andalusia, regional scenarios (A1B) project olive production losses of up to 29.4% in Sevilla and 9.1% in Córdoba by 2071–2100.",
+    "claim_tr": "Endülüs'te bölgesel senaryolar (A1B), 2071–2100'e kadar zeytin üretiminde Sevilla'da %29,4'e, Córdoba'da %9,1'e varan kayıplar öngörüyor.",
+    "metric": "yield",
+    "value_text": "−29.4 % (Sevilla), −9.1 % (Córdoba) by 2100",
+    "value_text_tr": "2100'e kadar −%29,4 (Sevilla), −%9,1 (Córdoba)",
+    "direction": "decrease",
+    "region": "Spain – Andalusia",
+    "scope": "Regional climate scenarios (SRES A1B, CNCM3), periods 2011–2040, 2041–2070, 2071–2100; suitable area used as a proxy for production",
+    "location": "Results 3.3",
+    "ref": "arenascastro2020",
+    "model": "partly",
+    "model_note_en": "Our model also loses warm lowlands to low chill (4.2 Mha, SSP5-8.5, 2090s) but gains far more",
+    "model_note_tr": "Modelimiz de sıcak ovaları az soğuklamadan kaybediyor (SSP5-8.5: 4,2 milyon ha), ama çok daha fazla kazanıyor"
+   }
+  ],
+  "pistachio": [
+   {
+    "claim_en": "A MaxEnt model for Türkiye finds pistachio most likely where the warmest-month maximum is ~38–39 °C, dropping abruptly above 40 °C.",
+    "claim_tr": "Türkiye için MaxEnt modeli, Antep fıstığını en sıcak ayın maksimumunun ~38–39 °C olduğu yerlerde en olası buluyor; 40 °C üzerinde olasılık aniden düşüyor.",
+    "metric": "temperature",
+    "value_text": "optimum Tmax 38–39 °C; abrupt decline >40 °C",
+    "value_text_tr": "optimum Tmax 38–39 °C; >40 °C'de ani düşüş",
+    "direction": "threshold",
+    "region": "Türkiye – SE Anatolia (Gaziantep, Kilis, Şanlıurfa, Mardin, Siirt)",
+    "scope": "MaxEnt response curve for BIO5 at ~1 km; projections SSP1-2.6 to SSP5-8.5 for 2081–2100 show strong contraction",
+    "location": "Results – response curves (BIO5)",
+    "ref": "dogan2025",
+    "model": "differs",
+    "model_note_en": "Our model: pistachio land +53% to +97% by the 2090s; this study projects contraction by then",
+    "model_note_tr": "Modelimizde Antep fıstığı alanı 2090'larda %53–97 artıyor; bu çalışma ise o döneme daralma öngörüyor"
+   },
+   {
+    "claim_en": "Pistachio cultivars in Sfax, Tunisia need about 32–33 Chill Portions; low-chill winters gave very low yields, and no crop in 1995, 2001 and 2007.",
+    "claim_tr": "Tunus'un Sfax bölgesinde Antep fıstığı ~32–33 soğuklama porsiyonu ister; az soğuklamalı kışlarda verim çok düştü, 1995, 2001 ve 2007'de ürün alınamadı.",
+    "metric": "chill",
+    "value_text": "32.1–33.3 Chill Portions",
+    "value_text_tr": "32,1–33,3 soğuklama porsiyonu",
+    "direction": "threshold",
+    "region": "Tunisia (Sfax) – southern Mediterranean",
+    "scope": "Observed bloom records 1997–2016, 7 cultivars, Dynamic Model; zero production in 1995, 2001, 2007",
+    "location": "Abstract",
+    "ref": "benmoussa2017",
+    "model": "agree",
+    "model_note_en": "Our model also flags chill: 6.4 Mha lost mainly to low chill by the 2090s (SSP5-8.5)",
+    "model_note_tr": "Modelimiz de soğuklamayı öne çıkarıyor: 2090'larda (SSP5-8.5) çoğu düşük soğuklamadan 6,4 milyon ha kayıp"
+   },
+   {
+    "claim_en": "In 50 years of California yield records, budbreak-based chill needs of pistachio and walnut were 19–32% above the chill linked to average or better yields.",
+    "claim_tr": "Kaliforniya'nın 50 yıllık kayıtlarında Antep fıstığı ve cevizin tomurcuklanmaya dayalı soğuklama ihtiyacı, ortalama ve üstü verimli yıllardakinden %19–32 fazla.",
+    "metric": "chill",
+    "value_text": "19–32 % below budbreak-based requirement",
+    "value_text_tr": "tomurcuk patlamasına dayalı ihtiyacın %19–32 altında",
+    "direction": "threshold",
+    "region": "USA – California Central Valley (Mediterranean-type climate)",
+    "scope": "50 years of county yield records vs chill accumulation",
+    "location": "Abstract",
+    "ref": "pope2015",
+    "model": "na",
+    "model_note_en": "Our model ramps pistachio chill from 500 to 900 h",
+    "model_note_tr": "Modelimiz Antep fıstığında soğuklamayı 500'den 900 saate kademelendirir"
+   }
+  ],
+  "almond": [
+   {
+    "claim_en": "In inland north-eastern Portugal, almond winter chill (hours at 0–7.2 °C) falls 35% by 2061–2080 under RCP8.5 (1,375 → 894 h), yet the authors expect chill needs to be met even then.",
+    "claim_tr": "Portekiz'in kuzeydoğusundaki iç kesimde bademin kış soğuklaması (0–7,2 °C arası saatler) RCP8.5'te 2061–2080'de %35 azalıyor (1.375 → 894 saat); yazarlara göre soğuklama ihtiyacı yine de karşılanıyor.",
+    "metric": "chill",
+    "value_text": "−35 % chill hours (1,375 → 894 h); −15 % Chill Portions (81 → 69 CP)",
+    "value_text_tr": "soğuklama saati −%35 (1.375 → 894 saat); soğuklama porsiyonu −%15 (81 → 69)",
+    "direction": "decrease",
+    "region": "Portugal – Trás-os-Montes (inland Mediterranean)",
+    "scope": "Iberia01 1971–2015 vs 5-member EURO-CORDEX ensemble, RCP4.5/8.5, 2041–2060 and 2061–2080; chill from 1 Oct; needs 42/63/81 CP by cultivar group",
+    "location": "Section 3.2 (Fig. 3, SM 1); Section 4 Discussion",
+    "ref": "freitas2023",
+    "model": "agree",
+    "model_note_en": "Our model (SSP5-8.5, 2061–2080): chill −23% in the 13 main almond provinces (1,212 → 937 h); limiting on 5% of land suitable today",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2061–2080): 13 ana badem ilinde soğuklama %23 azalıyor (1.212 → 937 saat); bugün bademe uygun arazinin %5'inde sınırlayıcı"
+   },
+   {
+    "claim_en": "Under SSP5-8.5, almond bloom in California's Central Valley moves from early March (day 64) to day 28–33 by 2100, and land with safe bloom timing shrinks by 48–73%.",
+    "claim_tr": "SSP5-8.5'te Kaliforniya'nın Central Valley bölgesinde badem çiçeklenmesi 2100'e kadar mart başından (yılın 64. günü) 28–33. güne kayıyor; çiçeklenmenin güvenli olduğu alan %48–73 daralıyor.",
+    "metric": "phenology",
+    "value_text": "bloom day 64 → 28–33; suitable land −48 to −73 % (2100, SSP5-8.5)",
+    "value_text_tr": "çiçeklenme günü 64 → 28–33; uygun alan −%48 ile −%73 (2100, SSP5-8.5)",
+    "direction": "shift",
+    "region": "USA – California Central Valley (Mediterranean-type climate)",
+    "scope": "Bloom model, PRISM 4 km, 1982–2022 + CMIP6 global-mean warming; safe bloom 1 Feb–31 Mar (frost, bees; heat >21 °C); no significant loss by 2050",
+    "location": "Abstract; Results; Discussion",
+    "ref": "orozco2024",
+    "model": "differs",
+    "model_note_en": "Our model keeps bloom dates fixed; almond land +22% by the 2050s and +26% by the 2090s (SSP5-8.5)",
+    "model_note_tr": "Modelimizde çiçeklenme tarihi sabit; SSP5-8.5'te badem alanı 2050'lerde %22, 2090'larda %26 artıyor"
+   },
+   {
+    "claim_en": "In a trial by Israel's Agricultural Research Organization, deficit irrigation (600 mm vs 1,300 mm full) limited almond photosynthesis and cut yield 35% by the second season; about 960 mm supported high yields.",
+    "claim_tr": "İsrail Tarımsal Araştırma Kurumu'nun denemesinde kısıntılı sulama (600 mm; tam sulama 1.300 mm) bademde fotosentezi sınırladı ve ikinci sezonda verimi %35 düşürdü; yüksek verim için yaklaşık 960 mm yeterli oldu.",
+    "metric": "yield",
+    "value_text": "−35 % yield (600 vs 1,300 mm irrigation); ~960 mm for high yield",
+    "value_text_tr": "verimde −%35 (1.300 yerine 600 mm sulama); yüksek verim için ~960 mm",
+    "direction": "decrease",
+    "region": "Israel – ARO Gilat Research Center, Negev (authors' institute)",
+    "scope": "Field experiment, deficit (600 mm) vs full (1,300 mm) irrigation; orchard site, cultivar and years not verified (abstract only)",
+    "location": "Abstract",
+    "ref": "sperling2023",
+    "model": "na",
+    "model_note_en": "Our model maps suitability, not yield; almond is modelled as rainfed, so no irrigation need is computed",
+    "model_note_tr": "Modelimiz verimi değil uygunluğu haritalar; badem kuru tarım olarak modellendiği için sulama ihtiyacı hesaplanmaz"
+   }
+  ],
+  "citrus": [
+   {
+    "claim_en": "In Catalonia (RCP4.5, 2031–2050), irrigated orange gains new suitable area equal to 12.2% of the study region.",
+    "claim_tr": "Katalonya'da (RCP4.5, 2031–2050) sulu portakal, çalışma alanının %12,2'si kadar yeni uygun alan kazanıyor.",
+    "metric": "suitability",
+    "value_text": "+12.2 % of study area",
+    "value_text_tr": "çalışma alanının %12,2'si kadar yeni alan",
+    "direction": "increase",
+    "region": "Spain – Catalonia (NW Mediterranean)",
+    "scope": "Regionalised RCP4.5, 2031–2050 vs 1971–2000, Papadakis agro-climatic classification, with irrigation",
+    "location": "Results",
+    "ref": "montsant2021",
+    "model": "agree",
+    "model_note_en": "Our model (SSP2-4.5, 2050s): citrus land +96%, from 3.3 to 6.5 Mha",
+    "model_note_tr": "Modelimiz (SSP2-4.5, 2050'ler): turunçgil alanı %96 artarak 3,3'ten 6,5 milyon ha'ya çıkıyor"
+   },
+   {
+    "claim_en": "Frost tolerance differs by citrus type: satsuma mandarin survives to an LT50 of about −7.4 °C, Star Ruby grapefruit only about −2.2 °C.",
+    "claim_tr": "Turunçgillerde dona dayanım türe göre değişir: Satsuma mandarin yaklaşık −7,4 °C'ye (LT50), Star Ruby greyfurt ise yalnızca yaklaşık −2,2 °C'ye dayanır.",
+    "metric": "temperature",
+    "value_text": "LT50 −7.4 °C (C. unshiu) to −2.24 °C (grapefruit)",
+    "value_text_tr": "LT50 −7,4 °C (C. unshiu) ile −2,24 °C (greyfurt)",
+    "direction": "threshold",
+    "region": "Iran – south Caspian coast (Gorgan)",
+    "scope": "Controlled freezing tests on 4 commercial cultivars (mandarin, orange, grapefruit, lemon)",
+    "location": "Results – LT50 (the abstract gives −8.4 for C. unshiu)",
+    "ref": "salehisardoei2024",
+    "model": "agree",
+    "model_note_en": "Our model uses −2 °C as the frost-kill limit, matching the most sensitive types",
+    "model_note_tr": "Modelimiz don öldürme sınırı olarak −2 °C kullanır; bu en hassas türlerle uyumlu"
+   },
+   {
+    "claim_en": "A global citrus model shows that, once the CO2 effect is included, future citrus water use and irrigation needs could fall by up to 12% and 37%.",
+    "claim_tr": "Küresel bir turunçgil modeli, CO2 etkisi hesaba katıldığında turunçgil su tüketiminin %12'ye, sulama ihtiyacının %37'ye kadar azalabileceğini gösteriyor.",
+    "metric": "water",
+    "value_text": "ET up to −12 %, irrigation up to −37 %",
+    "value_text_tr": "ET'de −%12'ye, sulamada −%37'ye varan",
+    "direction": "decrease",
+    "region": "Global major citrus regions, incl. Mediterranean",
+    "scope": "2055s and 2090s vs 1986–2005, IManSys model, with elevated CO2",
+    "location": "Abstract",
+    "ref": "fares2017",
+    "model": "na",
+    "model_note_en": "Our model has no CO2 effect and assumes citrus is irrigated",
+    "model_note_tr": "Modelimizde CO2 etkisi yok; turunçgillerin sulandığı varsayılır"
+   }
+  ],
+  "apple": [
+   {
+    "claim_en": "By 2085 under RCP8.5, winter chill may drop 20–40 Chill Portions on Mediterranean coasts and in North Africa, but only about 10 CP in inland Türkiye.",
+    "claim_tr": "RCP8.5'te 2085'e kadar kış soğuklaması Akdeniz kıyılarında ve Kuzey Afrika'da 20–40 porsiyon, Türkiye'nin iç kesimlerinde ise yalnızca ~10 porsiyon azalabilir.",
+    "metric": "chill",
+    "value_text": "−20 to −40 CP (Med coasts); ≈ −10 CP (inland Türkiye) by 2085",
+    "value_text_tr": "2085'e kadar −20 ile −40 porsiyon (Akdeniz kıyıları); ≈ −10 porsiyon (iç Türkiye)",
+    "direction": "decrease",
+    "region": "Mediterranean coasts and inland Türkiye",
+    "scope": "RCP8.5, 2085 vs historic median 1975–2019, intermediate GCM class (median of 15 GCMs)",
+    "location": "Results (future scenarios), Fig. 6",
+    "ref": "fernandez2023",
+    "model": "agree",
+    "model_note_en": "Our chill hours (SSP5-8.5, 2090s): inland −12 to −18% (Konya, Kütahya), Aegean coast −61 to −63%",
+    "model_note_tr": "Soğuklama saatlerimiz (SSP5-8.5, 2090'lar): iç kesimde %12–18 (Konya, Kütahya), Ege kıyısında %61–63 azalış"
+   },
+   {
+    "claim_en": "IPCC: in Spain under high emissions (A2), 28–72% of years after 2070 could have winters too mild to meet apple chilling needs.",
+    "claim_tr": "IPCC: İspanya'da yüksek emisyon (A2) senaryosunda 2070 sonrası yılların %28–72'sinde kışlar elmanın soğuklama ihtiyacını karşılayamayabilir.",
+    "metric": "chill",
+    "value_text": "28–72 % of years fail chilling requirement",
+    "value_text_tr": "yılların %28–72'sinde soğuklama ihtiyacı karşılanmıyor",
+    "direction": "decrease",
+    "region": "Spain (Mediterranean)",
+    "scope": "After 2070, SRES A2 scenario (Rodríguez et al. 2019)",
+    "location": "CCP4, Table CCP4.1 (Fruit trees), p. 2246",
+    "ref": "ali2022",
+    "model": "agree",
+    "model_note_en": "Our model (SSP5-8.5): apple land −34% (2070s), −60% (2090s); lost chill and summer heat drive it",
+    "model_note_tr": "SSP5-8.5'te elma alanımız 2070'lerde %34, 2090'larda %60 azalıyor; nedenler soğuklama kaybı ve yaz sıcağı"
+   },
+   {
+    "claim_en": "In south-eastern Austria, apple bloom is projected to advance 1.6 ± 0.9 days per decade, reaching early April by 2100, while spring frost risk persists.",
+    "claim_tr": "Güneydoğu Avusturya'da elma çiçeklenmesinin on yılda 1,6 ± 0,9 gün öne kayıp 2100'de Nisan başına ulaşacağı, ilkbahar don riskinin ise süreceği öngörülüyor.",
+    "metric": "phenology",
+    "value_text": "−1.6 ± 0.9 days per decade",
+    "value_text_tr": "on yılda −1,6 ± 0,9 gün",
+    "direction": "shift",
+    "region": "South-eastern Styria (Austria)",
+    "scope": "Phenological model + Austrian climate projections (RCP4.5), to end of 21st century",
+    "location": "Abstract",
+    "ref": "unterberger2018",
+    "model": "na",
+    "model_note_en": "Our model keeps bloom dates fixed and applies an April frost penalty (below −2 °C)",
+    "model_note_tr": "Modelimizde çiçeklenme tarihi sabit; Nisan donu (−2 °C altı) için ceza uygulanır"
+   }
+  ],
+  "pomegranate": [
+   {
+    "claim_en": "In Türkiye's pomegranate region (69 genotypes trialled in Antalya), sunburn and fruit cracking cause yield losses of up to 50% in some years.",
+    "claim_tr": "Türkiye'nin nar bölgesinde (Antalya'da 69 genotiple deneme) güneş yanığı ve meyve çatlaması bazı yıllarda %50'ye varan verim kaybına yol açıyor.",
+    "metric": "yield",
+    "value_text": "up to 50 % yield loss",
+    "value_text_tr": "%50'ye varan verim kaybı",
+    "direction": "decrease",
+    "region": "Türkiye – Antalya (BATEM trial, 69 genotypes)",
+    "scope": "Observed, current climate (2009–2010 trials); late-ripening types most sensitive",
+    "location": "Abstract",
+    "ref": "yazici2017",
+    "model": "na",
+    "model_note_en": "Sunburn is not in our model; pomegranate land +55% to +339% by the 2090s across scenarios",
+    "model_note_tr": "Güneş yanığı modelimizde yok; 2090'larda nar alanı senaryoya göre %55–339 artıyor"
+   },
+   {
+    "claim_en": "Pomegranate sunburn starts when fruit surface temperature exceeds 45–50 °C and can cut yields by 30–40% in the Mediterranean basin.",
+    "claim_tr": "Narda güneş yanığı meyve yüzey sıcaklığı 45–50 °C'yi aştığında başlar ve Akdeniz havzasında verimi %30–40 düşürebilir.",
+    "metric": "temperature",
+    "value_text": "fruit surface >45–50 °C; 30–40 % yield loss",
+    "value_text_tr": "meyve yüzeyi >45–50 °C; %30–40 verim kaybı",
+    "direction": "threshold",
+    "region": "Mediterranean",
+    "scope": "Review synthesis; current climate, risk rising with heat extremes",
+    "location": "Abstract (review)",
+    "ref": "ikinci2025",
+    "model": "na",
+    "model_note_en": "Our model: optimum 20–30 °C (season mean); fruit sunburn is not modelled separately",
+    "model_note_tr": "Modelimiz: optimum 20–30 °C (sezon ortalaması); meyvede güneş yanığı ayrıca modellenmiyor"
+   },
+   {
+    "claim_en": "In Iran, pomegranate habitat is suitable where the coldest-quarter mean is −1.2 to 15.8 °C (peak 7 °C); below −5 °C or above 19 °C it is unsuitable.",
+    "claim_tr": "İran'da nar habitatı en soğuk çeyrek ortalamasının −1,2 ile 15,8 °C (zirve 7 °C) olduğu yerlerde uygun; −5 °C altında veya 19 °C üstünde uygun değil.",
+    "metric": "suitability",
+    "value_text": "Bio11 −1.2 to 15.8 °C (peak 7 °C); unsuitable <−5 °C or >19 °C",
+    "value_text_tr": "Bio11 −1,2 ile 15,8 °C (tepe 7 °C); <−5 °C ya da >19 °C uygun değil",
+    "direction": "threshold",
+    "region": "Eastern Mediterranean – Iran",
+    "scope": "Current-climate MaxEnt habitat model (also projected to mid-century)",
+    "location": "Results (MaxEnt response curves, Fig. 12)",
+    "ref": "farsi2023",
+    "model": "na",
+    "model_note_en": "Our model limits pomegranate by −12 °C frost and a heat sum (2,100–2,700 °C·days above 10 °C); it needs only up to 100 chill hours",
+    "model_note_tr": "Modelimiz narı −12 °C don sınırı ve sıcaklık toplamıyla (10 °C üstü 2.100–2.700 °C·gün) sınırlar; yalnızca 100 saate kadar soğuklama ister"
+   }
+  ],
+  "walnut": [
+   {
+    "claim_en": "Under RCP4.5, highly suitable walnut land in Iran is projected to shrink by about 11% by 2020–2049 (150,433 → 132,525 km²) because of warming.",
+    "claim_tr": "RCP4.5'te İran'da cevize çok uygun alanların ısınma nedeniyle 2020–2049'a kadar yaklaşık %11 daralacağı (150.433 → 132.525 km²) öngörülüyor.",
+    "metric": "suitability",
+    "value_text": "−11.39 % highly suitable area",
+    "value_text_tr": "çok uygun alanda −%11,39",
+    "direction": "decrease",
+    "region": "Iran (neighbouring Türkiye)",
+    "scope": "RCP4.5, ensemble of 21 AOGCMs (NEX-GDDP), 2020–2049 vs 1976–2005",
+    "location": "Results – Phase II",
+    "ref": "vahdati2019",
+    "model": "partly",
+    "model_note_en": "Our model (SSP2-4.5, 2050s): walnut land −3%, but very suitable land +2%",
+    "model_note_tr": "Modelimiz (SSP2-4.5, 2050'ler): ceviz alanı %3 azalıyor, çok uygun alan ise %2 artıyor"
+   },
+   {
+    "claim_en": "In the worst case (RCP8.5, HadGEM2-ES, 2061–2080), less than 15% of walnut's current European range remains as it shifts north.",
+    "claim_tr": "En kötü durumda (RCP8.5, HadGEM2-ES, 2061–2080) cevizin Avrupa'daki mevcut yayılış alanının %15'inden azı kalıyor; tür kuzeye kayıyor.",
+    "metric": "suitability",
+    "value_text": "<15 % of current range remains (worst case)",
+    "value_text_tr": "bugünkü yayılışın <%15'i kalıyor (en kötü durum)",
+    "direction": "decrease",
+    "region": "Europe, incl. Italy and the Balkans",
+    "scope": "RCP8.5, HadGEM2-ES, 2061–2080, MaxEnt; range contracts at the southern edge",
+    "location": "Results – GCM comparison",
+    "ref": "pazdyderska2021",
+    "model": "partly",
+    "model_note_en": "Our model (SSP5-8.5, 2070s): walnut land −10% (range across 8 GCMs −19% to −4%)",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2070'ler): ceviz alanı %10 azalıyor (8 iklim modelinde %4–19 arası)"
+   },
+   {
+    "claim_en": "In California's Central Valley, area meeting 700 chill hours (a common walnut minimum) shrinks to 23–46% by 2041–2060 and 2–10% by 2080–2099.",
+    "claim_tr": "Kaliforniya'nın Central Valley bölgesinde 700 soğuklama saatini (cevizde yaygın alt sınır) karşılayan alan 2041–2060'ta %23–46'ya, 2080–2099'da %2–10'a iniyor.",
+    "metric": "chill",
+    "value_text": "23–46 % of area remains (2041–2060); 2–10 % (2080–2099)",
+    "value_text_tr": "alanın %23–46'sı kalıyor (2041–2060); %2–10 (2080–2099)",
+    "direction": "decrease",
+    "region": "USA – California Central Valley (Mediterranean-type climate)",
+    "scope": "SRES B1/A1B/A2, 3 GCMs, 'safe winter chill' (10 % quantile); pre-2015 reference study",
+    "location": "Results",
+    "ref": "luedeling2009",
+    "model": "agree",
+    "model_note_en": "Our model (SSP5-8.5, 2090s): walnut land −26%, losses mainly from lost winter chill",
+    "model_note_tr": "Modelimiz (SSP5-8.5, 2090'lar): ceviz alanı %26 azalıyor; kayıpların ana nedeni yetersiz kış soğuklaması"
+   }
+  ],
+  "avocado": [
+   {
+    "claim_en": "A GIS multi-criteria analysis of Antalya province found 602 km² most suitable and 653 km² moderately suitable for avocado.",
+    "claim_tr": "Antalya ili için CBS tabanlı çok ölçütlü analiz, avokado için 602 km² en uygun ve 653 km² orta derecede uygun alan belirledi.",
+    "metric": "area",
+    "value_text": "602.12 km² most suitable; 653.14 km² moderately suitable",
+    "value_text_tr": "602,12 km² en uygun; 653,14 km² orta uygun",
+    "direction": "threshold",
+    "region": "Türkiye – Antalya province",
+    "scope": "Current climate baseline; criteria include average and minimum temperature, slope, soil depth, permeability, land-use capability",
+    "location": "Abstract",
+    "ref": "selim2018",
+    "model": "partly",
+    "model_note_en": "Our model: ~1,460 km² of Antalya suitable today; slope is screened, soil depth is not",
+    "model_note_tr": "Modelimiz: Antalya'da bugün ~1.460 km² uygun; eğim dikkate alınıyor, toprak derinliği alınmıyor"
+   },
+   {
+    "claim_en": "In Iberia, winter frost (below 0 °C) and spring nights below 10 °C limit avocado most; about 1.5 million ha in Andalusia and Valencia are potentially suitable.",
+    "claim_tr": "İber Yarımadası'nda avokadoyu en çok kış donu (0 °C altı) ve 10 °C altı ilkbahar geceleri sınırlıyor; Endülüs ve Valensiya'da ~1,5 milyon ha uygun olabilir.",
+    "metric": "suitability",
+    "value_text": "<0 °C winter; Tmin <10 °C in Mar–Apr; ~1,500,000 ha suitable",
+    "value_text_tr": "kışın <0 °C; mart–nisanda Tmin <10 °C; ~1.500.000 ha uygun",
+    "direction": "threshold",
+    "region": "Iberian Peninsula (Spain, Portugal, Balearics)",
+    "scope": "Observed daily climate 1975–2022 (present-day suitability map)",
+    "location": "Abstract",
+    "ref": "dominguez2024",
+    "model": "agree",
+    "model_note_en": "Our model also limits avocado by cold: −2 °C frost-kill and a coldest-month mean of 8–11 °C",
+    "model_note_tr": "Modelimiz de avokadoyu soğukla sınırlar: −2 °C don öldürme sınırı ve 8–11 °C en soğuk ay ortalaması"
+   },
+   {
+    "claim_en": "Globally, highly suitable avocado land shrinks 13.7% (RCP2.6) to 41.3% (RCP8.5) by 2050, while moderately suitable land grows 12–20%.",
+    "claim_tr": "Küresel ölçekte avokadoya çok uygun alan 2050'ye kadar %13,7 (RCP2.6) ile %41,3 (RCP8.5) daralırken orta uygun alan %12–20 genişliyor.",
+    "metric": "suitability",
+    "value_text": "S1 area −13.7 / −20.7 / −41.3 % (RCP2.6 / 4.5 / 8.5); S2 +11.9 / +15.9 / +19.8 %",
+    "value_text_tr": "S1 alanı −%13,7 / −%20,7 / −%41,3 (RCP2.6 / 4.5 / 8.5); S2 +%11,9 / +%15,9 / +%19,8",
+    "direction": "mixed",
+    "region": "Global",
+    "scope": "2050 vs 2000; RCP2.6, RCP4.5, RCP8.5; 14 GCMs; FAO-type land evaluation (climate + soil); Discussion notes suitability rising on the Antalya coast",
+    "location": "Table 5 (avocado, world total); Discussion",
+    "ref": "gruter2022",
+    "model": "partly",
+    "model_note_en": "Our model (2050s): Türkiye avocado land +82% to +121%, like the Antalya-coast gain noted here",
+    "model_note_tr": "Modelimiz (2050'ler): avokado alanı %82–121 artıyor; çalışmanın Antalya kıyısındaki artış bulgusuyla uyumlu"
+   }
+  ],
+  "mango": [
+   {
+    "claim_en": "In China, mango-suitable land is projected to grow from 5.0% to 11.6% of the country by 2081–2100 under SSP5-8.5 (6.7% under SSP1-2.6).",
+    "claim_tr": "Çin'de mangoya uygun alanın SSP5-8.5'te 2081–2100'e kadar ülkenin %5,0'ından %11,6'sına çıkacağı öngörülüyor (SSP1-2.6'da %6,7).",
+    "metric": "suitability",
+    "value_text": "481,081 → 1,113,811 km² (5.01 % → 11.60 %)",
+    "value_text_tr": "481.081 → 1.113.811 km² (%5,01 → %11,60)",
+    "direction": "increase",
+    "region": "China (subtropical analogue for poleward expansion)",
+    "scope": "SSP5-8.5, 2081–2100 vs current, CMIP6; under SSP1-2.6 2081–2100 the share is 6.71 %",
+    "location": "Table 3 (area km² and % of China)",
+    "ref": "yi2025",
+    "model": "agree",
+    "model_note_en": "Our model: mango land 0.16 Mha today → 1.3 Mha (SSP1-2.6) or 4.2 Mha (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz: mango alanı bugün 0,16 milyon ha → 2090'larda 1,3 (SSP1-2.6) veya 4,2 milyon ha (SSP5-8.5)"
+   },
+   {
+    "claim_en": "In China, mango is modelled as suitable only where the coldest-quarter mean temperature exceeds ~9.3 °C, the model's strongest factor (71%).",
+    "claim_tr": "Çin'de mango yalnızca en soğuk çeyrek ortalama sıcaklığının ~9,3 °C'yi aştığı yerlerde uygun bulunuyor; bu, modelin en güçlü değişkeni (%71 katkı).",
+    "metric": "temperature",
+    "value_text": "coldest-quarter mean > 9.29 °C (71.3 % model contribution)",
+    "value_text_tr": "en soğuk çeyrek ortalaması > 9,29 °C (model katkısı %71,3)",
+    "direction": "threshold",
+    "region": "China (subtropical analogue)",
+    "scope": "MaxEnt model, current climate; species-level cold requirement",
+    "location": "Results (response curves); contribution 71.3 % in Table 1",
+    "ref": "yi2025",
+    "model": "agree",
+    "model_note_en": "Our model uses a similar cold limit: a coldest-month mean ramp of 9–13 °C",
+    "model_note_tr": "Modelimiz benzer bir soğuk sınırı kullanır: en soğuk ay ortalaması için 9–13 °C kademesi"
+   },
+   {
+    "claim_en": "Mango orchards in Sicily (38°N) saw extremes of 2.5 °C to 43 °C in 2018–2022, while Tenerife and La Réunion had daily means of 18–27 °C.",
+    "claim_tr": "Sicilya'daki (38°K) mango bahçeleri 2018–2022'de 2,5 °C ile 43 °C arasında uç değerler yaşarken Tenerife ve La Réunion'da günlük ortalamalar 18–27 °C idi.",
+    "metric": "temperature",
+    "value_text": "absolute range 2.5–43 °C (Sicily) vs daily means 18–27 °C (Tenerife, Réunion)",
+    "value_text_tr": "uç değerler 2,5–43 °C (Sicilya); günlük ortalamalar 18–27 °C (Tenerife, Réunion)",
+    "direction": "threshold",
+    "region": "Sicily, Italy (Mediterranean); compared with Tenerife and La Réunion",
+    "scope": "Observed orchard weather stations, 2018–2022",
+    "location": "Abstract",
+    "ref": "scuderi2025",
+    "model": "na",
+    "model_note_en": "Our model finds 0.16 Mha suitable for mango in Türkiye today (1991–2020)",
+    "model_note_tr": "Modelimiz bugün (1991–2020) Türkiye'de mango için 0,16 milyon ha uygun alan buluyor"
+   }
+  ],
+  "banana": [
+   {
+    "claim_en": "On Türkiye's subtropical coast, greenhouse bananas gave 40 kg bunches against 27 kg in the open field, and ripened about 25 days sooner.",
+    "claim_tr": "Türkiye'nin subtropik kıyısında serada yetişen muz, açık alandaki 27 kg'a karşı 40 kg'lık hevenk verdi ve yaklaşık 25 gün daha erken olgunlaştı.",
+    "metric": "yield",
+    "value_text": "bunch 40 kg vs 27 kg; maturation ~25 days shorter",
+    "value_text_tr": "hevenk 40 kg (açıkta 27 kg); ~25 gün erken olgunlaşma",
+    "direction": "increase",
+    "region": "Türkiye (subtropical Mediterranean coast)",
+    "scope": "Greenhouse vs open-field 'Dwarf Cavendish', current climate",
+    "location": "Abstract",
+    "ref": "gubbuk2018",
+    "model": "na",
+    "model_note_en": "Our model covers open-field banana only: 0.16 Mha suitable today (1991–2020)",
+    "model_note_tr": "Modelimiz yalnızca açık alan muzunu kapsar: bugün (1991–2020) 0,16 milyon ha uygun"
+   },
+   {
+    "claim_en": "In unheated greenhouses in Alanya, the local 'Azman' banana yielded 69.3 t/ha per year against 52 t/ha for 'Dwarf Cavendish'.",
+    "claim_tr": "Alanya'da ısıtılmayan seralarda yerel 'Azman' muzu yılda 69,3 t/ha verim verirken 'Dwarf Cavendish' 52 t/ha verdi.",
+    "metric": "yield",
+    "value_text": "69.3 vs 52 t ha⁻¹ yr⁻¹",
+    "value_text_tr": "69,3 ile 52 t ha⁻¹ yıl⁻¹",
+    "direction": "increase",
+    "region": "Türkiye – Alanya (Antalya)",
+    "scope": "Unheated plastic greenhouse, 2014–2015, 1850 plants/ha",
+    "location": "Abstract",
+    "ref": "altinkaya2016",
+    "model": "na",
+    "model_note_en": "Greenhouses are outside our open-field model, which shows open-field land expanding with warming",
+    "model_note_tr": "Seralar açık alan modelimizin dışında; model ısınmayla açık alan muzunun genişlediğini gösteriyor"
+   },
+   {
+    "claim_en": "Under SSP2-4.5 (2061–2080), land suitable for export banana in Latin America and the Caribbean shrinks 60% once climate and socio-economic limits combine.",
+    "claim_tr": "SSP2-4.5'te (2061–2080) Latin Amerika ve Karayipler'de ihracatlık muza uygun alan, iklim ve sosyoekonomik kısıtlar birlikte ele alındığında %60 daralıyor.",
+    "metric": "suitability",
+    "value_text": "−60 % suitable area",
+    "value_text_tr": "uygun alanda −%60",
+    "direction": "decrease",
+    "region": "Latin America and the Caribbean",
+    "scope": "SSP2-4.5, 2061–2080, ensemble of 12 CMIP6 GCMs vs 1970–2000; −41 % if irrigation expands",
+    "location": "Results (also stated in Abstract)",
+    "ref": "varma2025",
+    "model": "differs",
+    "model_note_en": "At Türkiye's cool margin our open-field banana land grows: 0.16 → 1.73 Mha (SSP2-4.5, 2070s)",
+    "model_note_tr": "Türkiye'nin serin sınırında açık alan muz alanımız artıyor: 0,16 → 1,73 milyon ha (SSP2-4.5, 2070'ler)"
+   }
+  ],
+  "pitaya": [
+   {
+    "claim_en": "In Antalya greenhouses (2018–2021), pitaya given 75% of full irrigation yielded 7,170 kg/ha, more than the 5,784 kg/ha under full irrigation.",
+    "claim_tr": "Antalya'daki seralarda (2018–2021) tam sulamanın %75'iyle sulanan pitaya 7.170 kg/ha verim verdi; bu, tam sulamadaki 5.784 kg/ha'dan fazla.",
+    "metric": "water",
+    "value_text": "DI75 7,169.6 vs FULL 5,783.9 kg/ha; irrigation water 27.6–83.8 mm",
+    "value_text_tr": "DI75 7.169,6, tam sulama 5.783,9 kg/ha; sulama suyu 27,6–83,8 mm",
+    "direction": "decrease",
+    "region": "Türkiye – Antalya",
+    "scope": "Greenhouse, 'Vietnamese Jaina', drip irrigation, 2018–2021",
+    "location": "Abstract",
+    "ref": "kaman2025",
+    "model": "na",
+    "model_note_en": "Our model (irrigated): pitaya land 0.40 Mha today, ×4.2 (SSP1-2.6) to ×14 (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz (sulu): pitaya alanı bugün 0,40 milyon ha; 2090'larda 4,2 kat (SSP1-2.6) ile 14 kat (SSP5-8.5)"
+   },
+   {
+    "claim_en": "In Israel, pitaya yielded 28–34 t/ha on the coast but only 5 t/ha in the hot Arava valley, where high summer temperatures restricted flowering.",
+    "claim_tr": "İsrail'de pitaya kıyıda 28–34 t/ha verim verirken, yüksek yaz sıcaklıklarının çiçeklenmeyi kısıtladığı sıcak Arava vadisinde yalnızca 5 t/ha verdi.",
+    "metric": "yield",
+    "value_text": "34 and 28 t/ha (coast) vs 5 t/ha (Arava valley)",
+    "value_text_tr": "34 ve 28 t/ha (kıyı), 5 t/ha (Arava vadisi)",
+    "direction": "decrease",
+    "region": "Israel (Eastern Mediterranean)",
+    "scope": "Five years after planting, observed climate; Qetura was also irrigated with saline water",
+    "location": "Abstract",
+    "ref": "nerd2002",
+    "model": "na",
+    "model_note_en": "Our model: optimum 20–30 °C with 38 °C as the upper limit; flowering heat is not modelled separately",
+    "model_note_tr": "Modelimiz: optimum 20–30 °C, üst sınır 38 °C; çiçeklenmedeki sıcak stresi ayrıca modellenmiyor"
+   },
+   {
+    "claim_en": "Pitaya (Hylocereus undatus) takes up the most CO2 at 30/20 °C day/night; at 40/30 °C its stems show necrosis within 6 weeks.",
+    "claim_tr": "Pitaya (Hylocereus undatus) en fazla CO2'yi 30/20 °C gündüz/gece sıcaklığında alır; 40/30 °C'de 6 hafta içinde gövdelerde doku ölümü görülür.",
+    "metric": "temperature",
+    "value_text": "optimum 30/20 °C; stem necrosis at 40/30 °C (6 weeks)",
+    "value_text_tr": "optimum 30/20 °C; 40/30 °C'de gövde nekrozu (6 hafta)",
+    "direction": "threshold",
+    "region": "Species-level (controlled environment)",
+    "scope": "Growth-chamber day/night temperature experiments",
+    "location": "Abstract",
+    "ref": "nobel2002",
+    "model": "agree",
+    "model_note_en": "Consistent with our optimum of 20–30 °C and upper limit of 38 °C",
+    "model_note_tr": "Modelimizin 20–30 °C optimumu ve 38 °C üst sınırıyla uyumlu"
+   }
+  ],
+  "quinoa": [
+   {
+    "claim_en": "Quinoa tolerates a wide temperature range, but temperatures above 35 °C at flowering and seed fill significantly reduce yield.",
+    "claim_tr": "Kinoa geniş bir sıcaklık aralığına dayanır, ancak çiçeklenme ve tane dolumu sırasında 35 °C'nin üzerindeki sıcaklıklar verimi önemli ölçüde düşürür.",
+    "metric": "temperature",
+    "value_text": ">35 °C at flowering/seed fill",
+    "value_text_tr": "çiçeklenme ve tane dolumunda >35 °C",
+    "direction": "threshold",
+    "region": "Global review (field evidence incl. Pullman, WA, USA)",
+    "scope": "Reproductive-stage heat stress; review of experimental studies",
+    "location": "Full text, Section 4.2 (High temperature effects)",
+    "ref": "hinojosa2018",
+    "model": "agree",
+    "model_note_en": "Our model also finds heat the main limit: quinoa land −38% by the 2090s (SSP5-8.5)",
+    "model_note_tr": "Modelimizde de ana sınır sıcak: kinoa alanı 2090'larda %38 azalıyor (SSP5-8.5)"
+   },
+   {
+    "claim_en": "In Türkiye's eastern Mediterranean, regulated deficit irrigation saved 21–23% water in quinoa with grain yields similar to full irrigation.",
+    "claim_tr": "Türkiye'nin Doğu Akdeniz bölgesinde kinoada kontrollü kısıntılı sulama, tam sulamaya benzer tane verimiyle %21–23 su tasarrufu sağladı.",
+    "metric": "water",
+    "value_text": "−21 to −23 % irrigation water, yield unchanged",
+    "value_text_tr": "sulama suyunda −%21 ile −%23, verim değişmiyor",
+    "direction": "decrease",
+    "region": "Türkiye – Eastern Mediterranean region",
+    "scope": "Field trials 2016–2017; regulated deficit irrigation vs full irrigation, surface and subsurface drip",
+    "location": "Abstract",
+    "ref": "bozkurtcolak2021",
+    "model": "na",
+    "model_note_en": "Our model treats quinoa as rain-fed; irrigation options are not mapped",
+    "model_note_tr": "Modelimiz kinoayı kuru tarım olarak ele alır; sulama seçenekleri haritalanmaz"
+   },
+   {
+    "claim_en": "Field trials in Adana: quinoa grain yield was only slightly reduced by irrigation water salinity up to 30 dS/m.",
+    "claim_tr": "Adana'daki tarla denemelerinde kinoa tane verimi, 30 dS/m'ye kadar tuzlu sulama suyuyla yalnızca hafifçe azaldı.",
+    "metric": "water",
+    "value_text": "salinity up to 30 dS m⁻¹ → slight yield reduction",
+    "value_text_tr": "30 dS m⁻¹ düzeyine varan tuzluluk → hafif verim düşüşü",
+    "direction": "threshold",
+    "region": "Türkiye – Adana (Mediterranean climate)",
+    "scope": "Field experiments 2010–2012, cv. Titicaca; saline vs fresh water irrigation",
+    "location": "Abstract",
+    "ref": "yazar2015",
+    "model": "na",
+    "model_note_en": "Salinity is not in our model; quinoa's soil limit there is pH (optimum 5.5–8.0)",
+    "model_note_tr": "Tuzluluk modelimizde yok; kinoa için toprak sınırı pH (optimum 5,5–8,0)"
+   }
+  ],
+  "sorghum": [
+   {
+    "claim_en": "By the end of the century, sorghum yields drop by up to 1.5 t/ha in southern Europe but rise by up to 3 t/ha in northern Europe in most scenarios.",
+    "claim_tr": "Senaryoların çoğunda yüzyıl sonuna kadar sorgum verimi Güney Avrupa'da 1,5 t/ha'ya kadar düşerken Kuzey Avrupa'da 3 t/ha'ya kadar artıyor.",
+    "metric": "yield",
+    "value_text": "up to −1.5 t/ha (south); up to +3 t/ha (north)",
+    "value_text_tr": "−1,5 t/ha'ya varan (güney); +3 t/ha'ya varan (kuzey)",
+    "direction": "shift",
+    "region": "Europe (model trained on France, Italy, Spain, USA)",
+    "scope": "End of 21st century, almost all climate change scenarios; machine-learning yield model",
+    "location": "Abstract",
+    "ref": "davoudkhani2026",
+    "model": "na",
+    "model_note_en": "Our model maps land, not yield: sorghum land +31% (SSP1-2.6) to +37% (SSP5-8.5) by the 2090s",
+    "model_note_tr": "Modelimiz verimi değil alanı gösterir: 2090'larda sorgum alanı %31 (SSP1-2.6) ile %37 (SSP5-8.5) artıyor"
+   },
+   {
+    "claim_en": "In Kansas field trials, sorghum yields start to decline above 33 °C; uniform warming of 2 °C and 4 °C cuts yields by roughly 17% and 44%.",
+    "claim_tr": "Kansas tarla denemelerinde sorgum verimi 33 °C'nin üzerinde düşmeye başlıyor; 2 °C ve 4 °C'lik ısınma verimi yaklaşık %17 ve %44 azaltıyor.",
+    "metric": "yield",
+    "value_text": "threshold 33 °C; −17 % (+2 °C), −44 % (+4 °C)",
+    "value_text_tr": "eşik 33 °C; −%17 (+2 °C), −%44 (+4 °C)",
+    "direction": "decrease",
+    "region": "USA (Kansas field trials, 408 hybrids)",
+    "scope": "Field-trial data 1985–2014; uniform warming scenarios +2 °C and +4 °C (average −10 % per °C for +1 to +5 °C)",
+    "location": "Abstract",
+    "ref": "tack2017",
+    "model": "na",
+    "model_note_en": "Our model: optimum 24–35 °C (season mean); heat drives losses only under SSP5-8.5 by the 2090s",
+    "model_note_tr": "Modelimiz: optimum 24–35 °C (sezon ortalaması); sıcak, yalnızca SSP5-8.5 2090'larda ana kayıp nedeni"
+   },
+   {
+    "claim_en": "Daily mean temperatures above 25 °C at panicle emergence reduce sorghum floret fertility, which falls to zero at 37 °C.",
+    "claim_tr": "Salkım çıkışında 25 °C'nin üzerindeki günlük ortalama sıcaklıklar sorgumda çiçek fertilitesini düşürür; 37 °C'de fertilite sıfıra iner.",
+    "metric": "temperature",
+    "value_text": ">25 °C reduces fertility; 0 % fertility at 37 °C",
+    "value_text_tr": ">25 °C fertiliteyi düşürür; 37 °C'de fertilite %0",
+    "direction": "threshold",
+    "region": "Controlled environment and field heat tents (Kansas, USA)",
+    "scope": "High-temperature stress imposed at start of panicle emergence (reproductive stage)",
+    "location": "Abstract",
+    "ref": "prasad2015",
+    "model": "na",
+    "model_note_en": "Short heat spells at flowering are not modelled; our model uses season-mean temperature",
+    "model_note_tr": "Çiçeklenmedeki kısa sıcak dalgaları modellenmiyor; modelimiz sezon ortalaması sıcaklığı kullanır"
+   }
+  ],
+  "carob": [
+   {
+    "claim_en": "Carob looks climate-resilient in Morocco: its suitable area shrinks by only about 1.0–1.4% by 2050–2070 under RCP4.5 and RCP8.5.",
+    "claim_tr": "Keçiboynuzu Fas'ta iklime dayanıklı görünüyor: uygun alanı RCP4.5 ve RCP8.5'te 2050–2070'e kadar yalnızca yaklaşık %1,0–1,4 daralıyor.",
+    "metric": "suitability",
+    "value_text": "−1.18 % (2050), −1.39 % (2070) under RCP4.5; −1.11 % / −0.99 % under RCP8.5",
+    "value_text_tr": "RCP4.5'te −%1,18 (2050), −%1,39 (2070); RCP8.5'te −%1,11 / −%0,99",
+    "direction": "decrease",
+    "region": "Morocco – western Mediterranean",
+    "scope": "RCP4.5 and RCP8.5, 2050 and 2070, MaxEnt with 303 occurrences",
+    "location": "Results",
+    "ref": "kassout2024",
+    "model": "partly",
+    "model_note_en": "Both find carob resilient; our model loses almost no land and gains +76% to +163% by the 2050s",
+    "model_note_tr": "İkisi de keçiboynuzunu dayanıklı buluyor; modelimizde neredeyse hiç kayıp yok, 2050'lerde alan %76–163 artıyor"
+   },
+   {
+    "claim_en": "In 30 years of a rain-fed Algarve orchard, autumn means of 22.0–24.5 °C went with good flowering and yield (not significant); wetter autumns cut yield.",
+    "claim_tr": "Algarve'de bir kuru tarım bahçesinde 30 yılda 22,0–24,5 °C sonbahar ortalamaları iyi çiçeklenme ve verimle örtüştü (anlamlı değil); yağışlı güzde verim düştü.",
+    "metric": "temperature",
+    "value_text": "SON mean 22.0–24.5 °C",
+    "value_text_tr": "sonbahar (eylül–kasım) ortalaması 22,0–24,5 °C",
+    "direction": "threshold",
+    "region": "Portugal – Algarve",
+    "scope": "Observed 1985–2015, one rainfed orchard; temperature effect not statistically significant; RCP4.5/8.5 project drier autumns",
+    "location": "Abstract",
+    "ref": "correia2020",
+    "model": "na",
+    "model_note_en": "Our model judges carob on annual mean temperature (optimum 17–26 °C), frost and winter mildness",
+    "model_note_tr": "Modelimiz keçiboynuzunu yıllık ortalama sıcaklık (optimum 17–26 °C), don ve kış ılıklığıyla değerlendirir"
+   }
+  ],
+  "safflower": [
+   {
+    "claim_en": "In Central Anatolia, safflower averaged 1,540 kg/ha in dry 2021 versus 2,390 kg/ha in wetter 2022 (about 36% lower), showing strong rainfall sensitivity.",
+    "claim_tr": "İç Anadolu'da aspir kurak 2021'de ortalama 1.540 kg/ha, daha yağışlı 2022'de 2.390 kg/ha verdi (yaklaşık %36 daha düşük); yağışa duyarlılığı yüksek.",
+    "metric": "yield",
+    "value_text": "1540 vs 2390 kg/ha (≈ −36 % in dry year)",
+    "value_text_tr": "1.540 ile 2.390 kg/ha (kurak yılda ≈ −%36)",
+    "direction": "decrease",
+    "region": "Türkiye – Central Anatolia",
+    "scope": "Field trials, 2021 (dry) vs 2022 (wetter) seasons",
+    "location": "Abstract",
+    "ref": "koc2024",
+    "model": "na",
+    "model_note_en": "Our model (rain-fed, spring or autumn sowing): safflower land grows +8% to +13% by the 2090s across scenarios",
+    "model_note_tr": "Modelimiz (kuru tarım, ilkbahar ya da sonbahar ekimi): 2090'larda aspir alanı senaryoya göre %8–13 artıyor"
+   },
+   {
+    "claim_en": "In Tekirdağ (Thrace), delaying spring sowing of safflower from 20 February to 5 April cut seed yield by 418–553 kg/ha; earliest sowing is advised.",
+    "claim_tr": "Tekirdağ'da (Trakya) aspirin ilkbahar ekimini 20 Şubat'tan 5 Nisan'a geciktirmek tane verimini 418–553 kg/ha düşürdü; en erken ekim öneriliyor.",
+    "metric": "yield",
+    "value_text": "−418 to −553 kg/ha with later sowing",
+    "value_text_tr": "geç ekimle −418 ile −553 kg/ha",
+    "direction": "decrease",
+    "region": "Türkiye – Thrace (Tekirdağ: Süleymanpaşa, Malkara)",
+    "scope": "Spring sowing dates 20 Feb–5 Apr, 2017 and 2018, two cultivars",
+    "location": "Abstract",
+    "ref": "culpan2023",
+    "model": "na",
+    "model_note_en": "Our map picks the best sowing window, spring or autumn; yield differences between sowing dates are not modelled",
+    "model_note_tr": "Haritamız en iyi ekim penceresini (ilkbahar ya da sonbahar) seçer; ekim tarihleri arasındaki verim farkı modellenmez"
+   },
+   {
+    "claim_en": "Safflower tolerates −7 to 40 °C if there is no frost at elongation or flowering; above 32 °C at flowering, pollination and seed set suffer.",
+    "claim_tr": "Aspir, sapa kalkma ve çiçeklenmede don olmadıkça −7 ile 40 °C arasına dayanır; çiçeklenmede 32 °C'nin üzerindeki sıcaklıklar tozlanmayı ve tane bağlamayı bozar.",
+    "metric": "temperature",
+    "value_text": "−7 to 40 °C range; >32 °C at flowering harmful",
+    "value_text_tr": "−7 ile 40 °C aralığı; çiçeklenmede >32 °C zararlı",
+    "direction": "threshold",
+    "region": "Global (review)",
+    "scope": "Crop temperature tolerance limits (review citing Mundel et al. 1992; pre-2015)",
+    "location": "Main text (review)",
+    "ref": "emongor2010",
+    "model": "agree",
+    "model_note_en": "Our model uses −7 °C as the frost-kill limit and 38 °C as the upper limit",
+    "model_note_tr": "Modelimiz don öldürme sınırı olarak −7 °C, üst sınır olarak 38 °C kullanır"
+   }
+  ]
+ },
+ "references": [
+  {
+   "key": "akcay2023",
+   "short": "Akçay & Doğan 2023",
+   "full": "Akçay, S., Doğan, P. (2023). Response of young fig (Ficus carica cv. Sarılop) trees to different irrigation levels in a semi-arid mediterranean environment. Journal of Elementology 28(3).",
+   "doi": "10.5601/jelem.2023.28.3.3058",
+   "url": "https://doi.org/10.5601/jelem.2023.28.3.3058"
+  },
+  {
+   "key": "ali2022",
+   "short": "Ali et al. 2022 (AR6 WGII CCP4)",
+   "full": "Ali, E. et al. (2022). Cross-Chapter Paper 4: Mediterranean Region. In: Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the IPCC. Cambridge University Press, pp. 2233–2272.",
+   "doi": "10.1017/9781009325844.021",
+   "url": "https://doi.org/10.1017/9781009325844.021"
+  },
+  {
+   "key": "alsamir2021",
+   "short": "Alsamir et al. 2021",
+   "full": "Alsamir, M. et al. (2021). An overview of heat stress in tomato (Solanum lycopersicum L.). Saudi Journal of Biological Sciences 28(3), 1654–1663.",
+   "doi": "10.1016/j.sjbs.2020.11.088",
+   "url": "https://doi.org/10.1016/j.sjbs.2020.11.088"
+  },
+  {
+   "key": "altinkaya2016",
+   "short": "Altinkaya et al. 2016",
+   "full": "Altinkaya, L. et al. (2016). Greenhouse cultivation of banana: very favorable crop in Turkey. Acta Horticulturae 1139, 487–490.",
+   "doi": "10.17660/ActaHortic.2016.1139.83",
+   "url": "https://doi.org/10.17660/ActaHortic.2016.1139.83"
+  },
+  {
+   "key": "an2020",
+   "short": "An et al. 2020",
+   "full": "An, N. et al. (2020). Mid-Term Impact of Climate Change on Hazelnut Yield. Agriculture 10(5), 159.",
+   "doi": "10.3390/agriculture10050159",
+   "url": "https://doi.org/10.3390/agriculture10050159"
+  },
+  {
+   "key": "arenascastro2020",
+   "short": "Arenas-Castro et al. 2020",
+   "full": "Arenas-Castro, S. et al. (2020). Projected climate changes are expected to decrease the suitability and production of olive varieties in southern Spain. Science of the Total Environment 709, 136161.",
+   "doi": "10.1016/j.scitotenv.2019.136161",
+   "url": "https://doi.org/10.1016/j.scitotenv.2019.136161"
+  },
+  {
+   "key": "balcioglu2022",
+   "short": "Balcıoğlu et al. 2022",
+   "full": "Balcıoğlu, Y.E. et al. (2022). İklim Değişikliğinin Malatya İlinde Kayısı Rekoltesi ve Coğrafi Dağılışına Etkileri [Effects of Climate Change on Apricot Harvest and Geographical Distribution in Malatya Province]. JENAS Journal of Environmental and Natural Studies 4(2), 119–146.",
+   "doi": "10.53472/jenas.1136337",
+   "url": "https://doi.org/10.53472/jenas.1136337"
+  },
+  {
+   "key": "baydar2026",
+   "short": "Baydar 2026",
+   "full": "Baydar, A. (2026). Assessing rice yield responses to climate change scenarios using a crop simulation model. PeerJ 14, e20965.",
+   "doi": "10.7717/peerj.20965",
+   "url": "https://doi.org/10.7717/peerj.20965"
+  },
+  {
+   "key": "baydar2025",
+   "short": "Baydar et al. 2025",
+   "full": "Baydar, A. et al. (2025). Simulating the Effects of Climatic Changes on Tomato Using Regional Climate Model and DSSAT Crop Simulation Model. ISPEC Journal of Agricultural Sciences 9(2), 484–499.",
+   "doi": "10.5281/zenodo.15038117",
+   "url": "https://doi.org/10.5281/zenodo.15038117"
+  },
+  {
+   "key": "bagcaci2021",
+   "short": "Bağçacı et al. 2021",
+   "full": "Bağçacı, S.Ç. et al. (2021). Intercomparison of the expected change in the temperature and the precipitation retrieved from CMIP6 and CMIP5 climate projections: A Mediterranean hot spot case, Turkey. Atmospheric Research 256, 105576.",
+   "doi": "10.1016/j.atmosres.2021.105576",
+   "url": "https://doi.org/10.1016/j.atmosres.2021.105576"
+  },
+  {
+   "key": "benmoussa2017",
+   "short": "Benmoussa et al. 2017",
+   "full": "Benmoussa, H. et al. (2017). Performance of pistachio (Pistacia vera L.) in warming Mediterranean orchards. Environmental and Experimental Botany 140, 76–85.",
+   "doi": "10.1016/j.envexpbot.2017.05.007",
+   "url": "https://doi.org/10.1016/j.envexpbot.2017.05.007"
+  },
+  {
+   "key": "boutiti2025",
+   "short": "Boutiti et al. 2025",
+   "full": "Boutiti, K. et al. (2025). A Study of Chill and Heat Requirements of Resilient Apricot (Prunus armeniaca) Varieties in Response to Climate Change. International Journal of Horticultural Science and Technology 12(1), 167–178.",
+   "doi": "10.22059/ijhst.2024.374067.801",
+   "url": "https://doi.org/10.22059/ijhst.2024.374067.801"
+  },
+  {
+   "key": "bozkurtcolak2021",
+   "short": "Bozkurt Çolak et al. 2021",
+   "full": "Bozkurt Çolak, Y. et al. (2021). Yield and water productivity response of quinoa to various deficit irrigation regimes applied with surface and subsurface drip systems. The Journal of Agricultural Science 159(1–2), 116–127.",
+   "doi": "10.1017/S0021859621000265",
+   "url": "https://doi.org/10.1017/S0021859621000265"
+  },
+  {
+   "key": "cammarano2019",
+   "short": "Cammarano et al. 2019",
+   "full": "Cammarano, D. et al. (2019). The impact of climate change on barley yield in the Mediterranean basin. European Journal of Agronomy 106, 1–11.",
+   "doi": "10.1016/j.eja.2019.03.002",
+   "url": "https://doi.org/10.1016/j.eja.2019.03.002"
+  },
+  {
+   "key": "cammarano2022",
+   "short": "Cammarano et al. 2022",
+   "full": "Cammarano, D. et al. (2022). Processing tomato production is expected to decrease by 2050 due to the projected increase in temperature. Nature Food 3(6), 437–444.",
+   "doi": "10.1038/s43016-022-00521-y",
+   "url": "https://doi.org/10.1038/s43016-022-00521-y"
+  },
+  {
+   "key": "choukri2025",
+   "short": "Choukri et al. 2025",
+   "full": "Choukri, H. et al. (2025). Variation of Seed Yield and Nutritional Quality Traits of Lentil (Lens culinaris Medikus) Under Heat and Combined Heat and Drought Stresses. Plants 14(13), 2019.",
+   "doi": "10.3390/plants14132019",
+   "url": "https://doi.org/10.3390/plants14132019"
+  },
+  {
+   "key": "correia2020",
+   "short": "Correia et al. 2020",
+   "full": "Correia, P.J. et al. (2020). Evaluation of Carob Tree Productivity during a 30-Year Period, in Relation to Precipitation and Air Temperature. Environmental Processes 7(4), 1221–1233.",
+   "doi": "10.1007/s40710-020-00466-z",
+   "url": "https://doi.org/10.1007/s40710-020-00466-z"
+  },
+  {
+   "key": "culpan2023",
+   "short": "Culpan 2023",
+   "full": "Culpan, E. (2023). Effect of sowing dates on seed yield, yield traits and oil content of safflower in northwest Turkey. Turkish Journal of Field Crops 28(1), 87–93.",
+   "doi": "10.17557/tjfc.1194005",
+   "url": "https://doi.org/10.17557/tjfc.1194005"
+  },
+  {
+   "key": "dahal2019",
+   "short": "Dahal et al. 2019",
+   "full": "Dahal, K. et al. (2019). Improving Potato Stress Tolerance and Tuber Yield Under a Climate Change Scenario – A Current Overview. Frontiers in Plant Science 10, 563.",
+   "doi": "10.3389/fpls.2019.00563",
+   "url": "https://doi.org/10.3389/fpls.2019.00563"
+  },
+  {
+   "key": "davoudkhani2026",
+   "short": "Davoudkhani et al. 2026",
+   "full": "Davoudkhani, M. et al. (2026). Potential for Expanding Sorghum Production in Europe in the Face of Climate Change. Earth's Future 14(10), e2025EF007503.",
+   "doi": "10.1029/2025EF007503",
+   "url": "https://doi.org/10.1029/2025EF007503"
+  },
+  {
+   "key": "demircan2017",
+   "short": "Demircan et al. 2017",
+   "full": "Demircan, M. et al. (2017). Climate Change Projections for Turkey: Three Models and Two Scenarios. Turkish Journal of Water Science and Management 1(1), 22–43.",
+   "doi": "10.31807/tjwsm.297183",
+   "url": "https://doi.org/10.31807/tjwsm.297183"
+  },
+  {
+   "key": "demirdogen2024",
+   "short": "Demirdogen et al. 2024",
+   "full": "Demirdogen, A. et al. (2024). The impact of climate change on wheat in Turkey. Regional Environmental Change 24(1), 20.",
+   "doi": "10.1007/s10113-023-02172-6",
+   "url": "https://doi.org/10.1007/s10113-023-02172-6"
+  },
+  {
+   "key": "devasirvatham2015",
+   "short": "Devasirvatham et al. 2015",
+   "full": "Devasirvatham, V. et al. (2015). Field response of chickpea (Cicer arietinum L.) to high temperature. Field Crops Research 172, 59–71.",
+   "doi": "10.1016/j.fcr.2014.11.017",
+   "url": "https://doi.org/10.1016/j.fcr.2014.11.017"
+  },
+  {
+   "key": "dominguez2024",
+   "short": "Domínguez et al. 2024",
+   "full": "Domínguez, A. et al. (2024). Identifying Optimal Zones for Avocado (Persea americana Mill) Cultivation in Iberian Peninsula: A Climate Suitability Analysis. Land 13(8), 1290.",
+   "doi": "10.3390/land13081290",
+   "url": "https://doi.org/10.3390/land13081290"
+  },
+  {
+   "key": "dogan2025",
+   "short": "Doğan & Tekeş Düdükçü 2025",
+   "full": "Doğan, M., Tekeş Düdükçü, A. (2025). Impacts of Climate Change on the Distribution of Pistachio (Pistacia vera L.) and Adaptation Strategies. Turkish Journal of Agriculture – Food Science and Technology 13(s2), 3663–3677.",
+   "doi": "10.24925/turjaf.v13is2.3663-3677.8384",
+   "url": "https://doi.org/10.24925/turjaf.v13is2.3663-3677.8384"
+  },
+  {
+   "key": "emongor2010",
+   "short": "Emongor 2010",
+   "full": "Emongor, V. (2010). Safflower (Carthamus tinctorius L.) the Underutilized and Neglected Crop: A Review. Asian Journal of Plant Sciences 9(6), 299–306.",
+   "doi": "10.3923/ajps.2010.299.306",
+   "url": "https://doi.org/10.3923/ajps.2010.299.306"
+  },
+  {
+   "key": "fadon2023",
+   "short": "Fadón et al. 2023",
+   "full": "Fadón, E. et al. (2023). Agroclimatic requirements and adaptation potential to global warming of Spanish cultivars of sweet cherry (Prunus avium L.). European Journal of Agronomy 145, 126774.",
+   "doi": "10.1016/j.eja.2023.126774",
+   "url": "https://doi.org/10.1016/j.eja.2023.126774"
+  },
+  {
+   "key": "fares2017",
+   "short": "Fares et al. 2017",
+   "full": "Fares, A. et al. (2017). Potential climate change impacts on citrus water requirement across major producing areas in the world. Journal of Water and Climate Change 8(4), 576–592.",
+   "doi": "10.2166/wcc.2017.182",
+   "url": "https://doi.org/10.2166/wcc.2017.182"
+  },
+  {
+   "key": "farsi2023",
+   "short": "Farsi et al. 2023",
+   "full": "Farsi, M. et al. (2023). First assessment of Iranian pomegranate germplasm using targeted metabolites and morphological traits to develop the core collection and modeling of the current and future spatial distribution under climate change conditions. PLOS ONE 18(2), e0265977.",
+   "doi": "10.1371/journal.pone.0265977",
+   "url": "https://doi.org/10.1371/journal.pone.0265977"
+  },
+  {
+   "key": "fernandez2023",
+   "short": "Fernandez et al. 2023",
+   "full": "Fernandez, E. et al. (2023). Climate change impacts on winter chill in Mediterranean temperate fruit orchards. Regional Environmental Change 23, 7.",
+   "doi": "10.1007/s10113-022-02006-x",
+   "url": "https://doi.org/10.1007/s10113-022-02006-x"
+  },
+  {
+   "key": "gruter2022",
+   "short": "Grüter et al. 2022",
+   "full": "Grüter, R. et al. (2022). Expected global suitability of coffee, cashew and avocado due to climate change. PLOS ONE 17(1), e0261976.",
+   "doi": "10.1371/journal.pone.0261976",
+   "url": "https://doi.org/10.1371/journal.pone.0261976"
+  },
+  {
+   "key": "gubbuk2018",
+   "short": "Gubbuk et al. 2018",
+   "full": "Gubbuk, H. et al. (2018). Comparison of open-field and protected banana cultivation for some morphological and yield features under subtropical conditions. Acta Horticulturae 1196, 173–178.",
+   "doi": "10.17660/ActaHortic.2018.1196.21",
+   "url": "https://doi.org/10.17660/ActaHortic.2018.1196.21"
+  },
+  {
+   "key": "gurkan2020",
+   "short": "Gurkan et al. 2020",
+   "full": "Gurkan, H. et al. (2020). Estimating the potential impact of climate change on sunflower yield in the Konya province of Turkey. The Journal of Agricultural Science 158(10), 806–818.",
+   "doi": "10.1017/S0021859621000101",
+   "url": "https://doi.org/10.1017/S0021859621000101"
+  },
+  {
+   "key": "gurkan2023",
+   "short": "Gürkan 2023",
+   "full": "Gürkan, H. (2023). Evaluation of the Impacts of Climate Change on Sunflower with Aquacrop Model. Tekirdağ Ziraat Fakültesi Dergisi 20(4), 933–947.",
+   "doi": "10.33462/jotaf.1240401",
+   "url": "https://doi.org/10.33462/jotaf.1240401"
+  },
+  {
+   "key": "hinojosa2018",
+   "short": "Hinojosa et al. 2018",
+   "full": "Hinojosa, L. et al. (2018). Quinoa Abiotic Stress Responses: A Review. Plants 7(4), 106.",
+   "doi": "10.3390/plants7040106",
+   "url": "https://doi.org/10.3390/plants7040106"
+  },
+  {
+   "key": "hultgren2025",
+   "short": "Hultgren et al. 2025",
+   "full": "Hultgren, A. et al. (2025). Impacts of climate change on global agriculture accounting for adaptation. Nature 642(8068), 644–652.",
+   "doi": "10.1038/s41586-025-09085-w",
+   "url": "https://doi.org/10.1038/s41586-025-09085-w"
+  },
+  {
+   "key": "ipcc2021spm",
+   "short": "IPCC 2021 (AR6 WGI SPM)",
+   "full": "IPCC (2021). Summary for Policymakers. In: Masson-Delmotte, V. et al. (eds.), Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, pp. 3–32.",
+   "doi": "10.1017/9781009157896.001",
+   "url": "https://doi.org/10.1017/9781009157896.001"
+  },
+  {
+   "key": "ikinci2025",
+   "short": "İkinci 2025",
+   "full": "İkinci, A. (2025). Sunburn in Pomegranate (Punica granatum L.) Fruit: Causes and Integrated Management Practices for Its Prevention. Journal of Agriculture 8, 195–211.",
+   "doi": "10.46876/ja.1799371",
+   "url": "https://doi.org/10.46876/ja.1799371"
+  },
+  {
+   "key": "irdem2022",
+   "short": "İrdem 2022",
+   "full": "İrdem, C. (2022). Effects of Temperature and Precipitation on Tea Yield in Turkey. Black Sea Journal of Agriculture 5(2), 126–136.",
+   "doi": "10.47115/bsagriculture.1056132",
+   "url": "https://doi.org/10.47115/bsagriculture.1056132"
+  },
+  {
+   "key": "izmirli2023",
+   "short": "İzmirli & Gül 2023",
+   "full": "İzmirli, Ş.G., Gül, S. (2023). Modeling of current and future distributions of Camellia sinensis in Türkiye under climate change. Theoretical and Applied Climatology 154, 1323–1332.",
+   "doi": "10.1007/s00704-023-04627-6",
+   "url": "https://doi.org/10.1007/s00704-023-04627-6"
+  },
+  {
+   "key": "jans2021",
+   "short": "Jans et al. 2021",
+   "full": "Jans, Y. et al. (2021). Global cotton production under climate change – Implications for yield and water consumption. Hydrology and Earth System Sciences 25, 2027–2044.",
+   "doi": "10.5194/hess-25-2027-2021",
+   "url": "https://doi.org/10.5194/hess-25-2027-2021"
+  },
+  {
+   "key": "jayasinghe2020",
+   "short": "Jayasinghe & Kumar 2020",
+   "full": "Jayasinghe, S.L., Kumar, L. (2020). Climate Change May Imperil Tea Production in the Four Major Tea Producers According to Climate Prediction Models. Agronomy 10(10), 1536.",
+   "doi": "10.3390/agronomy10101536",
+   "url": "https://doi.org/10.3390/agronomy10101536"
+  },
+  {
+   "key": "jagermeyr2021",
+   "short": "Jägermeyr et al. 2021",
+   "full": "Jägermeyr, J. et al. (2021). Climate impacts on global agriculture emerge earlier in new generation of climate and crop models. Nature Food 2(11), 873–885.",
+   "doi": "10.1038/s43016-021-00400-y",
+   "url": "https://doi.org/10.1038/s43016-021-00400-y"
+  },
+  {
+   "key": "kaman2025",
+   "short": "Kaman et al. 2025",
+   "full": "Kaman, H. et al. (2025). Prospects of training system and deficit irrigation for increasing yield and water use efficiency of pitaya (Hylocereus spp.) in the Mediterranean region. BMC Plant Biology 25, 1431.",
+   "doi": "10.1186/s12870-025-07442-5",
+   "url": "https://doi.org/10.1186/s12870-025-07442-5"
+  },
+  {
+   "key": "karami2018",
+   "short": "Karami et al. 2018",
+   "full": "Karami, H. et al. (2018). Cold Hardiness Assessment in Seven Commercial Fig Cultivars (Ficus Carica L.). Gesunde Pflanzen 70, 195–203.",
+   "doi": "10.1007/s10343-018-0431-2",
+   "url": "https://doi.org/10.1007/s10343-018-0431-2"
+  },
+  {
+   "key": "kassout2024",
+   "short": "Kassout et al. 2024",
+   "full": "Kassout, J. et al. (2024). Potential geographical distribution of Carob tree (Ceratonia siliqua L., Leguminosae) in Morocco under climate change. African and Mediterranean Agricultural Journal – Al Awamia 145, 73–86.",
+   "doi": "10.34874/IMIST.PRSM/afrimed-i145.48246",
+   "url": "https://doi.org/10.34874/IMIST.PRSM/afrimed-i145.48246"
+  },
+  {
+   "key": "koparan2025",
+   "short": "Koparan 2025",
+   "full": "Koparan, M. (2025). Kayısı Çeşitlerinde Rakım Farklılığının Zirai Don Olayına Etkisinin Belirlenmesi: Malatya-Akçadağ Örneği [Determination of the Effect of Altitude Difference on Agricultural Frost Events in Apricot Cultivars: The Case of Malatya-Akçadağ]. Bahçe 54, 103–112.",
+   "doi": "10.53471/bahce.1742938",
+   "url": "https://doi.org/10.53471/bahce.1742938"
+  },
+  {
+   "key": "koc2024",
+   "short": "Koç 2024",
+   "full": "Koç, H. (2024). The effects of seasonal climate change on the safflower genotypes productivity under Central Anatolian conditions. Journal of the American Oil Chemists' Society 102(2), 295–304.",
+   "doi": "10.1002/aocs.12886",
+   "url": "https://doi.org/10.1002/aocs.12886"
+  },
+  {
+   "key": "koster2026",
+   "short": "Köster et al. 2026",
+   "full": "Köster, M. et al. (2026). Projected shifts in climate and spring barley yields under future (CMIP6) scenarios across eight environmental zones in Europe. Agricultural and Forest Meteorology 378, 111024.",
+   "doi": "10.1016/j.agrformet.2026.111024",
+   "url": "https://doi.org/10.1016/j.agrformet.2026.111024"
+  },
+  {
+   "key": "lee2021",
+   "short": "Lee et al. 2021 (AR6 WGI Ch. 4)",
+   "full": "Lee, J.-Y. et al. (2021). Future Global Climate: Scenario-based Projections and Near-term Information (Chapter 4). In: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the IPCC. Cambridge University Press, pp. 553–672.",
+   "doi": "10.1017/9781009157896.006",
+   "url": "https://doi.org/10.1017/9781009157896.006"
+  },
+  {
+   "key": "luedeling2009",
+   "short": "Luedeling et al. 2009",
+   "full": "Luedeling, E. et al. (2009). Climatic changes lead to declining winter chill for fruit and nut trees in California during 1950–2099. PLoS ONE 4(7), e6166.",
+   "doi": "10.1371/journal.pone.0006166",
+   "url": "https://doi.org/10.1371/journal.pone.0006166"
+  },
+  {
+   "key": "mellal2023",
+   "short": "Mellal et al. 2023",
+   "full": "Mellal, M.K. et al. (2023). Combined Effects of Climate and Pests on Fig (Ficus carica L.) Yield in a Mediterranean Region: Implications for Sustainable Agricultural Strategies. Sustainability 15(7), 5820.",
+   "doi": "10.3390/su15075820",
+   "url": "https://doi.org/10.3390/su15075820"
+  },
+  {
+   "key": "montsant2021",
+   "short": "Montsant et al. 2021",
+   "full": "Montsant, A. et al. (2021). Modelling the impacts of climate change on potential cultivation area and water deficit in five Mediterranean crops. Spanish Journal of Agricultural Research 19(2), e0301.",
+   "doi": "10.5424/sjar/2021192-17112",
+   "url": "https://doi.org/10.5424/sjar/2021192-17112"
+  },
+  {
+   "key": "moralescastilla2020",
+   "short": "Morales-Castilla et al. 2020",
+   "full": "Morales-Castilla, I. et al. (2020). Diversity buffers winegrowing regions from climate change losses. Proceedings of the National Academy of Sciences 117(6), 2864–2869.",
+   "doi": "10.1073/pnas.1906731117",
+   "url": "https://doi.org/10.1073/pnas.1906731117"
+  },
+  {
+   "key": "nerd2002",
+   "short": "Nerd et al. 2002",
+   "full": "Nerd, A. et al. (2002). High summer temperatures inhibit flowering in vine pitaya crops (Hylocereus spp.). Scientia Horticulturae 96, 343–350.",
+   "doi": "10.1016/S0304-4238(02)00093-6",
+   "url": "https://doi.org/10.1016/S0304-4238(02)00093-6"
+  },
+  {
+   "key": "nobel2002",
+   "short": "Nobel & De la Barrera 2002",
+   "full": "Nobel, P.S., De la Barrera, E. (2002). High Temperatures and Net CO2 Uptake, Growth, and Stem Damage for the Hemiepiphytic Cactus Hylocereus undatus. Biotropica 34(2), 225–231.",
+   "doi": "10.1111/j.1744-7429.2002.tb00533.x",
+   "url": "https://doi.org/10.1111/j.1744-7429.2002.tb00533.x"
+  },
+  {
+   "key": "pazdyderska2021",
+   "short": "Paź-Dyderska et al. 2021",
+   "full": "Paź-Dyderska, S. et al. (2021). Possible changes in spatial distribution of walnut (Juglans regia L.) in Europe under warming climate. Regional Environmental Change 21, 18.",
+   "doi": "10.1007/s10113-020-01745-z",
+   "url": "https://doi.org/10.1007/s10113-020-01745-z"
+  },
+  {
+   "key": "peng2004",
+   "short": "Peng et al. 2004",
+   "full": "Peng, S. et al. (2004). Rice yields decline with higher night temperature from global warming. Proceedings of the National Academy of Sciences 101(27), 9971–9975.",
+   "doi": "10.1073/pnas.0403720101",
+   "url": "https://doi.org/10.1073/pnas.0403720101"
+  },
+  {
+   "key": "pope2015",
+   "short": "Pope et al. 2015",
+   "full": "Pope, K.S. et al. (2015). Nut crop yield records show that budbreak-based chilling requirements may not reflect yield decline chill thresholds. International Journal of Biometeorology 59(6), 707–715.",
+   "doi": "10.1007/s00484-014-0881-x",
+   "url": "https://doi.org/10.1007/s00484-014-0881-x"
+  },
+  {
+   "key": "prasad2015",
+   "short": "Prasad et al. 2015",
+   "full": "Prasad, P.V.V. et al. (2015). Impact of high temperature stress on floret fertility and individual grain weight of grain sorghum: sensitive stages and thresholds for temperature and duration. Frontiers in Plant Science 6, 820.",
+   "doi": "10.3389/fpls.2015.00820",
+   "url": "https://doi.org/10.3389/fpls.2015.00820"
+  },
+  {
+   "key": "raymundo2018",
+   "short": "Raymundo et al. 2018",
+   "full": "Raymundo, R. et al. (2018). Climate change impact on global potato production. European Journal of Agronomy 100, 87–98.",
+   "doi": "10.1016/j.eja.2017.11.008",
+   "url": "https://doi.org/10.1016/j.eja.2017.11.008"
+  },
+  {
+   "key": "salehisardoei2024",
+   "short": "Salehi Sardoei et al. 2024",
+   "full": "Salehi Sardoei, A. et al. (2024). Screening Citrus Cultivars for Freezing Tolerance by Reliable Methods. International Journal of Horticultural Science and Technology 11(1), 25–34.",
+   "doi": "10.22059/ijhst.2023.349184.589",
+   "url": "https://doi.org/10.22059/ijhst.2023.349184.589"
+  },
+  {
+   "key": "sarica2024",
+   "short": "Sarıca 2024",
+   "full": "Sarıca, D. (2024). How Does Türkiye's Cherry Production Respond to Climate Change?: a Panel Cointegration Analysis. Applied Fruit Science 66, 901–911.",
+   "doi": "10.1007/s10341-024-01096-7",
+   "url": "https://doi.org/10.1007/s10341-024-01096-7"
+  },
+  {
+   "key": "schlenker2009",
+   "short": "Schlenker & Roberts 2009",
+   "full": "Schlenker, W., Roberts, M.J. (2009). Nonlinear temperature effects indicate severe damages to U.S. crop yields under climate change. Proceedings of the National Academy of Sciences 106(37), 15594–15598.",
+   "doi": "10.1073/pnas.0906865106",
+   "url": "https://doi.org/10.1073/pnas.0906865106"
+  },
+  {
+   "key": "scuderi2025",
+   "short": "Scuderi et al. 2025",
+   "full": "Scuderi, D. et al. (2025). The climate of mango producing areas: a case study on three islands. Acta Horticulturae 1415, 25–32.",
+   "doi": "10.17660/ActaHortic.2025.1415.3",
+   "url": "https://doi.org/10.17660/ActaHortic.2025.1415.3"
+  },
+  {
+   "key": "selim2018",
+   "short": "Selim et al. 2018",
+   "full": "Selim, S. et al. (2018). Site selection for avocado cultivation using GIS and multi-criteria decision analyses: Case study of Antalya, Turkey. Computers and Electronics in Agriculture 154, 450–459.",
+   "doi": "10.1016/j.compag.2018.09.038",
+   "url": "https://doi.org/10.1016/j.compag.2018.09.038"
+  },
+  {
+   "key": "singh1997",
+   "short": "Singh et al. 1997",
+   "full": "Singh, K.B. et al. (1997). Superiority of Winter Sowing over Traditional Spring Sowing of Chickpea in the Mediterranean Region. Agronomy Journal 89(1), 112–118.",
+   "doi": "10.2134/agronj1997.00021962008900010017x",
+   "url": "https://doi.org/10.2134/agronj1997.00021962008900010017x"
+  },
+  {
+   "key": "sita2017a",
+   "short": "Sita et al. 2017a",
+   "full": "Sita, K. et al. (2017a). Food Legumes and Rising Temperatures: Effects, Adaptive Functional Mechanisms Specific to Reproductive Growth Stage and Strategies to Improve Heat Tolerance. Frontiers in Plant Science 8, 1658.",
+   "doi": "10.3389/fpls.2017.01658",
+   "url": "https://doi.org/10.3389/fpls.2017.01658"
+  },
+  {
+   "key": "sita2017b",
+   "short": "Sita et al. 2017b",
+   "full": "Sita, K. et al. (2017b). Identification of High-Temperature Tolerant Lentil (Lens culinaris Medik.) Genotypes through Leaf and Pollen Traits. Frontiers in Plant Science 8, 744.",
+   "doi": "10.3389/fpls.2017.00744",
+   "url": "https://doi.org/10.3389/fpls.2017.00744"
+  },
+  {
+   "key": "sanchezsastre2020",
+   "short": "Sánchez-Sastre et al. 2020",
+   "full": "Sánchez-Sastre, L.F. et al. (2020). Sugar Beet Agronomic Performance Evolution in NW Spain in Future Scenarios of Climate Change. Agronomy 10(1), 91.",
+   "doi": "10.3390/agronomy10010091",
+   "url": "https://doi.org/10.3390/agronomy10010091"
+  },
+  {
+   "key": "tack2017",
+   "short": "Tack et al. 2017",
+   "full": "Tack, J. et al. (2017). Disaggregating sorghum yield reductions under warming scenarios exposes narrow genetic diversity in US breeding programs. Proceedings of the National Academy of Sciences 114(35), 9296–9301.",
+   "doi": "10.1073/pnas.1706383114",
+   "url": "https://doi.org/10.1073/pnas.1706383114"
+  },
+  {
+   "key": "taghavi2021",
+   "short": "Taghavi et al. 2021",
+   "full": "Taghavi, T. et al. (2021). Hazelnut floral phenology in southern Ontario. Canadian Journal of Plant Science 101(6), 803–817.",
+   "doi": "10.1139/cjps-2020-0333",
+   "url": "https://doi.org/10.1139/cjps-2020-0333"
+  },
+  {
+   "key": "umar2025",
+   "short": "Umar et al. 2025",
+   "full": "Umar, U.M. et al. (2025). Determination of Evapotranspiration and Optimum Irrigation Schedule for Cotton in Çukurova Region Using CROPWAT Model. Turkish Journal of Agriculture – Food Science and Technology 13(5), 1146–1151.",
+   "doi": "10.24925/turjaf.v13i5.1146-1151.7287",
+   "url": "https://doi.org/10.24925/turjaf.v13i5.1146-1151.7287"
+  },
+  {
+   "key": "unterberger2018",
+   "short": "Unterberger et al. 2018",
+   "full": "Unterberger, C. et al. (2018). Spring frost risk for regional apple production under a warmer climate. PLOS ONE 13(7), e0200201.",
+   "doi": "10.1371/journal.pone.0200201",
+   "url": "https://doi.org/10.1371/journal.pone.0200201"
+  },
+  {
+   "key": "ustaoglu2014",
+   "short": "Ustaoglu & Karaca 2014",
+   "full": "Ustaoglu, B., Karaca, M. (2014). The effects of climate change on spatiotemporal changes of hazelnut (Corylus avellana) cultivation areas in the Black Sea Region, Turkey. Applied Ecology and Environmental Research 12(2), 309–324.",
+   "doi": "10.15666/aeer/1202_309324",
+   "url": "https://doi.org/10.15666/aeer/1202_309324"
+  },
+  {
+   "key": "vahdati2019",
+   "short": "Vahdati et al. 2019",
+   "full": "Vahdati, K. et al. (2019). Applying the AOGCM-AR5 models to the assessments of land suitability for walnut cultivation in response to climate change: A case study of Iran. PLOS ONE 14(6), e0218725.",
+   "doi": "10.1371/journal.pone.0218725",
+   "url": "https://doi.org/10.1371/journal.pone.0218725"
+  },
+  {
+   "key": "vanleeuwen2024",
+   "short": "van Leeuwen et al. 2024",
+   "full": "van Leeuwen, C. et al. (2024). Climate change impacts and adaptations of wine production. Nature Reviews Earth & Environment 5, 258–275.",
+   "doi": "10.1038/s43017-024-00521-5",
+   "url": "https://doi.org/10.1038/s43017-024-00521-5"
+  },
+  {
+   "key": "vanli2019",
+   "short": "Vanli et al. 2019",
+   "full": "Vanli, Ö. et al. (2019). Using crop modeling to evaluate the impacts of climate change on wheat in southeastern Turkey. Environmental Science and Pollution Research 26, 29397–29408.",
+   "doi": "10.1007/s11356-019-06061-6",
+   "url": "https://doi.org/10.1007/s11356-019-06061-6"
+  },
+  {
+   "key": "varma2025",
+   "short": "Varma et al. 2025",
+   "full": "Varma, V. et al. (2025). Socio-economic factors constrain climate change adaptation in a tropical export crop. Nature Food 6(4), 343–352.",
+   "doi": "10.1038/s43016-025-01130-1",
+   "url": "https://doi.org/10.1038/s43016-025-01130-1"
+  },
+  {
+   "key": "voloudakis2015",
+   "short": "Voloudakis et al. 2015",
+   "full": "Voloudakis, D. et al. (2015). Prediction of climate change impacts on cotton yields in Greece under eight climatic models using the AquaCrop crop simulation model and discriminant function analysis. Agricultural Water Management 147, 116–128.",
+   "doi": "10.1016/j.agwat.2014.07.028",
+   "url": "https://doi.org/10.1016/j.agwat.2014.07.028"
+  },
+  {
+   "key": "xie2018",
+   "short": "Xie et al. 2018",
+   "full": "Xie, W. et al. (2018). Decreases in global beer supply due to extreme drought and heat. Nature Plants 4(11), 964–973.",
+   "doi": "10.1038/s41477-018-0263-1",
+   "url": "https://doi.org/10.1038/s41477-018-0263-1"
+  },
+  {
+   "key": "yagiz2020",
+   "short": "Yagiz et al. 2020",
+   "full": "Yagiz, A.K. et al. (2020). Exploration of Climate Change Effects on Shifting Potato Seasons, Yields and Water Use Employing NASA and National Long-Term Weather Data. Potato Research 63(4), 565–577.",
+   "doi": "10.1007/s11540-020-09457-x",
+   "url": "https://doi.org/10.1007/s11540-020-09457-x"
+  },
+  {
+   "key": "yazar2015",
+   "short": "Yazar et al. 2015",
+   "full": "Yazar, A. et al. (2015). Saline water irrigation of quinoa (Chenopodium quinoa) under Mediterranean conditions. Crop & Pasture Science 66(10), 993–1002.",
+   "doi": "10.1071/CP14243",
+   "url": "https://doi.org/10.1071/CP14243"
+  },
+  {
+   "key": "yazici2017",
+   "short": "Yazıcı & Ercişli 2017",
+   "full": "Yazıcı, K., Ercişli, S. (2017). Characterization of hybrid pomegranate genotypes based on sunburn and cracking traits related to maturation time. Journal of Applied Botany and Food Quality 90, 132–139.",
+   "doi": "10.5073/JABFQ.2017.090.016",
+   "url": "https://doi.org/10.5073/JABFQ.2017.090.016"
+  },
+  {
+   "key": "yetik2023",
+   "short": "Yetik et al. 2023",
+   "full": "Yetik, A.K. et al. (2023). Simulating the Yield Responses of Sugar Beet to Different Climate Change Scenarios by LINTUL-MULTICROP Model. Black Sea Journal of Engineering and Science 6(2), 53–59.",
+   "doi": "10.34248/bsengineering.1181263",
+   "url": "https://doi.org/10.34248/bsengineering.1181263"
+  },
+  {
+   "key": "yesilkoy2021",
+   "short": "Yeşilköy & Şaylan 2021",
+   "full": "Yeşilköy, S., Şaylan, L. (2021). Yields and water footprints of sunflower and winter wheat under different climate projections. Journal of Cleaner Production 298, 126780.",
+   "doi": "10.1016/j.jclepro.2021.126780",
+   "url": "https://doi.org/10.1016/j.jclepro.2021.126780"
+  },
+  {
+   "key": "yi2025",
+   "short": "Yi et al. 2025",
+   "full": "Yi, S. et al. (2025). Predicting the potential geographical distribution of mango, an important tropical economic tree species, under current and climate change based on Maxent model. Frontiers in Plant Science 16, 1633654.",
+   "doi": "10.3389/fpls.2025.1633654",
+   "url": "https://doi.org/10.3389/fpls.2025.1633654"
+  },
+  {
+   "key": "zhao2017",
+   "short": "Zhao et al. 2017",
+   "full": "Zhao, C. et al. (2017). Temperature increase reduces global yields of major crops in four independent estimates. Proceedings of the National Academy of Sciences 114(35), 9326–9331.",
+   "doi": "10.1073/pnas.1701762114",
+   "url": "https://doi.org/10.1073/pnas.1701762114"
+  },
+  {
+   "key": "ozdel2025",
+   "short": "Özdel et al. 2025",
+   "full": "Özdel, M.M. et al. (2025). Climate-Driven Futures of Olive (Olea europaea L.): Machine Learning-Based Ensemble Species Distribution Modelling of Northward Shifts Under Aridity Stress. Plants 14(24), 3774.",
+   "doi": "10.3390/plants14243774",
+   "url": "https://doi.org/10.3390/plants14243774"
+  },
+  {
+   "key": "bregaglio2021",
+   "short": "Bregaglio et al. 2021",
+   "full": "Bregaglio, S., Fischer, K., Ginaldi, F., Valeriano, T., Giustarini, L. (2021). The HADES yield prediction system: a case study on the Turkish hazelnut sector. Frontiers in Plant Science 12, 665471.",
+   "doi": "10.3389/fpls.2021.665471",
+   "url": "https://doi.org/10.3389/fpls.2021.665471"
+  },
+  {
+   "key": "erdogan2018",
+   "short": "Erdoğan 2018",
+   "full": "Erdoğan, V. (2018). Hazelnut production in Turkey: current situation, problems and future prospects. Acta Horticulturae 1226, 13–24.",
+   "doi": "10.17660/ActaHortic.2018.1226.2",
+   "url": "https://doi.org/10.17660/ActaHortic.2018.1226.2"
+  },
+  {
+   "key": "albayrak2025",
+   "short": "Albayrak 2025",
+   "full": "Albayrak, A. (2025). AI-enhanced projections of hazelnut production under climate change: a regional analysis from Turkey. Applied Fruit Science 67(5), 309.",
+   "doi": "10.1007/s10341-025-01547-9",
+   "url": "https://doi.org/10.1007/s10341-025-01547-9"
+  },
+  {
+   "key": "irdem2021",
+   "short": "İrdem 2021",
+   "full": "İrdem, C. (2021). Türkiye fındık verimi üzerinde sıcaklık ve yağışın etkileri. Coğrafi Bilimler Dergisi 19(1), 242–262.",
+   "doi": "10.33688/aucbd.878206",
+   "url": "https://doi.org/10.33688/aucbd.878206"
+  },
+  {
+   "key": "luciani2020",
+   "short": "Luciani et al. 2020",
+   "full": "Luciani, E., Palliotti, A., Frioni, T., Tombesi, S., Villa, F., Zadra, C., Farinelli, D. (2020). Kaolin treatments on Tonda Giffoni hazelnut (Corylus avellana L.) for the control of heat stress damages. Scientia Horticulturae 263, 109097.",
+   "doi": "10.1016/j.scienta.2019.109097",
+   "url": "https://doi.org/10.1016/j.scienta.2019.109097"
+  },
+  {
+   "key": "dilena2022",
+   "short": "Di Lena et al. 2022",
+   "full": "Di Lena, B., Curci, G., Vergni, L., Farinelli, D. (2022). Climatic suitability of different areas in Abruzzo, Central Italy, for the cultivation of hazelnut. Horticulturae 8(7), 580.",
+   "doi": "10.3390/horticulturae8070580",
+   "url": "https://doi.org/10.3390/horticulturae8070580"
+  },
+  {
+   "key": "heun1997",
+   "short": "Heun et al. 1997",
+   "full": "Heun, M., Schäfer-Pregl, R., Klawan, D., Castagna, R., Accerbi, M., Borghi, B., Salamini, F. (1997). Site of einkorn wheat domestication identified by DNA fingerprinting. Science 278(5341), 1312–1314.",
+   "doi": "10.1126/science.278.5341.1312",
+   "url": "https://doi.org/10.1126/science.278.5341.1312"
+  },
+  {
+   "key": "vonwettberg2018",
+   "short": "von Wettberg et al. 2018",
+   "full": "von Wettberg, E. J. B. et al. (2018). Ecology and genomics of an important crop wild relative as a prelude to agricultural innovation. Nature Communications 9, 649.",
+   "doi": "10.1038/s41467-018-02867-z",
+   "url": "https://doi.org/10.1038/s41467-018-02867-z"
+  },
+  {
+   "key": "challinor2016",
+   "short": "Challinor et al. 2016",
+   "full": "Challinor, A. J., Koehler, A.-K., Ramirez-Villegas, J., Whitfield, S., Das, B. (2016). Current warming will reduce yields unless maize breeding and seed systems adapt immediately. Nature Climate Change 6, 954–958.",
+   "doi": "10.1038/nclimate3061",
+   "url": "https://doi.org/10.1038/nclimate3061"
+  },
+  {
+   "key": "mackay2011",
+   "short": "Mackay et al. 2011",
+   "full": "Mackay, I., Horwell, A., Garner, J., White, J., McKee, J., Philpott, H. (2011). Reanalyses of the historical series of UK variety trials to quantify the contributions of genetic and environmental factors to trends and variability in yield over time. Theoretical and Applied Genetics 122, 225–238.",
+   "doi": "10.1007/s00122-010-1438-y",
+   "url": "https://doi.org/10.1007/s00122-010-1438-y"
+  },
+  {
+   "key": "laidig2017",
+   "short": "Laidig et al. 2017",
+   "full": "Laidig, F., Piepho, H.-P., Rentel, D., Drobek, T., Meyer, U., Huesken, A. (2017). Breeding progress, environmental variation and correlation of winter wheat yield and quality traits in German official variety trials and on-farm during 1983–2014. Theoretical and Applied Genetics 130(1), 223–245.",
+   "doi": "10.1007/s00122-016-2810-3",
+   "url": "https://doi.org/10.1007/s00122-016-2810-3"
+  },
+  {
+   "key": "vossfels2019",
+   "short": "Voss-Fels et al. 2019",
+   "full": "Voss-Fels, K. P., Stahl, A. et al. (2019). Breeding improves wheat productivity under contrasting agrochemical input levels. Nature Plants 5, 706–714.",
+   "doi": "10.1038/s41477-019-0445-5",
+   "url": "https://doi.org/10.1038/s41477-019-0445-5"
+  },
+  {
+   "key": "castaneda2016",
+   "short": "Castañeda-Álvarez et al. 2016",
+   "full": "Castañeda-Álvarez, N. P., Khoury, C. K., Achicanoy, H. A. et al. (2016). Global conservation priorities for crop wild relatives. Nature Plants 2, 16022.",
+   "doi": "10.1038/nplants.2016.22",
+   "url": "https://doi.org/10.1038/nplants.2016.22"
+  },
+  {
+   "key": "dempewolf2017",
+   "short": "Dempewolf et al. 2017",
+   "full": "Dempewolf, H., Baute, G., Anderson, J., Kilian, B., Smith, C., Guarino, L. (2017). Past and future use of wild relatives in crop breeding. Crop Science 57(3), 1070–1082.",
+   "doi": "10.2135/cropsci2016.10.0885",
+   "url": "https://doi.org/10.2135/cropsci2016.10.0885"
+  },
+  {
+   "key": "xu2006",
+   "short": "Xu et al. 2006",
+   "full": "Xu, K., Xu, X., Fukao, T. et al. (2006). Sub1A is an ethylene-response-factor-like gene that confers submergence tolerance to rice. Nature 442, 705–708.",
+   "doi": "10.1038/nature04920",
+   "url": "https://doi.org/10.1038/nature04920"
+  },
+  {
+   "key": "dar2013",
+   "short": "Dar et al. 2013",
+   "full": "Dar, M. H., de Janvry, A., Emerick, K., Raitzer, D., Sadoulet, E. (2013). Flood-tolerant rice reduces yield variability and raises expected yield, differentially benefitting socially disadvantaged groups. Scientific Reports 3, 3315.",
+   "doi": "10.1038/srep03315",
+   "url": "https://doi.org/10.1038/srep03315"
+  },
+  {
+   "key": "setimela2017",
+   "short": "Setimela et al. 2017",
+   "full": "Setimela, P. S., Magorokosho, C., Lunduka, R. et al. (2017). On-farm yield gains with stress-tolerant maize in eastern and southern Africa. Agronomy Journal 109(2), 406–417.",
+   "doi": "10.2134/agronj2015.0540",
+   "url": "https://doi.org/10.2134/agronj2015.0540"
+  },
+  {
+   "key": "watson2018",
+   "short": "Watson et al. 2018",
+   "full": "Watson, A., Ghosh, S., Williams, M. J. et al. (2018). Speed breeding is a powerful tool to accelerate crop research and breeding. Nature Plants 4, 23–29.",
+   "doi": "10.1038/s41477-017-0083-8",
+   "url": "https://doi.org/10.1038/s41477-017-0083-8"
+  },
+  {
+   "key": "crossa2017",
+   "short": "Crossa et al. 2017",
+   "full": "Crossa, J., Pérez-Rodríguez, P. et al. (2017). Genomic selection in plant breeding: methods, models, and perspectives. Trends in Plant Science 22(11), 961–975.",
+   "doi": "10.1016/j.tplants.2017.08.011",
+   "url": "https://doi.org/10.1016/j.tplants.2017.08.011"
+  },
+  {
+   "key": "zabel2021",
+   "short": "Zabel et al. 2021",
+   "full": "Zabel, F., Müller, C., Elliott, J. et al. (2021). Large potential for crop production adaptation depends on available future varieties. Global Change Biology 27(16), 3870–3882.",
+   "doi": "10.1111/gcb.15649",
+   "url": "https://doi.org/10.1111/gcb.15649"
+  },
+  {
+   "key": "minoli2022",
+   "short": "Minoli et al. 2022",
+   "full": "Minoli, S., Jägermeyr, J., Asseng, S., Urfels, A., Müller, C. (2022). Global crop yields can be lifted by timely adaptation of growing periods to climate change. Nature Communications 13, 7079.",
+   "doi": "10.1038/s41467-022-34411-5",
+   "url": "https://doi.org/10.1038/s41467-022-34411-5"
+  },
+  {
+   "key": "ipcc2022spm",
+   "short": "IPCC 2022 (AR6 WGII SPM)",
+   "full": "IPCC (2022). Summary for Policymakers. In: Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report. Cambridge University Press, 3–33.",
+   "doi": "10.1017/9781009325844.001",
+   "url": "https://doi.org/10.1017/9781009325844.001"
+  },
+  {
+   "key": "ipcc2022ch5",
+   "short": "Bezner Kerr et al. 2022 (IPCC)",
+   "full": "Bezner Kerr, R., Hasegawa, T., Lasco, R. et al. (2022). Food, Fibre, and Other Ecosystem Products. In: Climate Change 2022: Impacts, Adaptation and Vulnerability (IPCC AR6 WGII), Chapter 5. Cambridge University Press, 713–906.",
+   "doi": "10.1017/9781009325844.007",
+   "url": "https://doi.org/10.1017/9781009325844.007"
+  },
+  {
+   "key": "tagem2026fr",
+   "short": "TAGEM 2026",
+   "full": "TAGEM (2026). 2025 Yılı Birim Faaliyet Raporu. Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü, Ankara.",
+   "url": "https://www.tarimorman.gov.tr/TAGEM/Belgeler/Faaliyet%20Raporlar%C4%B1/TAGEM%20Faaliyet%20Raporu%202025.pdf"
+  },
+  {
+   "key": "tob2023kuraklik",
+   "short": "Tarım ve Orman Bakanlığı 2023",
+   "short_en": "Ministry of Agriculture and Forestry 2023",
+   "full": "Tarım ve Orman Bakanlığı (2023). Kuraklığa dayanıklı çeşitlerin ekimi yaygınlaştırılıyor. Bakanlık açıklaması, 30 Mart 2023 (Anadolu Ajansı).",
+   "url": "https://www.tarimorman.gov.tr/Haber/5803"
+  },
+  {
+   "key": "freitas2023",
+   "short": "Freitas et al. 2023",
+   "full": "Freitas, T.R. et al. (2023). Evaluation of historical and future thermal conditions for almond trees in north-eastern Portugal. Climatic Change 176(7), 89.",
+   "doi": "10.1007/s10584-023-03569-2",
+   "url": "https://doi.org/10.1007/s10584-023-03569-2"
+  },
+  {
+   "key": "orozco2024",
+   "short": "Orozco et al. 2024",
+   "full": "Orozco, J. et al. (2024). Losing ground: projections of climate-driven bloom shifts and their implications for the future of California's almond orchards. Scientific Reports 14, 636.",
+   "doi": "10.1038/s41598-023-50688-y",
+   "url": "https://doi.org/10.1038/s41598-023-50688-y"
+  },
+  {
+   "key": "sperling2023",
+   "short": "Sperling et al. 2023",
+   "full": "Sperling, O. et al. (2023). Deficit irrigation limits almond trees' photosynthetic productivity and compromises yields. Agricultural Water Management 289, 108562.",
+   "doi": "10.1016/j.agwat.2023.108562",
+   "url": "https://doi.org/10.1016/j.agwat.2023.108562"
+  },
+  {
+   "key": "ankara_antepfistigi",
+   "short": "Ankara Üniversitesi",
+   "short_en": "Ankara University",
+   "full": "Ankara Üniversitesi Ziraat Fakültesi, Bahçe Bitkileri. Antepfıstığı – II: Antepfıstığının ekolojik istekleri. Açık ders notu (AÜ Açık Ders).",
+   "url": "https://acikders.ankara.edu.tr/mod/resource/view.php?id=89612"
+  }
+ ]
+}
